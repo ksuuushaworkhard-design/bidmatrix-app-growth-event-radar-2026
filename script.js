@@ -100,13 +100,16 @@ function bindEvents() {
 
   chips.forEach((chip) => {
     chip.addEventListener("click", () => {
-      const key = chip.dataset.filterType;
+      const type = chip.dataset.filterType;
+      const field = chip.dataset.filterField || type;
       const value = chip.dataset.filterValue;
-      const index = state.quickFilters.findIndex((filter) => filter.key === key && filter.value === value);
+      const index = state.quickFilters.findIndex((filter) => (
+        filter.type === type && filter.field === field && filter.value === value
+      ));
       if (index >= 0) {
         state.quickFilters.splice(index, 1);
       } else {
-        state.quickFilters.push({ key, value });
+        state.quickFilters.push({ type, field, value });
       }
       syncChips();
       render();
@@ -187,12 +190,7 @@ function render() {
 function filteredEvents() {
   return state.events.filter((event) => {
     const passesSearch = !state.search || searchText(event).includes(state.search);
-    const passesQuickFilters = !state.quickFilters.length || state.quickFilters.some((filter) => {
-      const eventValue = event[filter.key];
-      return Array.isArray(eventValue)
-        ? eventValue.includes(filter.value)
-        : eventValue === filter.value;
-    });
+    const passesQuickFilters = eventMatchesQuickFilters(event);
     const passesFilters = Object.entries(state.filters).every(([key, value]) => {
       if (!value) return true;
       const eventValue = event[key];
@@ -200,6 +198,27 @@ function filteredEvents() {
     });
     return passesSearch && passesQuickFilters && passesFilters;
   });
+}
+
+function eventMatchesQuickFilters(event) {
+  if (!state.quickFilters.length) return true;
+
+  const groupedFilters = state.quickFilters.reduce((groups, filter) => {
+    if (!groups[filter.type]) groups[filter.type] = [];
+    groups[filter.type].push(filter);
+    return groups;
+  }, {});
+
+  return Object.values(groupedFilters).every((filters) => {
+    return filters.some((filter) => (
+      eventMatchesFilter(event, filter.field, filter.value)
+    ));
+  });
+}
+
+function eventMatchesFilter(event, key, value) {
+  const eventValue = event[key];
+  return Array.isArray(eventValue) ? eventValue.includes(value) : eventValue === value;
 }
 
 function searchText(event) {
@@ -227,7 +246,9 @@ function syncChips() {
     chip.classList.toggle(
       "is-active",
       state.quickFilters.some((filter) => (
-        filter.key === chip.dataset.filterType && filter.value === chip.dataset.filterValue
+        filter.type === chip.dataset.filterType
+        && filter.field === (chip.dataset.filterField || chip.dataset.filterType)
+        && filter.value === chip.dataset.filterValue
       ))
     );
     chip.setAttribute("aria-pressed", chip.classList.contains("is-active") ? "true" : "false");
