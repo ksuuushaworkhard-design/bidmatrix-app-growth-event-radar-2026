@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Embeddable BidMatrix event search widget for 2026 app growth events">
+  <title>App Growth Event Radar 2026 | BidMatrix</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="widget-shell">
+    <section class="search-panel" aria-label="Search and filters">
+      <div class="panel-heading">
+        <div>
+          <p class="eyebrow">BidMatrix Event Radar</p>
+          <h1>Search 2026 events</h1>
+        </div>
+        <p id="resultCount">Loading events...</p>
+      </div>
+
+      <div class="search-row">
+        <label class="search-box" for="searchInput">
+          <span>Search events</span>
+          <input id="searchInput" type="search" placeholder="Search by event, city, region, tags or goal">
+        </label>
+        <label class="sort-box" for="sortSelect">
+          <span>Sort by</span>
+          <select id="sortSelect">
+            <option value="soonest">Soonest first</option>
+            <option value="az">A-Z</option>
+            <option value="region">Region</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="quick-filters" aria-label="Quick filters">
+        <button type="button" class="chip" data-filter-type="mainCategory" data-filter-value="Mobile / App Growth">App Growth</button>
+        <button type="button" class="chip" data-filter-type="verticalTags" data-filter-value="Gaming">Gaming</button>
+        <button type="button" class="chip" data-filter-type="verticalTags" data-filter-value="iGaming">iGaming</button>
+        <button type="button" class="chip" data-filter-type="verticalTags" data-filter-value="Affiliate">Affiliate</button>
+        <button type="button" class="chip" data-filter-type="verticalTags" data-filter-value="AdTech">AdTech</button>
+        <button type="button" class="chip" data-filter-type="verticalTags" data-filter-value="Programmatic">Programmatic</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-value="Europe">Europe</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-value="APAC">APAC</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-value="North America">North America</button>
+        <button type="button" class="chip" data-filter-type="goalTags" data-filter-value="Lead generation">Lead Generation</button>
+        <button type="button" class="chip" data-filter-type="goalTags" data-filter-value="Partnerships">Partnerships</button>
+      </div>
+
+      <div class="filters-grid">
+        <label>Region<select id="regionFilter" data-filter="region"></select></label>
+        <label>Country<select id="countryFilter" data-filter="country"></select></label>
+        <label>Main Category<select id="mainCategoryFilter" data-filter="mainCategory"></select></label>
+        <label>Vertical Tags<select id="verticalTagsFilter" data-filter="verticalTags"></select></label>
+        <label>Audience Tags<select id="audienceTagsFilter" data-filter="audienceTags"></select></label>
+        <label>Goal Tags<select id="goalTagsFilter" data-filter="goalTags"></select></label>
+        <label>Month<select id="monthFilter" data-filter="month"></select></label>
+        <label>Quarter<select id="quarterFilter" data-filter="quarter"></select></label>
+        <label>Status<select id="statusFilter" data-filter="status"></select></label>
+      </div>
+
+      <div class="results-toolbar">
+        <button type="button" id="clearFilters">Clear filters</button>
+      </div>
+    </section>
+
+    <section class="events-section" aria-live="polite">
+      <div id="eventsGrid" class="events-grid"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <h2>No matching events found</h2>
+        <p>Try removing one filter, choosing a broader region, or clearing all filters.</p>
+        <button type="button" class="empty-clear">Clear filters</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
