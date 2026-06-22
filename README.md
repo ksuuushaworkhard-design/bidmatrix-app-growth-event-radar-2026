@@ -1,6 +1,6 @@
 # App Growth Event Radar 2026
 
-Static BidMatrix widget for finding 2026 mobile growth, adtech, gaming, iGaming, affiliate and marketing events. It is designed to be embedded into a Wix landing page by iframe, so the interface starts directly with search and filters instead of a standalone hero or lead form.
+Static BidMatrix widget for finding 2026 mobile growth, adtech, gaming, iGaming, affiliate and marketing events. It is designed to be embedded into a Wix landing page by iframe, so the interface starts directly with a compact event search form instead of a standalone hero or lead form.
 
 The app uses plain HTML, CSS and JavaScript. There is no backend and no build step.
 
@@ -13,10 +13,11 @@ The app uses plain HTML, CSS and JavaScript. There is no backend and no build st
 
 ## Widget Behavior
 
-- Search runs across event names, locations, regions, categories, tags, goals and descriptions.
-- Quick filter chips are multi-select and use OR logic.
-- Dropdown filters are single-select and narrow the result set.
-- Sorting supports soonest first, A-Z and region.
+- Search runs across event names, city, country, region, category, best-for text and descriptions.
+- Filters are intentionally minimal for MVP: Region, Category and Quarter.
+- Search and filters update results only after clicking Apply or pressing Enter in the search input.
+- Active controls use AND logic.
+- Clear filters resets the search form and shows all events again.
 - Visit Website links open in a new tab with `noopener noreferrer`.
 
 ## Run Locally

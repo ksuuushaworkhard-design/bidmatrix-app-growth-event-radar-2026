@@ -1,52 +1,23 @@
 const state = {
   events: [],
-  quickFilters: [],
-  filters: {
+  applied: {
+    search: "",
     region: "",
-    country: "",
     mainCategory: "",
-    verticalTags: "",
-    audienceTags: "",
-    goalTags: "",
-    month: "",
     quarter: "",
-    status: "",
   },
-  search: "",
-  sort: "soonest",
 };
 
 const filterIds = {
   region: "regionFilter",
-  country: "countryFilter",
   mainCategory: "mainCategoryFilter",
-  verticalTags: "verticalTagsFilter",
-  audienceTags: "audienceTagsFilter",
-  goalTags: "goalTagsFilter",
-  month: "monthFilter",
   quarter: "quarterFilter",
-  status: "statusFilter",
 };
-
-const monthOrder = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
-];
 
 const searchableFields = [
   "name",
-  "country",
   "city",
+  "country",
   "region",
   "mainCategory",
   "bestFor",
@@ -57,10 +28,9 @@ const eventsGrid = document.querySelector("#eventsGrid");
 const emptyState = document.querySelector("#emptyState");
 const resultCount = document.querySelector("#resultCount");
 const searchInput = document.querySelector("#searchInput");
-const sortSelect = document.querySelector("#sortSelect");
+const applyFiltersButton = document.querySelector("#applyFilters");
 const clearFiltersButton = document.querySelector("#clearFilters");
 const emptyClearButton = document.querySelector(".empty-clear");
-const chips = [...document.querySelectorAll(".chip")];
 
 async function init() {
   try {
@@ -80,58 +50,38 @@ async function init() {
 }
 
 function bindEvents() {
-  searchInput.addEventListener("input", (event) => {
-    state.search = event.target.value.trim().toLowerCase();
-    render();
-  });
-
-  sortSelect.addEventListener("change", (event) => {
-    state.sort = event.target.value;
-    render();
-  });
-
-  Object.entries(filterIds).forEach(([key, id]) => {
-    document.querySelector(`#${id}`).addEventListener("change", (event) => {
-      state.filters[key] = event.target.value;
-      syncChips();
-      render();
-    });
-  });
-
-  chips.forEach((chip) => {
-    chip.addEventListener("click", () => {
-      const type = chip.dataset.filterType;
-      const field = chip.dataset.filterField || type;
-      const value = chip.dataset.filterValue;
-      const index = state.quickFilters.findIndex((filter) => (
-        filter.type === type && filter.field === field && filter.value === value
-      ));
-      if (index >= 0) {
-        state.quickFilters.splice(index, 1);
-      } else {
-        state.quickFilters.push({ type, field, value });
-      }
-      syncChips();
-      render();
-    });
-  });
-
+  applyFiltersButton.addEventListener("click", applyFilters);
   clearFiltersButton.addEventListener("click", clearAllFilters);
   emptyClearButton.addEventListener("click", clearAllFilters);
+
+  searchInput.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      applyFilters();
+    }
+  });
+}
+
+function applyFilters() {
+  state.applied.search = searchInput.value.trim().toLowerCase();
+  Object.entries(filterIds).forEach(([key, id]) => {
+    state.applied[key] = document.querySelector(`#${id}`).value;
+  });
+  render();
 }
 
 function clearAllFilters() {
-    state.search = "";
-    state.sort = "soonest";
-    state.quickFilters = [];
-    searchInput.value = "";
-    sortSelect.value = "soonest";
-    Object.keys(state.filters).forEach((key) => {
-      state.filters[key] = "";
-      document.querySelector(`#${filterIds[key]}`).value = "";
-    });
-    syncChips();
-    render();
+  searchInput.value = "";
+  Object.values(filterIds).forEach((id) => {
+    document.querySelector(`#${id}`).value = "";
+  });
+  state.applied = {
+    search: "",
+    region: "",
+    mainCategory: "",
+    quarter: "",
+  };
+  render();
 }
 
 function populateFilters() {
@@ -148,40 +98,26 @@ function populateFilters() {
 function getOptionsForKey(key) {
   const values = new Set();
   state.events.forEach((event) => {
-    const value = event[key];
-    if (Array.isArray(value)) {
-      value.forEach((item) => item && values.add(item));
-    } else if (value) {
-      values.add(value);
-    }
+    if (event[key]) values.add(event[key]);
   });
 
-  const sorted = [...values].sort((a, b) => a.localeCompare(b));
-  if (key === "month") {
-    return sorted.sort((a, b) => monthOrder.indexOf(a) - monthOrder.indexOf(b));
-  }
   if (key === "quarter") {
-    return sorted.sort();
+    return [...values].sort();
   }
-  return sorted;
+
+  return [...values].sort((a, b) => a.localeCompare(b));
 }
 
 function labelFor(key) {
   return {
     region: "regions",
-    country: "countries",
     mainCategory: "categories",
-    verticalTags: "vertical tags",
-    audienceTags: "audiences",
-    goalTags: "goals",
-    month: "months",
     quarter: "quarters",
-    status: "statuses",
   }[key];
 }
 
 function render() {
-  const matches = filteredEvents().sort(sortEvents);
+  const matches = filteredEvents().sort(sortByDate);
   resultCount.textContent = `${matches.length} matching ${matches.length === 1 ? "event" : "events"}`;
   eventsGrid.innerHTML = matches.map(eventCard).join("");
   emptyState.hidden = matches.length > 0;
@@ -189,70 +125,20 @@ function render() {
 
 function filteredEvents() {
   return state.events.filter((event) => {
-    const passesSearch = !state.search || searchText(event).includes(state.search);
-    const passesQuickFilters = eventMatchesQuickFilters(event);
-    const passesFilters = Object.entries(state.filters).every(([key, value]) => {
-      if (!value) return true;
-      const eventValue = event[key];
-      return Array.isArray(eventValue) ? eventValue.includes(value) : eventValue === value;
-    });
-    return passesSearch && passesQuickFilters && passesFilters;
+    const passesSearch = !state.applied.search || searchText(event).includes(state.applied.search);
+    const passesRegion = !state.applied.region || event.region === state.applied.region;
+    const passesCategory = !state.applied.mainCategory || event.mainCategory === state.applied.mainCategory;
+    const passesQuarter = !state.applied.quarter || event.quarter === state.applied.quarter;
+    return passesSearch && passesRegion && passesCategory && passesQuarter;
   });
-}
-
-function eventMatchesQuickFilters(event) {
-  if (!state.quickFilters.length) return true;
-
-  const groupedFilters = state.quickFilters.reduce((groups, filter) => {
-    if (!groups[filter.type]) groups[filter.type] = [];
-    groups[filter.type].push(filter);
-    return groups;
-  }, {});
-
-  return Object.values(groupedFilters).every((filters) => {
-    return filters.some((filter) => (
-      eventMatchesFilter(event, filter.field, filter.value)
-    ));
-  });
-}
-
-function eventMatchesFilter(event, key, value) {
-  const eventValue = event[key];
-  return Array.isArray(eventValue) ? eventValue.includes(value) : eventValue === value;
 }
 
 function searchText(event) {
-  const fieldText = searchableFields.map((key) => event[key] || "").join(" ");
-  const tagText = [
-    ...event.verticalTags,
-    ...event.audienceTags,
-    ...event.goalTags,
-  ].join(" ");
-  return `${fieldText} ${tagText}`.toLowerCase();
+  return searchableFields.map((key) => event[key] || "").join(" ").toLowerCase();
 }
 
-function sortEvents(a, b) {
-  if (state.sort === "az") {
-    return a.name.localeCompare(b.name);
-  }
-  if (state.sort === "region") {
-    return a.region.localeCompare(b.region) || a.startDate.localeCompare(b.startDate);
-  }
+function sortByDate(a, b) {
   return a.startDate.localeCompare(b.startDate) || a.name.localeCompare(b.name);
-}
-
-function syncChips() {
-  chips.forEach((chip) => {
-    chip.classList.toggle(
-      "is-active",
-      state.quickFilters.some((filter) => (
-        filter.type === chip.dataset.filterType
-        && filter.field === (chip.dataset.filterField || chip.dataset.filterType)
-        && filter.value === chip.dataset.filterValue
-      ))
-    );
-    chip.setAttribute("aria-pressed", chip.classList.contains("is-active") ? "true" : "false");
-  });
 }
 
 function eventCard(event) {
@@ -274,25 +160,10 @@ function eventCard(event) {
           ${escapeHtml(formatDateRange(event))}
         </div>
       </div>
-      ${tagBlock("Vertical", event.verticalTags)}
-      ${tagBlock("Audience", event.audienceTags)}
-      ${tagBlock("Goal", event.goalTags)}
       <p class="description">${escapeHtml(event.shortDescription || "No description available yet.")}</p>
       <p class="best-for"><strong>Best For:</strong> ${escapeHtml(event.bestFor || "Growth and partnership teams")}</p>
       ${website}
     </article>
-  `;
-}
-
-function tagBlock(label, tags) {
-  if (!tags.length) return "";
-  const visibleTags = tags.slice(0, 3).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");
-  const hiddenCount = tags.length > 3 ? `<span class="tag">+${tags.length - 3} more</span>` : "";
-  return `
-    <div>
-      <span class="meta-label">${label}</span>
-      <div class="tag-group">${visibleTags}${hiddenCount}</div>
-    </div>
   `;
 }
 

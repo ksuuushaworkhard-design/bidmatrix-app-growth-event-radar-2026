@@ -9,7 +9,7 @@
 </head>
 <body>
   <main class="widget-shell">
-    <section class="search-panel" aria-label="Search and filters">
+    <section class="search-panel" aria-label="Search 2026 events">
       <div class="panel-heading">
         <div>
           <p class="eyebrow">BidMatrix Event Radar</p>
@@ -18,49 +18,28 @@
         <p id="resultCount">Loading events...</p>
       </div>
 
-      <div class="search-row">
+      <div class="primary-controls">
         <label class="search-box" for="searchInput">
           <span>Search events</span>
-          <input id="searchInput" type="search" placeholder="Search by event, city, region, tags or goal">
+          <input id="searchInput" type="search" placeholder="Search by event, city, category or goal">
         </label>
-        <label class="sort-box" for="sortSelect">
-          <span>Sort by</span>
-          <select id="sortSelect">
-            <option value="soonest">Soonest first</option>
-            <option value="az">A-Z</option>
-            <option value="region">Region</option>
-          </select>
+        <button type="button" id="applyFilters" class="primary-button">Apply</button>
+        <button type="button" id="clearFilters" class="secondary-button">Clear filters</button>
+      </div>
+
+      <div class="filter-controls">
+        <label for="regionFilter">
+          <span>Region</span>
+          <select id="regionFilter" data-filter="region"></select>
         </label>
-      </div>
-
-      <div class="quick-filters" aria-label="Quick filters">
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="mainCategory" data-filter-value="Mobile / App Growth">App Growth</button>
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Gaming">Gaming</button>
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="iGaming">iGaming</button>
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Affiliate">Affiliate</button>
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="AdTech">AdTech</button>
-        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Programmatic">Programmatic</button>
-        <button type="button" class="chip" data-filter-type="region" data-filter-value="Europe">Europe</button>
-        <button type="button" class="chip" data-filter-type="region" data-filter-value="APAC">APAC</button>
-        <button type="button" class="chip" data-filter-type="region" data-filter-value="North America">North America</button>
-        <button type="button" class="chip" data-filter-type="goalTags" data-filter-value="Lead generation">Lead Generation</button>
-        <button type="button" class="chip" data-filter-type="goalTags" data-filter-value="Partnerships">Partnerships</button>
-      </div>
-
-      <div class="filters-grid">
-        <label>Region<select id="regionFilter" data-filter="region"></select></label>
-        <label>Country<select id="countryFilter" data-filter="country"></select></label>
-        <label>Main Category<select id="mainCategoryFilter" data-filter="mainCategory"></select></label>
-        <label>Vertical Tags<select id="verticalTagsFilter" data-filter="verticalTags"></select></label>
-        <label>Audience Tags<select id="audienceTagsFilter" data-filter="audienceTags"></select></label>
-        <label>Goal Tags<select id="goalTagsFilter" data-filter="goalTags"></select></label>
-        <label>Month<select id="monthFilter" data-filter="month"></select></label>
-        <label>Quarter<select id="quarterFilter" data-filter="quarter"></select></label>
-        <label>Status<select id="statusFilter" data-filter="status"></select></label>
-      </div>
-
-      <div class="results-toolbar">
-        <button type="button" id="clearFilters">Clear filters</button>
+        <label for="mainCategoryFilter">
+          <span>Category</span>
+          <select id="mainCategoryFilter" data-filter="mainCategory"></select>
+        </label>
+        <label for="quarterFilter">
+          <span>Quarter</span>
+          <select id="quarterFilter" data-filter="quarter"></select>
+        </label>
       </div>
     </section>
 
@@ -68,8 +47,8 @@
       <div id="eventsGrid" class="events-grid"></div>
       <div id="emptyState" class="empty-state" hidden>
         <h2>No matching events found</h2>
-        <p>Try removing one filter, choosing a broader region, or clearing all filters.</p>
-        <button type="button" class="empty-clear">Clear filters</button>
+        <p>Try changing your search or selecting broader filters.</p>
+        <button type="button" class="empty-clear secondary-button">Clear filters</button>
       </div>
     </section>
   </main>
