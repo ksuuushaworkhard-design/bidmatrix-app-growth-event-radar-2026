@@ -235,13 +235,14 @@ select:focus {
 
 .card-header {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 12px;
-  margin-bottom: 10px;
+  grid-template-columns: minmax(0, 1fr) minmax(96px, 124px);
+  gap: 14px;
+  align-items: start;
+  margin-bottom: 12px;
 }
 
 .event-card h2 {
-  margin-bottom: 7px;
+  margin-bottom: 8px;
   font-family: Oswald, Arial, sans-serif;
   font-size: 1.15rem;
   font-weight: 600;
@@ -250,21 +251,28 @@ select:focus {
 }
 
 .date-badge {
-  min-width: 76px;
-  padding: 7px 9px;
+  justify-self: end;
+  width: fit-content;
+  max-width: 140px;
+  min-width: 104px;
+  padding: 10px 12px;
   color: var(--black);
   background: var(--accent);
-  border-radius: 10px;
+  border-radius: 18px;
   text-align: center;
   font-family: Oswald, Arial, sans-serif;
-  font-size: 0.88rem;
+  font-size: clamp(1rem, 1.6vw, 1.12rem);
   font-weight: 700;
+  line-height: 1.08;
+  white-space: nowrap;
 }
 
 .date-badge span {
   display: block;
-  font-size: 0.66rem;
+  margin-bottom: 3px;
+  font-size: 0.76rem;
   font-weight: 700;
+  line-height: 1;
   text-transform: uppercase;
 }
 
@@ -278,7 +286,7 @@ select:focus {
 
 .location,
 .category {
-  margin-bottom: 7px;
+  margin-bottom: 6px;
   font-size: 0.88rem;
   font-weight: 500;
 }
@@ -372,6 +380,17 @@ select:focus {
   .filter-controls,
   .card-header {
     grid-template-columns: 1fr;
+  }
+
+  .card-header {
+    gap: 10px;
+  }
+
+  .date-badge {
+    justify-self: start;
+    max-width: 100%;
+    min-width: 104px;
+    padding: 9px 12px;
   }
 
   .search-panel,
