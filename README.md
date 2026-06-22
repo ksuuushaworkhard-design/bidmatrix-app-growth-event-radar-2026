@@ -8,16 +8,18 @@ The app uses plain HTML, CSS and JavaScript. There is no backend and no build st
 
 - `index.html` - page structure and product copy
 - `styles.css` - BidMatrix dark/tech visual style
-- `script.js` - search, filters, sorting and card rendering
+- `script.js` - search, quick chips, filters and card rendering
 - `events.json` - local event database exported from the `Public Events` sheet
 
 ## Widget Behavior
 
 - Search runs across event names, city, country, region, category, best-for text and descriptions.
-- Filters are intentionally minimal for MVP: Region, Category and Quarter.
-- Search and filters update results only after clicking Apply or pressing Enter in the search input.
-- Active controls use AND logic.
-- Clear filters resets the search form and shows all events again.
+- Quick chips are toggle filters and update results immediately.
+- Quick chips use OR logic inside the same chip type and AND logic between chip types.
+- Dropdown filters are intentionally minimal for MVP: Region, Category and Quarter.
+- Search and dropdown filters update results only after clicking Apply or pressing Enter in the search input.
+- Results must pass active chips and applied search/dropdown filters.
+- Clear filters resets the search form, dropdowns and active chips, then shows all events again.
 - Visit Website links open in a new tab with `noopener noreferrer`.
 
 ## Run Locally

@@ -15,16 +15,25 @@
           <p class="eyebrow">BidMatrix Event Radar</p>
           <h1>Search 2026 events</h1>
         </div>
-        <p id="resultCount">Loading events...</p>
       </div>
 
-      <div class="primary-controls">
-        <label class="search-box" for="searchInput">
-          <span>Search events</span>
-          <input id="searchInput" type="search" placeholder="Search by event, city, category or goal">
-        </label>
-        <button type="button" id="applyFilters" class="primary-button">Apply</button>
-        <button type="button" id="clearFilters" class="secondary-button">Clear filters</button>
+      <label class="search-box" for="searchInput">
+        <span>Search events</span>
+        <input id="searchInput" type="search" placeholder="Search by event, city, category or goal">
+      </label>
+
+      <div class="quick-filters" aria-label="Quick filters">
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="mainCategory" data-filter-value="Mobile / App Growth">App Growth</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Gaming">Gaming</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="iGaming">iGaming</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Affiliate">Affiliate</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="AdTech">AdTech</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Programmatic">Programmatic</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="Europe">Europe</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="APAC">APAC</button>
+        <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="North America">North America</button>
+        <button type="button" class="chip" data-filter-type="goalTags" data-filter-field="goalTags" data-filter-value="Lead generation">Lead Generation</button>
+        <button type="button" class="chip" data-filter-type="goalTags" data-filter-field="goalTags" data-filter-value="Partnerships">Partnerships</button>
       </div>
 
       <div class="filter-controls">
@@ -40,7 +49,11 @@
           <span>Quarter</span>
           <select id="quarterFilter" data-filter="quarter"></select>
         </label>
+        <button type="button" id="applyFilters" class="primary-button">Apply</button>
+        <button type="button" id="clearFilters" class="secondary-button">Clear filters</button>
       </div>
+
+      <p id="resultCount" class="result-count">Loading events...</p>
     </section>
 
     <section class="events-section" aria-live="polite">
