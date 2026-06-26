@@ -4357,43 +4357,6 @@
     "website": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/"
   },
   {
-    "id": "E26-235",
-    "slug": "app-growth-summit-s-o-paulo-2026",
-    "status": "Upcoming",
-    "name": "App Growth Summit São Paulo 2026",
-    "startDate": "2026-08-05",
-    "endDate": "2026-08-05",
-    "month": "August",
-    "quarter": "Q3",
-    "region": "LATAM",
-    "country": "Brazil",
-    "city": "São Paulo",
-    "mainCategory": "Mobile / App Growth",
-    "verticalTags": [
-      "Mobile Growth",
-      "Apps",
-      "AdTech",
-      "ASO / Product"
-    ],
-    "audienceTags": [
-      "UA Managers",
-      "Growth Leads",
-      "App Developers",
-      "CMOs / Marketing Leaders",
-      "Ad Networks"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Partnerships",
-      "Networking",
-      "Market insights",
-      "Brand visibility"
-    ],
-    "bestFor": "LATAM app marketers, UA teams, product leaders",
-    "shortDescription": "AGS LATAM event for app growth and mobile marketing professionals.",
-    "website": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/"
-  },
-  {
     "id": "E26-119",
     "slug": "quakecon-2026",
     "status": "Upcoming",
@@ -4455,43 +4418,6 @@
     ],
     "bestFor": "Advertisers, Digital marketers, Growth marketers",
     "shortDescription": "Ecommerce and omnichannel retail conference for senior retail and digital leaders.",
-    "website": "https://etaileast.wbresearch.com/"
-  },
-  {
-    "id": "E26-249",
-    "slug": "etail-boston-2026",
-    "status": "Upcoming",
-    "name": "eTail Boston 2026",
-    "startDate": "2026-08-10",
-    "endDate": "2026-08-12",
-    "month": "August",
-    "quarter": "Q3",
-    "region": "North America",
-    "country": "USA",
-    "city": "Boston",
-    "mainCategory": "Retail / E-commerce",
-    "verticalTags": [
-      "Retail / E-commerce",
-      "Digital Marketing",
-      "Martech",
-      "Retail Media"
-    ],
-    "audienceTags": [
-      "Retail / E-commerce Brands",
-      "CMOs / Marketing Leaders",
-      "Growth Leads",
-      "Advertisers",
-      "Agencies"
-    ],
-    "goalTags": [
-      "Brand advertiser discovery",
-      "Partnerships",
-      "Networking",
-      "Market insights",
-      "Lead generation"
-    ],
-    "bestFor": "Ecommerce and retail leaders",
-    "shortDescription": "East Coast retail and ecommerce conference for digital commerce teams.",
     "website": "https://etaileast.wbresearch.com/"
   },
   {
@@ -4697,14 +4623,14 @@
     "id": "E26-127",
     "slug": "gamescom-dev",
     "status": "Upcoming",
-    "name": "gamescom dev",
+    "name": "gamescom dev 2026",
     "startDate": "2026-08-23",
     "endDate": "2026-08-25",
     "month": "August",
     "quarter": "Q3",
     "region": "Europe",
     "country": "Germany",
-    "city": "",
+    "city": "Cologne",
     "mainCategory": "Gaming",
     "verticalTags": [
       "Mobile Growth",
@@ -4724,43 +4650,6 @@
     "bestFor": "Publishers, App developers, UA managers",
     "shortDescription": "Developer-focused conference attached to gamescom, with talks, matchmaking, and industry networking.",
     "website": "https://dev.gamescom.global/"
-  },
-  {
-    "id": "E26-128",
-    "slug": "gamescom-dev-2026",
-    "status": "Upcoming",
-    "name": "gamescom dev 2026",
-    "startDate": "2026-08-23",
-    "endDate": "2026-08-25",
-    "month": "August",
-    "quarter": "Q3",
-    "region": "Europe",
-    "country": "Germany",
-    "city": "Cologne",
-    "mainCategory": "Gaming",
-    "verticalTags": [
-      "Gaming",
-      "Developer Ecosystem",
-      "Publisher / Supply"
-    ],
-    "audienceTags": [
-      "App Developers",
-      "Game Studios",
-      "Publishers",
-      "UA Managers",
-      "Growth Leads",
-      "Ad Networks"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Find publishers / supply",
-      "Partnerships",
-      "Networking",
-      "Brand visibility"
-    ],
-    "bestFor": "Game developers, publishers, tech partners",
-    "shortDescription": "Developer-focused event around gamescom week.",
-    "website": "https://www.pocketgamer.biz/events/"
   },
   {
     "id": "E26-129",
@@ -5031,44 +4920,6 @@
     "website": "https://2026.ieee-cog.org/"
   },
   {
-    "id": "E26-137",
-    "slug": "sigma-mexico-city-2026",
-    "status": "Upcoming",
-    "name": "SiGMA Mexico City 2026",
-    "startDate": "2026-09-01",
-    "endDate": "2026-09-03",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "LATAM",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "mainCategory": "iGaming / Betting",
-    "verticalTags": [
-      "iGaming",
-      "Affiliate",
-      "Performance Marketing",
-      "Gaming"
-    ],
-    "audienceTags": [
-      "Operators",
-      "Affiliates",
-      "Advertisers",
-      "Growth Leads",
-      "Product Teams",
-      "Payments / Tech Partners"
-    ],
-    "goalTags": [
-      "Affiliate / operator partnerships",
-      "Meet advertisers",
-      "Partnerships",
-      "Networking",
-      "Market expansion"
-    ],
-    "bestFor": "LATAM operators, affiliates, suppliers",
-    "shortDescription": "SiGMA Latin America event for regulated gaming and affiliate ecosystem.",
-    "website": "https://sigma.world/"
-  },
-  {
     "id": "E26-138",
     "slug": "sigma-north-america-2026",
     "status": "Upcoming",
@@ -5079,7 +4930,7 @@
     "quarter": "Q3",
     "region": "LATAM",
     "country": "Mexico",
-    "city": "",
+    "city": "Mexico City",
     "mainCategory": "iGaming / Betting",
     "verticalTags": [
       "Gaming",
@@ -5206,14 +5057,14 @@
     "id": "E26-142",
     "slug": "affiliate-world-americas",
     "status": "Upcoming",
-    "name": "Affiliate World Americas",
+    "name": "Affiliate World Americas 2026",
     "startDate": "2026-09-07",
     "endDate": "2026-09-08",
     "month": "September",
     "quarter": "Q3",
     "region": "LATAM",
     "country": "Mexico",
-    "city": "",
+    "city": "Cancún",
     "mainCategory": "Affiliate / Performance",
     "verticalTags": [
       "AdTech",
@@ -5236,43 +5087,6 @@
     "bestFor": "Affiliates, Advertisers, Growth marketers",
     "shortDescription": "Major performance-marketing and affiliate conference covering ecommerce, lead gen, and media buying in the Americas.",
     "website": "https://affiliateworldconferences.com/americas"
-  },
-  {
-    "id": "E26-143",
-    "slug": "affiliate-world-canc-n-2026",
-    "status": "Upcoming",
-    "name": "Affiliate World Cancún 2026",
-    "startDate": "2026-09-07",
-    "endDate": "2026-09-08",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "LATAM",
-    "country": "Mexico",
-    "city": "Cancún",
-    "mainCategory": "Affiliate / Performance",
-    "verticalTags": [
-      "Affiliate",
-      "Performance Marketing",
-      "Media Buying"
-    ],
-    "audienceTags": [
-      "Affiliates",
-      "Advertisers",
-      "Growth Leads",
-      "Publishers",
-      "Networks",
-      "Agencies"
-    ],
-    "goalTags": [
-      "Affiliate / operator partnerships",
-      "Find publishers / supply",
-      "Meet advertisers",
-      "Networking",
-      "Lead generation"
-    ],
-    "bestFor": "Media buyers, affiliates, LATAM advertisers",
-    "shortDescription": "Affiliate World Americas edition for performance marketers and affiliates.",
-    "website": "https://affiliateworldconferences.com/"
   },
   {
     "id": "E26-144",
@@ -5315,7 +5129,7 @@
     "id": "E26-145",
     "slug": "gamesforum-london",
     "status": "Upcoming",
-    "name": "Gamesforum London",
+    "name": "Gamesforum London 2026",
     "startDate": "2026-09-07",
     "endDate": "2026-09-08",
     "month": "September",
@@ -5345,40 +5159,6 @@
     "bestFor": "UA managers, Monetization managers, App developers",
     "shortDescription": "Focused conference for mobile games user acquisition, ad monetization, and growth strategy.",
     "website": "https://www.globalgamesforum.com/london"
-  },
-  {
-    "id": "E26-146",
-    "slug": "gamesforum-london-2026",
-    "status": "Upcoming",
-    "name": "GamesForum London 2026",
-    "startDate": "2026-09-07",
-    "endDate": "2026-09-08",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "Europe",
-    "country": "UK",
-    "city": "London",
-    "mainCategory": "Gaming",
-    "verticalTags": [
-      "Mobile Growth",
-      "Gaming",
-      "Monetization",
-      "AdTech"
-    ],
-    "audienceTags": [
-      "UA Managers",
-      "Game Studios",
-      "Publishers",
-      "Ad Networks"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Partnerships",
-      "Networking"
-    ],
-    "bestFor": "Mobile game studios, monetization teams, adtech partners",
-    "shortDescription": "Games business event focused on mobile games, monetization, UA and publishing.",
-    "website": "https://www.globalgamesforum.com/"
   },
   {
     "id": "E26-147",
@@ -5579,53 +5359,17 @@
     "website": "https://www.salesforce.com/dreamforce/"
   },
   {
-    "id": "E26-152",
-    "slug": "unbound-2026",
-    "status": "Upcoming",
-    "name": "UNBOUND 2026",
-    "startDate": "2026-09-16",
-    "endDate": "2026-09-17",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "North America",
-    "country": "USA",
-    "city": "Boston",
-    "mainCategory": "Digital Marketing / Martech",
-    "verticalTags": [
-      "Digital Marketing",
-      "AI / Data",
-      "Martech"
-    ],
-    "audienceTags": [
-      "CMOs / Marketing Leaders",
-      "Growth Leads",
-      "Advertisers",
-      "Agencies",
-      "SaaS / B2B Marketers"
-    ],
-    "goalTags": [
-      "Brand advertiser discovery",
-      "Networking",
-      "Market insights",
-      "Partnerships",
-      "Brand visibility"
-    ],
-    "bestFor": "Marketing and growth leaders",
-    "shortDescription": "Marketing conference in Boston covering brand, growth and modern marketing topics.",
-    "website": "https://www.unboundconference.com/"
-  },
-  {
     "id": "E26-153",
     "slug": "unbound-by-hubspot",
     "status": "Upcoming",
-    "name": "UNBOUND by HubSpot",
+    "name": "UNBOUND by HubSpot 2026",
     "startDate": "2026-09-16",
     "endDate": "2026-09-18",
     "month": "September",
     "quarter": "Q3",
     "region": "North America",
     "country": "USA",
-    "city": "",
+    "city": "Boston",
     "mainCategory": "Digital Marketing / Martech",
     "verticalTags": [
       "Performance Marketing",
@@ -5647,54 +5391,17 @@
     "website": "https://unbound.hubspot.com/"
   },
   {
-    "id": "E26-254",
-    "slug": "unbound-by-hubspot-2026",
-    "status": "Upcoming",
-    "name": "UNBOUND by HubSpot 2026",
-    "startDate": "2026-09-16",
-    "endDate": "2026-09-18",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "North America",
-    "country": "USA",
-    "city": "Boston",
-    "mainCategory": "Digital Marketing / Martech",
-    "verticalTags": [
-      "B2B Marketing",
-      "Content",
-      "Sales",
-      "Martech"
-    ],
-    "audienceTags": [
-      "CMOs / Marketing Leaders",
-      "Growth Leads",
-      "Advertisers",
-      "Agencies",
-      "SaaS / B2B Marketers"
-    ],
-    "goalTags": [
-      "Brand advertiser discovery",
-      "Networking",
-      "Market insights",
-      "Partnerships",
-      "Brand visibility"
-    ],
-    "bestFor": "B2B, SaaS, marketing and sales leaders",
-    "shortDescription": "HubSpot-led conference for inbound marketing, sales, customer growth and GTM teams.",
-    "website": "https://unbound.hubspot.com/"
-  },
-  {
     "id": "E26-154",
     "slug": "business-of-apps-nyc",
     "status": "Upcoming",
-    "name": "Business of Apps NYC",
+    "name": "Business of Apps NYC 2026",
     "startDate": "2026-09-17",
     "endDate": "2026-09-17",
     "month": "September",
     "quarter": "Q3",
     "region": "North America",
     "country": "USA",
-    "city": "NYC",
+    "city": "New York",
     "mainCategory": "Mobile / App Growth",
     "verticalTags": [
       "Mobile Growth",
@@ -5715,44 +5422,7 @@
     ],
     "bestFor": "Growth marketers, UA managers, App developers",
     "shortDescription": "App growth conference for marketing, product, CRM, retention, and revenue leaders.",
-    "website": "https://apppromotionsummit.com/nyc/"
-  },
-  {
-    "id": "E26-238",
-    "slug": "business-of-apps-nyc-2026",
-    "status": "Upcoming",
-    "name": "Business of Apps NYC 2026",
-    "startDate": "2026-09-17",
-    "endDate": "2026-09-17",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "North America",
-    "country": "USA",
-    "city": "New York",
-    "mainCategory": "Mobile / App Growth",
-    "verticalTags": [
-      "Mobile Growth",
-      "Apps",
-      "AdTech",
-      "ASO / Product"
-    ],
-    "audienceTags": [
-      "UA Managers",
-      "Growth Leads",
-      "App Developers",
-      "CMOs / Marketing Leaders",
-      "Ad Networks"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Partnerships",
-      "Networking",
-      "Market insights",
-      "Brand visibility"
-    ],
-    "bestFor": "App marketers, growth teams, ASO/CRM teams",
-    "shortDescription": "New York edition of App Promotion Summit for app marketing and growth teams.",
-    "website": "https://apppromotionsummit.com/app-promotion-summit-is-now-business-of-apps/"
+    "website": "https://www.businessofapps.com/event/nyc/"
   },
   {
     "id": "E26-155",
@@ -6095,14 +5765,14 @@
     "id": "E26-164",
     "slug": "technology-for-marketing",
     "status": "Upcoming",
-    "name": "Technology for Marketing",
+    "name": "Technology for Marketing 2026",
     "startDate": "2026-09-23",
     "endDate": "2026-09-24",
     "month": "September",
     "quarter": "Q3",
     "region": "Europe",
     "country": "UK",
-    "city": "",
+    "city": "London",
     "mainCategory": "AdTech / Programmatic",
     "verticalTags": [
       "AdTech",
@@ -6123,42 +5793,6 @@
     ],
     "bestFor": "Digital marketers, Advertisers, Tech managers",
     "shortDescription": "UK marketing technology event covering AI, data, CRM, ecommerce, advertising and digital marketing.",
-    "website": "https://www.technologyformarketing.co.uk/"
-  },
-  {
-    "id": "E26-269",
-    "slug": "technology-for-marketing-2026",
-    "status": "Upcoming",
-    "name": "Technology for Marketing 2026",
-    "startDate": "2026-09-23",
-    "endDate": "2026-09-24",
-    "month": "September",
-    "quarter": "Q3",
-    "region": "Europe",
-    "country": "UK",
-    "city": "London",
-    "mainCategory": "Digital Marketing / Martech",
-    "verticalTags": [
-      "Martech",
-      "Digital Marketing",
-      "AI / Data"
-    ],
-    "audienceTags": [
-      "CMOs / Marketing Leaders",
-      "Growth Leads",
-      "Advertisers",
-      "Agencies",
-      "SaaS / B2B Marketers"
-    ],
-    "goalTags": [
-      "Brand advertiser discovery",
-      "Networking",
-      "Market insights",
-      "Partnerships",
-      "Brand visibility"
-    ],
-    "bestFor": "Digital marketers, martech buyers, agencies",
-    "shortDescription": "Marketing technology event for digital marketers and martech decision-makers.",
     "website": "https://www.technologyformarketing.co.uk/"
   },
   {
@@ -6529,43 +6163,6 @@
     ],
     "bestFor": "UA managers, Growth marketers, App developers",
     "shortDescription": "Invite-only app growth event for product, UA, retention, and monetization leaders in Mexico City.",
-    "website": "https://appgrowthsummit.com/events/app-growth-summit-mexico-city-2026/"
-  },
-  {
-    "id": "E26-234",
-    "slug": "app-growth-summit-mexico-city-2026",
-    "status": "Upcoming",
-    "name": "App Growth Summit Mexico City 2026",
-    "startDate": "2026-10-01",
-    "endDate": "2026-10-01",
-    "month": "October",
-    "quarter": "Q4",
-    "region": "LATAM",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "mainCategory": "Mobile / App Growth",
-    "verticalTags": [
-      "Mobile Growth",
-      "Apps",
-      "AdTech",
-      "ASO / Product"
-    ],
-    "audienceTags": [
-      "UA Managers",
-      "Growth Leads",
-      "App Developers",
-      "CMOs / Marketing Leaders",
-      "Ad Networks"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Partnerships",
-      "Networking",
-      "Market insights",
-      "Brand visibility"
-    ],
-    "bestFor": "LATAM app marketers, UA teams, product leaders",
-    "shortDescription": "AGS Mexico City edition for app growth professionals and mobile product teams.",
     "website": "https://appgrowthsummit.com/events/app-growth-summit-mexico-city-2026/"
   },
   {
