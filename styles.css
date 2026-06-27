@@ -1,19 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
 
 :root {
-  --bg: #111313;
-  --panel: #181a1a;
-  --panel-soft: #1e2121;
-  --field: #111515;
-  --line: rgba(255, 255, 255, 0.09);
-  --line-strong: rgba(9, 202, 182, 0.42);
+  --bg: #101111;
+  --panel: rgba(255, 255, 255, 0.028);
+  --panel-soft: rgba(255, 255, 255, 0.04);
+  --field: rgba(4, 8, 8, 0.38);
+  --line: rgba(255, 255, 255, 0.115);
+  --line-accent: rgba(9, 202, 182, 0.25);
+  --line-strong: rgba(9, 202, 182, 0.48);
   --text: #f6f7f4;
-  --muted: #c1c7c5;
+  --muted: rgba(246, 247, 244, 0.72);
   --muted-2: #09CAB6;
   --accent: #09CAB6;
-  --accent-hover: #28d7c8;
+  --accent-hover: #23d9c8;
   --black: #071010;
-  --shadow: 0 18px 42px rgba(0, 0, 0, 0.22);
+  --shadow: none;
 }
 
 * {
@@ -23,10 +24,7 @@
 body {
   margin: 0;
   color: var(--text);
-  background:
-    radial-gradient(ellipse at 98% -10%, rgba(9, 202, 182, 0.12), transparent 32rem),
-    radial-gradient(ellipse at 8% 8%, rgba(9, 202, 182, 0.06), transparent 26rem),
-    linear-gradient(180deg, #141515 0%, var(--bg) 48%, #101212 100%);
+  background: var(--bg);
   font-family: Roboto, Arial, sans-serif;
   line-height: 1.45;
   overflow-x: hidden;
@@ -45,36 +43,24 @@ select {
 .widget-shell {
   width: min(1120px, 100%);
   margin: 0 auto;
-  padding: 12px;
+  padding: 8px;
   position: relative;
-}
-
-.widget-shell::before {
-  content: "";
-  position: fixed;
-  inset: -12rem -8rem auto auto;
-  width: min(48rem, 92vw);
-  height: 26rem;
-  background:
-    repeating-radial-gradient(ellipse at center, rgba(9, 202, 182, 0.2) 0 1px, transparent 1px 10px);
-  opacity: 0.13;
-  transform: rotate(-9deg);
-  pointer-events: none;
 }
 
 .search-panel,
 .event-card,
 .empty-state {
   border: 1px solid var(--line);
-  background: rgba(24, 26, 26, 0.96);
+  background: var(--panel);
   box-shadow: var(--shadow);
 }
 
 .search-panel {
   position: relative;
   overflow: hidden;
-  padding: 18px;
-  border-radius: 20px;
+  padding: 18px 18px 16px;
+  border-color: var(--line-accent);
+  border-radius: 22px;
 }
 
 .search-panel::before {
@@ -82,8 +68,8 @@ select {
   position: absolute;
   inset: 0 0 auto;
   height: 1px;
-  background: linear-gradient(90deg, transparent, rgba(9, 202, 182, 0.78), transparent);
-  opacity: 0.65;
+  background: linear-gradient(90deg, transparent, rgba(9, 202, 182, 0.42), transparent);
+  opacity: 0.6;
 }
 
 h1,
@@ -94,47 +80,49 @@ p {
 
 label {
   display: grid;
-  gap: 8px;
+  gap: 7px;
   min-width: 0;
   color: var(--muted);
   font-family: Oswald, Arial, sans-serif;
-  font-size: 0.84rem;
-  font-weight: 600;
+  font-size: 0.86rem;
+  font-weight: 500;
 }
 
 label span {
-  color: var(--accent);
-  font-size: 0.74rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  color: rgba(9, 202, 182, 0.9);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 input,
 select {
   width: 100%;
-  min-height: 46px;
+  min-height: 52px;
   color: var(--text);
   background-color: var(--field);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 13px;
   outline: none;
   transition: border-color 160ms ease, box-shadow 160ms ease, background-color 160ms ease;
 }
 
 input {
-  padding: 0 15px;
+  padding: 0 16px;
   font-family: Roboto, Arial, sans-serif;
+  font-size: 0.96rem;
 }
 
 input::placeholder {
-  color: #7b8280;
+  color: rgba(255, 255, 255, 0.45);
 }
 
 select {
   appearance: none;
-  padding: 0 38px 0 13px;
+  padding: 0 40px 0 14px;
   font-family: Roboto, Arial, sans-serif;
+  font-size: 0.95rem;
   background-image:
     linear-gradient(45deg, transparent 50%, var(--accent) 50%),
     linear-gradient(135deg, var(--accent) 50%, transparent 50%);
@@ -147,35 +135,35 @@ select {
 
 input:hover,
 select:hover {
-  border-color: rgba(9, 202, 182, 0.34);
-  background-color: #151919;
+  border-color: rgba(9, 202, 182, 0.36);
+  background-color: rgba(4, 8, 8, 0.48);
 }
 
 input:focus,
 select:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 2px rgba(9, 202, 182, 0.16);
+  box-shadow: 0 0 0 1px rgba(9, 202, 182, 0.26);
 }
 
 .quick-filters {
   display: flex;
   flex-wrap: wrap;
-  gap: 7px;
-  margin: 14px 0 4px;
+  gap: 8px;
+  margin: 14px 0 2px;
 }
 
 .chip {
-  min-height: 31px;
-  padding: 0 11px;
-  color: #dce1df;
-  background: rgba(255, 255, 255, 0.035);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  min-height: 30px;
+  padding: 0 10px;
+  color: rgba(255, 255, 255, 0.72);
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.18);
   border-radius: 999px;
   cursor: pointer;
   font-family: Oswald, Arial, sans-serif;
-  font-size: 0.88rem;
+  font-size: 0.86rem;
   font-weight: 500;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.025em;
   transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
@@ -187,15 +175,15 @@ select:focus {
 }
 
 .chip.is-active {
-  color: var(--black);
-  background: var(--accent);
+  color: var(--accent);
+  background: rgba(9, 202, 182, 0.1);
   border-color: var(--accent);
-  box-shadow: 0 0 0 2px rgba(9, 202, 182, 0.1);
+  box-shadow: none;
 }
 
 .filter-controls {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr)) 110px 140px;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) 108px 152px;
   gap: 11px;
   margin-top: 14px;
   align-items: end;
@@ -203,13 +191,16 @@ select:focus {
 
 .primary-button,
 .secondary-button {
-  min-height: 46px;
+  min-height: 52px;
+  padding: 0 22px;
   border-radius: 999px;
   cursor: pointer;
   font-family: Oswald, Arial, sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-size: 0.94rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+  white-space: nowrap;
   transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
@@ -226,9 +217,9 @@ select:focus {
 }
 
 .secondary-button {
-  color: #e6ecea;
-  background: rgba(255, 255, 255, 0.025);
-  border: 1px solid var(--line);
+  color: rgba(255, 255, 255, 0.72);
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.22);
 }
 
 .secondary-button:hover {
@@ -238,22 +229,23 @@ select:focus {
 }
 
 .result-count {
-  margin: 14px 0 0;
-  color: #d9dddc;
+  margin: 13px 0 0;
+  color: rgba(255, 255, 255, 0.74);
   font-family: Oswald, Arial, sans-serif;
-  font-size: 0.94rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .events-section {
-  margin-top: 14px;
+  margin-top: 13px;
 }
 
 .events-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
+  gap: 13px;
 }
 
 .event-card {
@@ -261,57 +253,58 @@ select:focus {
   flex-direction: column;
   min-height: 100%;
   padding: 18px;
-  border-radius: 18px;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.025), rgba(255, 255, 255, 0)),
-    rgba(24, 26, 26, 0.96);
-  transition: border-color 160ms ease, transform 160ms ease, background-color 160ms ease;
+  border-color: rgba(255, 255, 255, 0.12);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.025);
+  transition: border-color 160ms ease, background-color 160ms ease;
 }
 
 .event-card:hover {
-  border-color: var(--line-strong);
-  transform: translateY(-1px);
+  border-color: rgba(9, 202, 182, 0.36);
+  background: rgba(255, 255, 255, 0.035);
 }
 
 .card-header {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(96px, 124px);
-  gap: 16px;
+  grid-template-columns: minmax(0, 1fr) minmax(92px, 116px);
+  gap: 14px;
   align-items: start;
-  margin-bottom: 13px;
+  margin-bottom: 12px;
 }
 
 .event-card h2 {
   margin-bottom: 8px;
   font-family: Oswald, Arial, sans-serif;
-  font-size: 1.2rem;
-  font-weight: 600;
-  line-height: 1.18;
-  letter-spacing: 0.01em;
+  font-size: clamp(1.28rem, 1.6vw, 1.55rem);
+  font-weight: 500;
+  line-height: 1.12;
+  letter-spacing: 0.005em;
 }
 
 .date-badge {
   justify-self: end;
   width: fit-content;
-  max-width: 140px;
-  min-width: 104px;
-  padding: 10px 12px;
-  color: var(--black);
-  background: var(--accent);
-  border-radius: 18px;
+  max-width: 122px;
+  min-width: 92px;
+  padding: 8px 10px;
+  color: var(--accent);
+  background: rgba(9, 202, 182, 0.08);
+  border: 1px solid rgba(9, 202, 182, 0.55);
+  border-radius: 16px;
   text-align: center;
   font-family: Oswald, Arial, sans-serif;
-  font-size: clamp(1rem, 1.6vw, 1.12rem);
-  font-weight: 700;
-  line-height: 1.08;
+  font-size: clamp(0.94rem, 1.35vw, 1.03rem);
+  font-weight: 500;
+  line-height: 1.1;
   white-space: nowrap;
 }
 
 .date-badge span {
   display: block;
-  margin-bottom: 3px;
-  font-size: 0.76rem;
-  font-weight: 700;
+  margin-bottom: 2px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
   line-height: 1;
   text-transform: uppercase;
 }
@@ -327,21 +320,23 @@ select:focus {
 .location,
 .category {
   margin-bottom: 6px;
-  font-size: 0.88rem;
+  font-size: 0.92rem;
   font-weight: 500;
 }
 
 .category {
   color: var(--accent);
   font-family: Oswald, Arial, sans-serif;
-  font-size: 0.82rem;
-  letter-spacing: 0.02em;
+  font-size: 0.84rem;
+  font-weight: 500;
+  letter-spacing: 0.075em;
   text-transform: uppercase;
 }
 
 .description {
   margin-bottom: 12px;
-  font-size: 0.92rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 .best-for {
@@ -349,7 +344,8 @@ select:focus {
   margin-bottom: 0;
   padding-top: 10px;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
-  font-size: 0.86rem;
+  font-size: 0.9rem;
+  line-height: 1.42;
 }
 
 .event-link {
@@ -357,43 +353,48 @@ select:focus {
   align-items: center;
   justify-content: center;
   align-self: flex-start;
-  min-height: 40px;
+  min-height: 38px;
   margin-top: 14px;
-  padding: 0 16px;
-  color: var(--black);
-  background: var(--accent);
+  padding: 0 17px;
+  color: var(--accent);
+  background: transparent;
+  border: 1px solid var(--accent);
   border-radius: 999px;
   text-decoration: none;
   font-family: Oswald, Arial, sans-serif;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-size: 0.9rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  transition: background-color 160ms ease, transform 160ms ease;
+  transition: background-color 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
 .event-link:hover {
   background: var(--accent-hover);
+  color: var(--black);
   transform: translateY(-1px);
 }
 
 .event-link[aria-disabled="true"] {
-  color: var(--muted-2);
-  background: var(--panel-soft);
+  color: rgba(255, 255, 255, 0.4);
+  background: transparent;
+  border-color: rgba(255, 255, 255, 0.14);
   pointer-events: none;
 }
 
 .empty-state {
-  padding: 34px 18px;
-  border-radius: 18px;
+  padding: 32px 18px;
+  border-color: var(--line-accent);
+  border-radius: 20px;
   text-align: center;
 }
 
 .empty-state h2 {
   margin-bottom: 8px;
   font-family: Oswald, Arial, sans-serif;
-  font-size: 1.35rem;
-  font-weight: 600;
-  letter-spacing: 0;
+  font-size: 1.4rem;
+  font-weight: 500;
+  letter-spacing: 0.03em;
 }
 
 .empty-state p {
@@ -424,13 +425,7 @@ select:focus {
 
 @media (max-width: 720px) {
   .widget-shell {
-    padding: 8px;
-  }
-
-  .widget-shell::before {
-    width: 36rem;
-    height: 22rem;
-    opacity: 0.08;
+    padding: 6px;
   }
 
   .filter-controls,
@@ -445,14 +440,14 @@ select:focus {
   .date-badge {
     justify-self: start;
     max-width: 100%;
-    min-width: 104px;
-    padding: 9px 12px;
+    min-width: 92px;
+    padding: 8px 10px;
   }
 
   .search-panel,
   .event-card,
   .empty-state {
-    border-radius: 16px;
+    border-radius: 18px;
   }
 
   .events-grid {
@@ -460,7 +455,7 @@ select:focus {
   }
 
   .chip {
-    min-height: 34px;
+    min-height: 31px;
   }
 
   .primary-button,
