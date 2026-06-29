@@ -244,7 +244,7 @@ function eventCard(event) {
           <p class="category">${escapeHtml(event.mainCategory || "Category TBA")}</p>
         </div>
         <div class="date-badge">
-          <span>${escapeHtml(event.month || "Date")}</span>
+          <span>${escapeHtml(formatMonthLabel(event))}</span>
           ${escapeHtml(formatDateRange(event))}
         </div>
       </div>
@@ -256,18 +256,36 @@ function eventCard(event) {
 }
 
 function formatDateRange(event) {
-  const start = formatDate(event.startDate);
-  const end = formatDate(event.endDate);
+  const start = formatDay(event.startDate);
+  const end = formatDay(event.endDate);
   if (!start && !end) return "TBA";
   if (!end || start === end) return start;
   return `${start} - ${end}`;
 }
 
-function formatDate(dateString) {
+function formatMonthLabel(event) {
+  const start = parseEventDate(event.startDate);
+  const end = parseEventDate(event.endDate);
+  if (!start) return event.month || "Date";
+  if (!end || start.getMonth() === end.getMonth()) {
+    return event.month || start.toLocaleDateString("en", { month: "long" });
+  }
+  return `${formatShortMonth(start)} / ${formatShortMonth(end)}`;
+}
+
+function formatDay(dateString) {
+  const date = parseEventDate(dateString);
+  return date ? String(date.getDate()) : (dateString || "");
+}
+
+function formatShortMonth(date) {
+  return date.toLocaleDateString("en", { month: "short" });
+}
+
+function parseEventDate(dateString) {
   if (!dateString) return "";
   const date = new Date(`${dateString}T00:00:00`);
-  if (Number.isNaN(date.getTime())) return dateString;
-  return date.toLocaleDateString("en", { month: "short", day: "numeric" });
+  return Number.isNaN(date.getTime()) ? "" : date;
 }
 
 function escapeHtml(value) {
