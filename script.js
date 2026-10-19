@@ -44,7 +44,7 @@ const elements = {
 async function init() {
   try {
     assertRequiredElements();
-    const response = await fetch("events.json?v=2027-20261019");
+    const response = await fetch("events.json?v=2027-20261019-r2");
     if (!response.ok) throw new Error(`Unable to load events.json (${response.status})`);
     state.events = await response.json();
     populateFilters();

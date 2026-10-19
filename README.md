@@ -1,6 +1,6 @@
 # App Growth Event Radar 2027
 
-BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **52 events whose exact dates have been announced by organizers**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
+BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **120 events whose exact dates have been announced by organizers**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
 
 Live URL: https://ksuuushaworkhard-design.github.io/bidmatrix-app-growth-event-radar-2026/
 
@@ -23,6 +23,8 @@ The URL deliberately stays the same so existing Wix iframes continue working. HT
 - `styles.css`: responsive widget styles
 - `script.js`: filtering and card rendering
 - `events.json`: 2026 archive plus confirmed-date 2027 entries
+- `data/2027-events.md`: complete 2027 list with new entries marked
+- `data/2027-watchlist.md`: month-only/TBA announcements, conflicting sources and recurring candidates
 - `data/2027-sources.md`: organizer source register, date conventions and known pending announcements
 - `qa/validate-events.mjs`: data validation
 - `qa/2027-report.md`: release verification

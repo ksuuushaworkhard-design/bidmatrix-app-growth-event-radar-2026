@@ -9713,5 +9713,2391 @@
     "dateStatus": "Announced",
     "sourceUrl": "https://europe.possibleevent.com/",
     "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-053",
+    "slug": "wn-connect-london-2027",
+    "status": "Upcoming",
+    "name": "WN Connect London 2027",
+    "startDate": "2027-01-19",
+    "endDate": "2027-01-19",
+    "month": "January",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Games industry networking evening for developers, publishers and business partners following Pocket Gamer Connects London.",
+    "website": "https://wnhub.io/event-info/connect-london-27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://wnhub.io/event-info/connect-london-27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-054",
+    "slug": "ume-game-conference-2027",
+    "status": "Upcoming",
+    "name": "Umeå Game Conference 2027",
+    "startDate": "2027-01-26",
+    "endDate": "2027-01-28",
+    "month": "January",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "Sweden",
+    "city": "Umeå",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Curated B2B games conference connecting studios with publishers, investors and industry partners.",
+    "website": "https://ugconf.se/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://ugconf.se/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-055",
+    "slug": "iab-annual-leadership-meeting-2027",
+    "status": "Upcoming",
+    "name": "IAB Annual Leadership Meeting 2027",
+    "startDate": "2027-02-01",
+    "endDate": "2027-02-03",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Antonio",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Digital Advertising"
+    ],
+    "audienceTags": [
+      "Advertisers",
+      "agencies",
+      "publishers",
+      "media and adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Advertisers, agencies, publishers, media and adtech teams",
+    "shortDescription": "Digital advertising leadership meeting for media, brand, publishing and advertising technology executives.",
+    "website": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-056",
+    "slug": "ukie-conference-2027",
+    "status": "Upcoming",
+    "name": "Ukie Conference 2027",
+    "startDate": "2027-02-11",
+    "endDate": "2027-02-11",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "UK games industry conference covering business growth, partnerships, technology and the future of interactive entertainment.",
+    "website": "https://ukie.org.uk/events/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://ukie.org.uk/events/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-057",
+    "slug": "gamedev-summit-2027",
+    "status": "Upcoming",
+    "name": "GameDev Summit 2027",
+    "startDate": "2027-02-15",
+    "endDate": "2027-02-17",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "APAC",
+    "country": "Philippines",
+    "city": "Clark",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "International games industry summit connecting developers, publishers, investors and production partners.",
+    "website": "https://gamedevsummit.co/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://gamedevsummit.co/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-058",
+    "slug": "ana-creator-marketing-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Creator Marketing Conference 2027",
+    "startDate": "2027-03-01",
+    "endDate": "2027-03-03",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing conference examining creator partnerships, social commerce and audience engagement.",
+    "website": "https://www.ana.net/conference/show/id/INFL-MAR27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/INFL-MAR27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-059",
+    "slug": "prosper-show-2027",
+    "status": "Upcoming",
+    "name": "Prosper Show 2027",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-03",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail / E-commerce",
+      "Retail Media"
+    ],
+    "audienceTags": [
+      "Retailers",
+      "ecommerce brands",
+      "commerce and growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Retailers, ecommerce brands, commerce and growth teams",
+    "shortDescription": "Marketplace seller event for ecommerce operators, brands and technology partners.",
+    "website": "https://prospershow.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://prospershow.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-060",
+    "slug": "hipther-prague-summit-2027",
+    "status": "Upcoming",
+    "name": "HIPTHER Prague Summit 2027",
+    "startDate": "2027-03-23",
+    "endDate": "2027-03-24",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "iGaming operators",
+      "suppliers",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "iGaming operators, suppliers, investors, partnership teams",
+    "shortDescription": "Gaming and technology summit connecting operators, suppliers and industry decision-makers across European markets.",
+    "website": "https://hipther.com/events/prague/summit/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://hipther.com/events/prague/summit/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-061",
+    "slug": "gamescom-dev-leadership-summit-2027",
+    "status": "Upcoming",
+    "name": "gamescom dev Leadership Summit 2027",
+    "startDate": "2027-03-23",
+    "endDate": "2027-03-25",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Games industry leadership summit for studio founders, executives and strategic business partners.",
+    "website": "https://dev.gamescom.global/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://dev.gamescom.global/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-062",
+    "slug": "conversion-conf-warsaw-2027",
+    "status": "Upcoming",
+    "name": "Conversion Conf Warsaw 2027",
+    "startDate": "2027-03-24",
+    "endDate": "2027-03-25",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "Poland",
+    "city": "Warsaw",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "Affiliates",
+      "advertisers",
+      "media buyers",
+      "networks"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliates, advertisers, media buyers, networks",
+    "shortDescription": "Multi-vertical affiliate conference connecting media buyers, advertisers, networks and technology providers.",
+    "website": "https://www.conversion-conf.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.conversion-conf.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-063",
+    "slug": "ctv-world-2027",
+    "status": "Upcoming",
+    "name": "CTV World 2027",
+    "startDate": "2027-03-30",
+    "endDate": "2027-03-31",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "CTV",
+      "Video Advertising"
+    ],
+    "audienceTags": [
+      "CTV platforms",
+      "media buyers",
+      "publishers",
+      "advertisers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "CTV platforms, media buyers, publishers, advertisers",
+    "shortDescription": "Connected TV industry conference bringing together advertising, distribution and content businesses.",
+    "website": "https://www.adexchanger.com/go/ctv-world-2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.admonsters.com/conferences-and-events/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-064",
+    "slug": "nab-show-2027",
+    "status": "Upcoming",
+    "name": "NAB Show 2027",
+    "startDate": "2027-04-04",
+    "endDate": "2027-04-07",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "CTV",
+      "Video Advertising"
+    ],
+    "audienceTags": [
+      "CTV platforms",
+      "media buyers",
+      "publishers",
+      "advertisers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "CTV platforms, media buyers, publishers, advertisers",
+    "shortDescription": "Media and entertainment technology exhibition covering video, content distribution and production ecosystems.",
+    "website": "https://www.nabshow.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.nabshow.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-065",
+    "slug": "ana-in-house-agency-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA In-House Agency Conference 2027",
+    "startDate": "2027-04-12",
+    "endDate": "2027-04-14",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Miami Beach",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Conference for in-house marketing agencies covering creative operations, collaboration and innovation.",
+    "website": "https://www.ana.net/conference/show/id/IHA-APR27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/IHA-APR27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-066",
+    "slug": "london-games-festival-2027",
+    "status": "Upcoming",
+    "name": "London Games Festival 2027",
+    "startDate": "2027-04-12",
+    "endDate": "2027-04-19",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Games festival combining showcases, industry conferences, investment meetings and business networking.",
+    "website": "https://festival.games.london/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://festival.games.london/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-067",
+    "slug": "next-io-summit-new-york-2027",
+    "status": "Upcoming",
+    "name": "NEXT.io Summit New York 2027",
+    "startDate": "2027-04-13",
+    "endDate": "2027-04-14",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "iGaming operators",
+      "suppliers",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "iGaming operators, suppliers, investors, partnership teams",
+    "shortDescription": "Online gambling and sports betting summit connecting operators, suppliers, investors and affiliates.",
+    "website": "https://next.io/summits/newyork/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://next.io/summits/newyork/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-068",
+    "slug": "retail-technology-show-2027",
+    "status": "Upcoming",
+    "name": "Retail Technology Show 2027",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-22",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail / E-commerce",
+      "Retail Media"
+    ],
+    "audienceTags": [
+      "Retailers",
+      "ecommerce brands",
+      "commerce and growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Retailers, ecommerce brands, commerce and growth teams",
+    "shortDescription": "Retail technology exhibition connecting retailers and consumer brands with commerce technology providers.",
+    "website": "https://www.retailtechnologyshow.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.retailtechnologyshow.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-069",
+    "slug": "gamescom-latam-2027",
+    "status": "Upcoming",
+    "name": "gamescom latam 2027",
+    "startDate": "2027-04-22",
+    "endDate": "2027-04-25",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "LATAM",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Latin American games industry event with a B2B program, business meetings and games showcases.",
+    "website": "https://latam.gamescom.global/en/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://latam.gamescom.global/en/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-070",
+    "slug": "ana-masters-of-data-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Masters of Data Conference 2027",
+    "startDate": "2027-04-26",
+    "endDate": "2027-04-28",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Diego",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "AI / Data",
+      "Measurement"
+    ],
+    "audienceTags": [
+      "Marketing data",
+      "analytics and technology teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Marketing data, analytics and technology teams",
+    "shortDescription": "Marketing data conference covering measurement, responsible data use and technology-led growth.",
+    "website": "https://www.ana.net/conference/show/id/DATA-APR27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/DATA-APR27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-071",
+    "slug": "forrester-b2b-summit-north-america-2027",
+    "status": "Upcoming",
+    "name": "Forrester B2B Summit North America 2027",
+    "startDate": "2027-05-02",
+    "endDate": "2027-05-04",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Phoenix",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "B2B marketing and revenue summit for demand generation, growth and commercial leadership teams.",
+    "website": "https://www.forrester.com/event/b2b-summit-north-america/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.forrester.com/event/b2b-summit-north-america/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-072",
+    "slug": "ana-advertising-financial-management-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Advertising Financial Management Conference 2027",
+    "startDate": "2027-05-02",
+    "endDate": "2027-05-05",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Scottsdale",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Advertising management conference focused on marketing investment, agency relationships and operating efficiency.",
+    "website": "https://www.ana.net/conference/show/id/AFM-MAY27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/AFM-MAY27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-073",
+    "slug": "dmwf-global-2027",
+    "status": "Upcoming",
+    "name": "DMWF Global 2027",
+    "startDate": "2027-05-05",
+    "endDate": "2027-05-06",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Digital marketing conference and expo covering marketing strategy, AI and marketing technology.",
+    "website": "https://www.digitalmarketing-conference.com/global/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.digitalmarketing-conference.com/global/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-074",
+    "slug": "ads-takeover-2027",
+    "status": "Upcoming",
+    "name": "Ads Takeover 2027",
+    "startDate": "2027-05-10",
+    "endDate": "2027-05-11",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Miami Beach",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "Affiliates",
+      "advertisers",
+      "media buyers",
+      "networks"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliates, advertisers, media buyers, networks",
+    "shortDescription": "Performance marketing conference connecting advertisers, media buyers, affiliates and acquisition partners.",
+    "website": "https://www.atoconf.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.atoconf.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-075",
+    "slug": "saastr-ai-annual-2027",
+    "status": "Upcoming",
+    "name": "SaaStr AI Annual 2027",
+    "startDate": "2027-05-11",
+    "endDate": "2027-05-12",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Mateo",
+    "mainCategory": "Tech / Startup",
+    "verticalTags": [
+      "AI / Data",
+      "Consumer Tech",
+      "Startups"
+    ],
+    "audienceTags": [
+      "Technology platforms",
+      "startup founders",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Technology platforms, startup founders, investors, partnership teams",
+    "shortDescription": "B2B software and AI conference connecting founders, revenue leaders, investors and technology partners.",
+    "website": "https://www.saastrannual.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.saastrannual.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-076",
+    "slug": "madeira-games-summit-2027",
+    "status": "Upcoming",
+    "name": "Madeira Games Summit 2027",
+    "startDate": "2027-05-13",
+    "endDate": "2027-05-14",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Portugal",
+    "city": "Funchal",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Games business summit bringing developers, publishers, investors and studio leaders together in Madeira.",
+    "website": "https://devgamm.com/madeira2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://devgamm.com/madeira2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-077",
+    "slug": "ana-brand-masters-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Brand Masters Conference 2027",
+    "startDate": "2027-05-17",
+    "endDate": "2027-05-19",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Diego",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Brand marketing conference for marketers working on positioning, audience relationships and business growth.",
+    "website": "https://www.ana.net/conference/show/id/BIC-MAY27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/BIC-MAY27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-078",
+    "slug": "g2e-asia-2027",
+    "status": "Upcoming",
+    "name": "G2E Asia 2027",
+    "startDate": "2027-05-18",
+    "endDate": "2027-05-20",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "APAC",
+    "country": "China",
+    "city": "Macao",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "iGaming operators",
+      "suppliers",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "iGaming operators, suppliers, investors, partnership teams",
+    "shortDescription": "Asian gaming industry exhibition and conference for operators, suppliers and business partners.",
+    "website": "https://www.g2easia.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.g2easia.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-079",
+    "slug": "ana-masters-of-b2b-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Masters of B2B Conference 2027",
+    "startDate": "2027-05-24",
+    "endDate": "2027-05-26",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Chicago",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "B2B marketing conference covering customer insights, demand generation and marketing technology.",
+    "website": "https://www.ana.net/conference/show/id/B2BANC-MAY27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/B2BANC-MAY27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-080",
+    "slug": "asia-tech-x-singapore-2027",
+    "status": "Upcoming",
+    "name": "Asia Tech x Singapore 2027",
+    "startDate": "2027-05-26",
+    "endDate": "2027-05-28",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "Tech / Startup",
+    "verticalTags": [
+      "AI / Data",
+      "Consumer Tech",
+      "Startups"
+    ],
+    "audienceTags": [
+      "Technology platforms",
+      "startup founders",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Technology platforms, startup founders, investors, partnership teams",
+    "shortDescription": "Technology industry gathering connecting enterprise platforms, startups, investors and business partners.",
+    "website": "https://asiatechxsg.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://asiatechxsg.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-081",
+    "slug": "wn-growth-summit-limassol-2027",
+    "status": "Upcoming",
+    "name": "WN Growth Summit Limassol 2027",
+    "startDate": "2027-05-27",
+    "endDate": "2027-05-27",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Cyprus",
+    "city": "Limassol",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "Mobile game publishers",
+      "user acquisition and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, user acquisition and monetization teams",
+    "shortDescription": "Games growth summit for user acquisition, monetization and business development professionals.",
+    "website": "https://wnhub.io/event-info/growth-summit-27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://wnhub.io/event-info/growth-summit-27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-082",
+    "slug": "i-con-island-conference-2027",
+    "status": "Upcoming",
+    "name": "i-Con Island Conference 2027",
+    "startDate": "2027-05-27",
+    "endDate": "2027-05-28",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Cyprus",
+    "city": "Limassol",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "Affiliates",
+      "advertisers",
+      "media buyers",
+      "networks"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliates, advertisers, media buyers, networks",
+    "shortDescription": "Affiliate and online entertainment conference connecting advertisers, publishers and performance marketing partners.",
+    "website": "https://island-conference.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://island-conference.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-083",
+    "slug": "ana-ai-and-technology-for-marketers-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA AI and Technology for Marketers Conference 2027",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-09",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Phoenix",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "AI / Data",
+      "Measurement"
+    ],
+    "audienceTags": [
+      "Marketing data",
+      "analytics and technology teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Marketing data, analytics and technology teams",
+    "shortDescription": "Conference examining AI, marketing technology and emerging platforms for marketing teams.",
+    "website": "https://www.ana.net/conference/show/id/MFM-OCT27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/MFM-OCT27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-084",
+    "slug": "gartner-marketing-symposium-xpo-2027",
+    "status": "Upcoming",
+    "name": "Gartner Marketing Symposium/Xpo 2027",
+    "startDate": "2027-06-07",
+    "endDate": "2027-06-09",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Denver",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing leadership conference for CMOs and teams responsible for strategy, technology and growth.",
+    "website": "https://www.gartner.com/en/conferences/na/marketing-symposium-us",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.gartner.com/en/conferences/na/marketing-symposium-us",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-085",
+    "slug": "commercenext-growth-show-2027",
+    "status": "Upcoming",
+    "name": "CommerceNext Growth Show 2027",
+    "startDate": "2027-06-08",
+    "endDate": "2027-06-09",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail / E-commerce",
+      "Retail Media"
+    ],
+    "audienceTags": [
+      "Retailers",
+      "ecommerce brands",
+      "commerce and growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Retailers, ecommerce brands, commerce and growth teams",
+    "shortDescription": "Retail and ecommerce growth conference connecting brands with customer acquisition and commerce technology partners.",
+    "website": "https://growthshow.commercenext.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://growthshow.commercenext.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-086",
+    "slug": "web-summit-rio-2027",
+    "status": "Upcoming",
+    "name": "Web Summit Rio 2027",
+    "startDate": "2027-06-14",
+    "endDate": "2027-06-17",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "LATAM",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "mainCategory": "Tech / Startup",
+    "verticalTags": [
+      "AI / Data",
+      "Consumer Tech",
+      "Startups"
+    ],
+    "audienceTags": [
+      "Technology platforms",
+      "startup founders",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Technology platforms, startup founders, investors, partnership teams",
+    "shortDescription": "Technology conference connecting startups, investors, platforms and business partners in Latin America.",
+    "website": "https://rio.websummit.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://rio.websummit.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-087",
+    "slug": "vivatech-2027",
+    "status": "Upcoming",
+    "name": "VivaTech 2027",
+    "startDate": "2027-06-16",
+    "endDate": "2027-06-19",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "mainCategory": "Tech / Startup",
+    "verticalTags": [
+      "AI / Data",
+      "Consumer Tech",
+      "Startups"
+    ],
+    "audienceTags": [
+      "Technology platforms",
+      "startup founders",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Technology platforms, startup founders, investors, partnership teams",
+    "shortDescription": "Technology and startup event connecting enterprise brands, investors, founders and innovation partners.",
+    "website": "https://vivatech.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://vivatech.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-088",
+    "slug": "affiliate-africa-conference-2027",
+    "status": "Upcoming",
+    "name": "Affiliate Africa Conference 2027",
+    "startDate": "2027-06-17",
+    "endDate": "2027-06-19",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "Africa",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Affiliate",
+      "Betting"
+    ],
+    "audienceTags": [
+      "iGaming operators",
+      "affiliates",
+      "acquisition teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "iGaming operators, affiliates, acquisition teams",
+    "shortDescription": "Affiliate and iGaming conference connecting operators, publishers, suppliers and growth partners in African markets.",
+    "website": "https://www.affafrica.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.affafrica.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-089",
+    "slug": "gamescom-dev-2027",
+    "status": "Upcoming",
+    "name": "gamescom dev 2027",
+    "startDate": "2027-08-23",
+    "endDate": "2027-08-24",
+    "month": "August",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Cologne",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Developer conference during gamescom week for game studios, publishers and industry partners.",
+    "website": "https://dev.gamescom.global/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://dev.gamescom.global/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-090",
+    "slug": "gamescom-2027",
+    "status": "Upcoming",
+    "name": "gamescom 2027",
+    "startDate": "2027-08-23",
+    "endDate": "2027-08-29",
+    "month": "August",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Cologne",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Gamescom week combines industry business, developer activity and public showcases. Business and Media Day is August 25; public entry starts August 26.",
+    "website": "https://www.gamescom.global/en/info/press-and-creator/participation-for-media-representatives",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.gamescom.global/en/info/press-and-creator/participation-for-media-representatives",
+    "verifiedOn": "2026-10-19",
+    "dateNote": "Whole gamescom week; business/media day August 25, public access August 26-29. gamescom dev is also listed separately."
+  },
+  {
+    "id": "E27-091",
+    "slug": "conversion-conf-cyprus-2027",
+    "status": "Upcoming",
+    "name": "Conversion Conf Cyprus 2027",
+    "startDate": "2027-09-06",
+    "endDate": "2027-09-07",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Cyprus",
+    "city": "Limassol",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "Affiliates",
+      "advertisers",
+      "media buyers",
+      "networks"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliates, advertisers, media buyers, networks",
+    "shortDescription": "Multi-vertical affiliate conference for advertisers, affiliates, media buyers and technology partners.",
+    "website": "https://www.conversion-conf.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.conversion-conf.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-092",
+    "slug": "ana-measurement-analytics-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Measurement & Analytics Conference 2027",
+    "startDate": "2027-09-13",
+    "endDate": "2027-09-15",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Chicago",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "AI / Data",
+      "Measurement"
+    ],
+    "audienceTags": [
+      "Marketing data",
+      "analytics and technology teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Marketing data, analytics and technology teams",
+    "shortDescription": "Marketing measurement and analytics conference for teams assessing advertising and business performance.",
+    "website": "https://www.ana.net/conference/show/id/ROI-SEP27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/ROI-SEP27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-093",
+    "slug": "technology-for-marketing-2027",
+    "status": "Upcoming",
+    "name": "Technology for Marketing 2027",
+    "startDate": "2027-09-22",
+    "endDate": "2027-09-23",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing technology exhibition and conference connecting brands, agencies and digital marketing platforms.",
+    "website": "https://www.technologyformarketing.co.uk/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.technologyformarketing.co.uk/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-094",
+    "slug": "global-gaming-expo-g2e-2027",
+    "status": "Upcoming",
+    "name": "Global Gaming Expo (G2E) 2027",
+    "startDate": "2027-09-27",
+    "endDate": "2027-09-30",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "iGaming operators",
+      "suppliers",
+      "investors",
+      "partnership teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "iGaming operators, suppliers, investors, partnership teams",
+    "shortDescription": "Gaming industry exhibition at The Venetian Expo connecting operators, suppliers and technology partners.",
+    "website": "https://www.globalgamingexpo.com/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.globalgamingexpo.com/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-095",
+    "slug": "ana-media-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Media Conference 2027",
+    "startDate": "2027-10-06",
+    "endDate": "2027-10-08",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Los Angeles",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Digital Advertising"
+    ],
+    "audienceTags": [
+      "Advertisers",
+      "agencies",
+      "publishers",
+      "media and adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Advertisers, agencies, publishers, media and adtech teams",
+    "shortDescription": "Media industry conference for brand and agency teams planning advertising investment and media strategy.",
+    "website": "https://www.ana.net/conference/show/id/MLC-JUN27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/MLC-JUN27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-096",
+    "slug": "ana-masters-of-marketing-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Masters of Marketing Conference 2027",
+    "startDate": "2027-10-26",
+    "endDate": "2027-10-29",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Orlando",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing leadership conference covering brand growth, customer relationships and business strategy.",
+    "website": "https://www.ana.net/conference/show/id/ANC-OCT27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/ANC-OCT27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-097",
+    "slug": "wn-conference-cyprus-2027",
+    "status": "Upcoming",
+    "name": "WN Conference Cyprus 2027",
+    "startDate": "2027-11-04",
+    "endDate": "2027-11-05",
+    "month": "November",
+    "quarter": "Q4",
+    "region": "Europe",
+    "country": "Cyprus",
+    "city": "Limassol",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "Game developers",
+      "publishers",
+      "studio leaders",
+      "investors"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game developers, publishers, studio leaders, investors",
+    "shortDescription": "Games industry conference connecting developers, publishers, investors, platforms and business partners.",
+    "website": "https://wnhub.io/event-info/cyprus27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://wnhub.io/event-info/cyprus27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-098",
+    "slug": "ana-multicultural-and-inclusive-marketing-conference-2027",
+    "status": "Upcoming",
+    "name": "ANA Multicultural and Inclusive Marketing Conference 2027",
+    "startDate": "2027-11-09",
+    "endDate": "2027-11-11",
+    "month": "November",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Conference for marketers working on inclusive audiences, brand relevance and growth opportunities.",
+    "website": "https://www.ana.net/conference/show/id/MCC-NOV27",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.ana.net/conference/show/id/MCC-NOV27",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-099",
+    "slug": "brand-insider-summit-pharma-health-florida-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Pharma & Health — Florida 2027",
+    "startDate": "2027-02-21",
+    "endDate": "2027-02-24",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing summit for pharmaceutical and healthcare brand teams. Florida city and venue are to be announced.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19",
+    "locationNote": "Florida, USA; city and venue TBA"
+  },
+  {
+    "id": "E27-100",
+    "slug": "brand-insider-summit-retail-florida-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Retail — Florida 2027",
+    "startDate": "2027-02-24",
+    "endDate": "2027-02-27",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail / E-commerce",
+      "Retail Media"
+    ],
+    "audienceTags": [
+      "Retailers",
+      "ecommerce brands",
+      "commerce and growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Retailers, ecommerce brands, commerce and growth teams",
+    "shortDescription": "Retail marketing summit for brand and growth teams. Florida city and venue are to be announced.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19",
+    "locationNote": "Florida, USA; city and venue TBA"
+  },
+  {
+    "id": "E27-101",
+    "slug": "brand-insider-summit-travel-hospitality-scottsdale-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Travel & Hospitality — Scottsdale 2027",
+    "startDate": "2027-03-14",
+    "endDate": "2027-03-17",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "Scottsdale",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Brand marketing summit for travel and hospitality marketers and their commercial partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-102",
+    "slug": "ooh-insider-summit-2027",
+    "status": "Upcoming",
+    "name": "OOH Insider Summit 2027",
+    "startDate": "2027-03-17",
+    "endDate": "2027-03-20",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "Scottsdale",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Digital Advertising"
+    ],
+    "audienceTags": [
+      "Advertisers",
+      "agencies",
+      "publishers",
+      "media and adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Advertisers, agencies, publishers, media and adtech teams",
+    "shortDescription": "Out-of-home advertising summit connecting media buyers, brand marketers and industry partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-103",
+    "slug": "brand-insider-summit-sports-marketing-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Sports Marketing 2027",
+    "startDate": "2027-04-11",
+    "endDate": "2027-04-14",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "New Orleans",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Brand marketing summit focused on sports audiences, partnerships and marketing strategy.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-104",
+    "slug": "planning-buying-insider-summit-new-orleans-2027",
+    "status": "Upcoming",
+    "name": "Planning & Buying Insider Summit — New Orleans 2027",
+    "startDate": "2027-04-14",
+    "endDate": "2027-04-17",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "New Orleans",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "Media Buying"
+    ],
+    "audienceTags": [
+      "Media buyers",
+      "advertisers",
+      "agencies",
+      "adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Media buyers, advertisers, agencies, adtech teams",
+    "shortDescription": "Summit for media planning and buying teams to discuss advertising strategy and industry practice.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-105",
+    "slug": "brand-insider-summit-qsr-charleston-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: QSR — Charleston 2027",
+    "startDate": "2027-04-28",
+    "endDate": "2027-05-01",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Charleston",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Brand marketing summit for quick-service restaurant marketers and growth partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-106",
+    "slug": "brand-insider-summit-cpg-charleston-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: CPG — Charleston 2027",
+    "startDate": "2027-05-02",
+    "endDate": "2027-05-05",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Charleston",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing summit for consumer packaged goods brands and their agency and media partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-107",
+    "slug": "email-insider-summit-nashville-2027",
+    "status": "Upcoming",
+    "name": "Email Insider Summit — Nashville 2027",
+    "startDate": "2027-06-02",
+    "endDate": "2027-06-05",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Nashville",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Email marketing summit for lifecycle, retention and customer engagement professionals.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-108",
+    "slug": "brand-insider-summit-financial-services-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Financial Services 2027",
+    "startDate": "2027-06-06",
+    "endDate": "2027-06-09",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "Nashville",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing summit for financial services brands and teams working on customer acquisition and engagement.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-109",
+    "slug": "brand-insider-summit-automotive-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Automotive 2027",
+    "startDate": "2027-07-25",
+    "endDate": "2027-07-28",
+    "month": "July",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Park City",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Automotive brand marketing summit for marketers, agencies and media partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-110",
+    "slug": "brand-insider-summit-pharma-health-park-city-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Pharma & Health — Park City 2027",
+    "startDate": "2027-07-28",
+    "endDate": "2027-07-31",
+    "month": "July",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Park City",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Marketing summit for pharmaceutical and healthcare brand teams and their agency partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-111",
+    "slug": "brand-insider-summit-retail-lake-tahoe-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Retail — Lake Tahoe 2027",
+    "startDate": "2027-08-15",
+    "endDate": "2027-08-18",
+    "month": "August",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Lake Tahoe",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail / E-commerce",
+      "Retail Media"
+    ],
+    "audienceTags": [
+      "Retailers",
+      "ecommerce brands",
+      "commerce and growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Retailers, ecommerce brands, commerce and growth teams",
+    "shortDescription": "Retail brand marketing summit focused on customer relationships, commerce and growth.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-112",
+    "slug": "data-programmatic-insider-summit-2027",
+    "status": "Upcoming",
+    "name": "Data & Programmatic Insider Summit 2027",
+    "startDate": "2027-08-18",
+    "endDate": "2027-08-21",
+    "month": "August",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Lake Tahoe",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "Media Buying"
+    ],
+    "audienceTags": [
+      "Media buyers",
+      "advertisers",
+      "agencies",
+      "adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Media buyers, advertisers, agencies, adtech teams",
+    "shortDescription": "Advertising industry summit focused on marketing data and programmatic media buying.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-113",
+    "slug": "planning-buying-insider-summit-austin-2027",
+    "status": "Upcoming",
+    "name": "Planning & Buying Insider Summit — Austin 2027",
+    "startDate": "2027-09-15",
+    "endDate": "2027-09-18",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "USA",
+    "city": "Austin",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "Media Buying"
+    ],
+    "audienceTags": [
+      "Media buyers",
+      "advertisers",
+      "agencies",
+      "adtech teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Media buyers, advertisers, agencies, adtech teams",
+    "shortDescription": "Summit connecting media planners and buyers with advertising industry partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-114",
+    "slug": "brand-insider-summit-luxury-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Luxury 2027",
+    "startDate": "2027-10-17",
+    "endDate": "2027-10-20",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Napa",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Brand marketing summit for luxury marketers, agencies and media partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-115",
+    "slug": "brand-insider-summit-travel-hospitality-napa-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: Travel & Hospitality — Napa 2027",
+    "startDate": "2027-10-20",
+    "endDate": "2027-10-23",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Napa",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Travel and hospitality brand marketing summit focused on audience relationships and growth.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-116",
+    "slug": "brand-insider-summit-qsr-santa-barbara-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: QSR — Santa Barbara 2027",
+    "startDate": "2027-11-14",
+    "endDate": "2027-11-17",
+    "month": "November",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Santa Barbara",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Quick-service restaurant marketing summit connecting brand, agency and media teams.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-117",
+    "slug": "brand-insider-summit-cpg-santa-barbara-2027",
+    "status": "Upcoming",
+    "name": "Brand Insider Summit: CPG — Santa Barbara 2027",
+    "startDate": "2027-11-17",
+    "endDate": "2027-11-20",
+    "month": "November",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Santa Barbara",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Consumer packaged goods marketing summit for brand marketers, agencies and media partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-118",
+    "slug": "email-insider-summit-deer-valley-2027",
+    "status": "Upcoming",
+    "name": "Email Insider Summit — Deer Valley 2027",
+    "startDate": "2027-12-05",
+    "endDate": "2027-12-08",
+    "month": "December",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Deer Valley",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Digital Marketing",
+      "Martech"
+    ],
+    "audienceTags": [
+      "Brand marketers",
+      "marketing leaders",
+      "agencies",
+      "growth teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketers, marketing leaders, agencies, growth teams",
+    "shortDescription": "Email and lifecycle marketing summit for customer engagement and retention teams.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-119",
+    "slug": "ctv-video-insider-summit-2027",
+    "status": "Upcoming",
+    "name": "CTV & Video Insider Summit 2027",
+    "startDate": "2027-12-08",
+    "endDate": "2027-12-11",
+    "month": "December",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Deer Valley",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "CTV",
+      "Video Advertising"
+    ],
+    "audienceTags": [
+      "CTV platforms",
+      "media buyers",
+      "publishers",
+      "advertisers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "CTV platforms, media buyers, publishers, advertisers",
+    "shortDescription": "Connected TV and video advertising summit for brand marketers, media buyers and industry partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
+  },
+  {
+    "id": "E27-120",
+    "slug": "performance-marketing-insider-summit-2027",
+    "status": "Upcoming",
+    "name": "Performance Marketing Insider Summit 2027",
+    "startDate": "2027-12-12",
+    "endDate": "2027-12-15",
+    "month": "December",
+    "quarter": "Q4",
+    "region": "North America",
+    "country": "USA",
+    "city": "Deer Valley",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "Performance marketers",
+      "advertisers",
+      "agencies",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Performance marketers, advertisers, agencies, media buyers",
+    "shortDescription": "Performance marketing summit for customer acquisition teams, agencies and media partners.",
+    "website": "https://www.mediapost.com/events/2027/",
+    "dateStatus": "Announced",
+    "sourceUrl": "https://www.mediapost.com/events/2027/",
+    "verifiedOn": "2026-10-19"
   }
 ]

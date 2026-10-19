@@ -35,3 +35,14 @@ Main widget browser console: no errors observed. The responsive QA page renders 
 ## Scope
 
 This is the first verified 2027 calendar, not a claim that all recurring conferences have announced their dates. Q4 and APAC coverage is currently limited. Month-only and TBA announcements are excluded from the dated list. No live Wix embed was available for a host-page integration test.
+
+## Expanded research release — 19 October 2026
+
+- Added 68 more organizer-announced events, bringing 2027 to 120 and the full dataset to 350.
+- Original 282 event objects (230 for 2026, 52 from the first 2027 release) are unchanged.
+- Unique IDs and slugs; no duplicate name/start-date/city tuples.
+- All new event dates, month/quarter values, URLs, fields and arrays pass `node qa/validate-events.mjs`.
+- Full source-linked list: `data/2027-events.md`. Month-only/TBA announcements, conflicts and recurring candidates: `data/2027-watchlist.md`.
+- DigiMarCon series and AffPapa Madrid were held for conflicting organizer dates. Other unannounced editions were not extrapolated from 2026.
+- 12 local browser assertions passed: 120 defaults; both Conversion editions; 16 Gaming + Europe events; 13 Q4 events; new cross-month badge (`APR / MAY`, `28 - 1`); 230-event archive; return to 120; external link security; no desktop overflow; zero widget console errors; 320px and 390px iframe layouts with 120 cards and zero overflow.
+- App Growth category remains five exact-date events; expanded research adds Gaming, iGaming, AdTech, Affiliate, Digital Marketing, Retail and Tech coverage within the existing eight categories.
