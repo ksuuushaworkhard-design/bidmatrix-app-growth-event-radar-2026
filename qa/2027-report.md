@@ -1,5 +1,19 @@
 # Event Radar 2027 release checks
 
+## Coverage and discovery release — 19 October 2026
+
+- 90 added listings: 41 exact-date events, 28 announced 2027 editions awaiting dates, 21 unannounced recurring series to watch.
+- Current 2027 total: 162 dated + 30 dates pending + 21 watchlist = 213 discoverable listings, of which 192 are announced events. Dataset total including the unchanged 230-event archive: 443.
+- All 353 previously committed event objects are preserved exactly. No 2026 dates were extrapolated into 2027.
+- Source register, complete list, coverage audit and held-conflict notes are in `data/`. Portside dates remain under review; unannounced series display last-published locations and do not claim a confirmed 2027 edition.
+- Added Date status and CTV discovery. Categories overlap on explicit topic tags; category counts are not additive. Option counts reflect the other filter constraints and zero-result options are disabled. Category/region chips replace corresponding dropdown constraints.
+- JavaScript syntax, data validation and `git diff --check` passed.
+- 36 browser assertions passed: every category populated; mobile/gaming overlap; all regions populated; chip/dropdown replacement in both directions; contextual option counts; watchlist disclosure; pending dates and conflict note; dated Q1; search/Enter and topic tags; 230-event archive; Clear with pending year; return to 213; external link security; 1200px desktop and 320/390px embedded layouts.
+- All 213 cards rendered at 320px and 390px with no overflowing elements. Desktop at 1200px also had no horizontal overflow. No widget console errors.
+- Main URL publication must be checked separately: GitHub has an active Actions/Pages availability incident and earlier runs are waiting for deployment. Local preview success does not confirm production publication.
+
+The older sections below record earlier releases and their then-current counts.
+
 Checked 19 October 2026 against the local release preview in the Codex Chromium browser.
 
 ## Data

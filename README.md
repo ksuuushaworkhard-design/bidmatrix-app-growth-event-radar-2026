@@ -1,6 +1,6 @@
 # App Growth Event Radar 2027
 
-BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **121 events with organizer-announced dates and 2 announced editions awaiting dates**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
+BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **192 announced events (162 dated, 30 awaiting exact dates), plus 21 unannounced series to watch**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
 
 Live URL: https://ksuuushaworkhard-design.github.io/bidmatrix-app-growth-event-radar-2026/
 
@@ -9,10 +9,10 @@ The URL deliberately stays the same so existing Wix iframes continue working. HT
 ## Behavior
 
 - Year defaults to 2027. Select 2026 to browse the archive, then Apply.
-- Search, Year, Region, Category and Quarter apply when clicking Apply or pressing Enter in search.
-- Quick chips update immediately, with OR within a chip type and AND between chip types.
-- Clear filters resets search, chips and the three dropdown filters within the currently applied year.
-- Dated events sort by start date, then name. Announced editions awaiting exact dates appear in a separate Dates to be announced block with a 2027 / TBA badge. They match search, chips, region and category; a specific quarter excludes them.
+- Search, Year, Region, Category, Quarter and Date status apply when clicking Apply or pressing Enter in search.
+- Quick chips update immediately, with OR within a chip type and AND between chip types. Region/category chips replace the corresponding applied dropdown; choosing that dropdown replaces chips in the same dimension.
+- Clear filters resets search, chips and the dropdown filters within the currently applied year.
+- Dated events sort by start date, then name. Announced editions awaiting dates and unannounced series appear in separate sections. A specific quarter excludes both undated groups. Date status can show only dated events, dates pending, or series to watch.
 - Date badges show the month once and numeric days: `JANUARY / 18 - 20`; cross-month events use `APR / MAY / 30 - 1`.
 - Visit Website opens the organizer's site in a new tab with `noopener noreferrer`.
 - The design retains Oswald + Roboto, dark panels and turquoise `#09CAB6` accents.
@@ -23,7 +23,9 @@ The URL deliberately stays the same so existing Wix iframes continue working. HT
 - `styles.css`: responsive widget styles
 - `script.js`: filtering and card rendering
 - `events.json`: 2026 archive plus dated and explicitly undated 2027 entries
-- `data/2027-events.md`: complete 2027 list with new entries marked
+- `data/2027-events.md`: complete current list, separated by announcement status
+- `data/2027-coverage-audit.md`: category/region coverage and filtering rules
+- `data/2027-coverage-expansion.md`: 90 new listings and their sources
 - `data/2027-watchlist.md`: month-only/TBA announcements, conflicting sources and recurring candidates
 - `data/2027-sources.md`: organizer source register, date conventions and known pending announcements
 - `qa/validate-events.mjs`: data validation
@@ -71,3 +73,9 @@ Use an Embed / website iframe with the existing URL, width 100%, and a height su
 ```
 
 Undated 2027 editions use an explicit `year: 2027`, `dateStatus: "TBA"` and empty startDate, endDate, month and quarter. Include them only when the organizer announces the 2027 edition; keep unannounced recurring series in the watchlist.
+
+## Discovery and evidence
+
+Category membership can overlap: mobile gaming events are also discoverable under Mobile / App Growth, while explicitly tagged affiliate/adtech events appear under those categories. Category counts are not additive. Filter options are year-specific, counts reflect other constraints, and zero-result options are disabled. Applied constraints are shown in an active-filter summary.
+
+Unannounced recurring series use `dateStatus: "Watchlist"`, `status: "Watching"`, an explicit planning `year: 2027`, empty date/month/quarter fields, and a title without a claimed 2027 edition. Cards disclose that the edition is unannounced and location is from the last published edition. They are counted separately from announced events. Source links and checked dates are displayed on sourced cards; format and access restrictions are shown when documented.

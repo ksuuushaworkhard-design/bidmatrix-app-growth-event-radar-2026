@@ -12210,5 +12210,3453 @@
     "website": "https://programmatic.boussiasevents.gr/",
     "sourceUrl": "https://programmatic.boussiasevents.gr/",
     "dateStatus": "TBA"
+  },
+  {
+    "id": "E27-124",
+    "slug": "app-growth-summit-paris-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "App Growth Summit Paris 2027",
+    "startDate": "2027-05-27",
+    "endDate": "2027-05-27",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Curated app growth summit covering acquisition, creative, retention and monetization.",
+    "website": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
+    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference",
+    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+  },
+  {
+    "id": "E27-125",
+    "slug": "ats-singapore-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "ATS Singapore 2027",
+    "startDate": "2027-06-30",
+    "endDate": "2027-06-30",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Publishers, agencies, media buyers and adtech partnership teams",
+    "shortDescription": "ExchangeWire summit connecting APAC advertising technology, media and programmatic leaders.",
+    "website": "https://www.exchangewire.com/events/",
+    "sourceUrl": "https://www.exchangewire.com/events/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-126",
+    "slug": "connected-tv-world-summit-london-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Connected TV World Summit London 2027",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-10",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "CTV",
+      "Video Advertising"
+    ],
+    "audienceTags": [
+      "streaming platforms",
+      "publishers",
+      "media buyers",
+      "advertisers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "CTV and video platforms, publishers and advertising partners",
+    "shortDescription": "Summit for streaming and premium TV businesses on audiences, advertising revenue and distribution.",
+    "website": "https://www.adwantedevents.com/ctvws27",
+    "sourceUrl": "https://www.adwantedevents.com/ctvws27",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-127",
+    "slug": "iab-newfronts-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "IAB NewFronts 2027",
+    "startDate": "2027-03-22",
+    "endDate": "2027-03-25",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "CTV",
+      "Video Advertising"
+    ],
+    "audienceTags": [
+      "streaming platforms",
+      "publishers",
+      "media buyers",
+      "advertisers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "CTV and video platforms, publishers and advertising partners",
+    "shortDescription": "Digital video marketplace connecting brands and agencies with content, platforms and advertising opportunities.",
+    "website": "https://www.iab.com/events/2027-iab-newfronts/",
+    "sourceUrl": "https://www.iab.com/events/2027-iab-newfronts/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-128",
+    "slug": "iab-connected-commerce-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "IAB Connected Commerce Summit 2027",
+    "startDate": "2027-04-20",
+    "endDate": "2027-04-20",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail Media",
+      "E-commerce",
+      "AdTech"
+    ],
+    "audienceTags": [
+      "retailers",
+      "brands",
+      "media buyers",
+      "commerce platforms"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Commerce media buyers, brands, retailers and advertising partners",
+    "shortDescription": "Commerce media summit covering measurement, incrementality and connected shopping journeys.",
+    "website": "https://www.iab.com/events/2027-iab-connected-commerce-summit/",
+    "sourceUrl": "https://www.iab.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-129",
+    "slug": "sbc-summit-rio-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SBC Summit Rio 2027",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-04",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "LATAM",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Brazilian gaming business summit for operators, affiliates and commercial partners at Riocentro.",
+    "website": "https://sbcevents.com/sbc-summit-rio/",
+    "sourceUrl": "https://sbcevents.com/sbc-summit-rio/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-130",
+    "slug": "global-games-show-abu-dhabi-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Global Games Show Abu Dhabi 2027",
+    "startDate": "2027-01-27",
+    "endDate": "2027-01-28",
+    "month": "January",
+    "quarter": "Q1",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "B2B gaming conference connecting studios, publishers, investors and technology providers.",
+    "website": "https://www.globalgamesshow.com/",
+    "sourceUrl": "https://www.globalgamesshow.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-131",
+    "slug": "splitscreen-games-conference-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Splitscreen Games Conference 2027",
+    "startDate": "2027-04-20",
+    "endDate": "2027-04-22",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Croatia",
+    "city": "Split",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Curated games industry gathering for studio leaders, publishers and business partners.",
+    "website": "https://www.splitscreencroatia.com/",
+    "sourceUrl": "https://www.splitscreencroatia.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-132",
+    "slug": "game-access-conference-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Game Access Conference 2027",
+    "startDate": "2027-05-07",
+    "endDate": "2027-05-08",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Czech Republic",
+    "city": "Brno",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Game development conference with industry talks, studio networking and business opportunities.",
+    "website": "https://game-access.com/conference/",
+    "sourceUrl": "https://game-access.com/conference/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-133",
+    "slug": "digital-dragons-conference-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Digital Dragons Conference 2027",
+    "startDate": "2027-05-23",
+    "endDate": "2027-05-25",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Poland",
+    "city": "Krakow",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Games industry conference linking studios, publishers, investors and service partners.",
+    "website": "https://conference.digitaldragons.pl/",
+    "sourceUrl": "https://conference.digitaldragons.pl/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-134",
+    "slug": "xp-game-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "XP Game Summit 2027",
+    "startDate": "2027-06-10",
+    "endDate": "2027-06-11",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "North America",
+    "country": "Canada",
+    "city": "Toronto",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Games business summit for industry partnerships, market insight and studio growth.",
+    "website": "https://xpgamesummit.com/",
+    "sourceUrl": "https://xpgamesummit.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-135",
+    "slug": "game-camp-france-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Game Camp France 2027",
+    "startDate": "2027-06-17",
+    "endDate": "2027-06-18",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "France",
+    "city": "Lille",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Professional games industry gathering with talks, knowledge sharing and studio networking.",
+    "website": "https://fr.linkedin.com/company/game-camp-france",
+    "sourceUrl": "https://fr.linkedin.com/company/game-camp-france",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-136",
+    "slug": "external-development-summit-xds-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "External Development Summit (XDS) 2027",
+    "startDate": "2027-09-20",
+    "endDate": "2027-09-24",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "North America",
+    "country": "Canada",
+    "city": "Vancouver",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Focused games industry summit on external development, outsourcing and production partnerships.",
+    "website": "https://xdsummit.com/",
+    "sourceUrl": "https://xdsummit.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-137",
+    "slug": "next-app-devcon-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "next.app devCon 2027",
+    "startDate": "2027-09-29",
+    "endDate": "2027-10-01",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Berlin",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Mobile app developer conference for engineering, product and platform partnerships; less focused on paid UA.",
+    "website": "https://www.nextappcon.com/",
+    "sourceUrl": "https://www.nextappcon.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-138",
+    "slug": "big-africa-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "BiG Africa Summit 2027",
+    "startDate": "2027-02-01",
+    "endDate": "2027-02-04",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "Africa",
+    "country": "Botswana",
+    "city": "Gaborone",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "African iGaming industry summit for operators, technology providers and regional partnerships.",
+    "website": "https://www.bigafricasummit.com/",
+    "sourceUrl": "https://www.bigafricasummit.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference",
+    "dateNote": "Organizer site and organizer calendar agree on 1–4 February; secondary calendars contain different dates."
+  },
+  {
+    "id": "E27-139",
+    "slug": "mega-mexico-gaming-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "MEGA Mexico Gaming 2027",
+    "startDate": "2027-02-24",
+    "endDate": "2027-02-26",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "LATAM",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming summit for market entry, local acquisition strategy and industry partnerships.",
+    "website": "https://www.eventus-international.com/mega",
+    "sourceUrl": "https://www.eventus-international.com/mega",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-140",
+    "slug": "spice-south-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SPiCE+ South Asia 2027",
+    "startDate": "2027-03-09",
+    "endDate": "2027-03-11",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "APAC",
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "South Asian gaming business summit covering market development, technology and commercial partnerships.",
+    "website": "https://www.spiceseries.com/ssa",
+    "sourceUrl": "https://www.spiceseries.com/spice-south-asia",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-141",
+    "slug": "sports-betting-east-africa-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Sports Betting East Africa+ Summit 2027",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-23",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "Africa",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional operator and supplier summit for East African betting and gaming markets.",
+    "website": "https://www.sportsbettingevents.com/sbea",
+    "sourceUrl": "https://www.sportsbettingevents.com/sbea",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-142",
+    "slug": "igaming-germany-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "iGaming Germany 2027",
+    "startDate": "2027-05-13",
+    "endDate": "2027-05-14",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Munich",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Focused summit for operators, suppliers and commercial teams in the German gaming market.",
+    "website": "https://www.eventus-international.com/igg",
+    "sourceUrl": "https://www.eventus-international.com/igg",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-143",
+    "slug": "gaming-retail-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Gaming Retail Summit 2027",
+    "startDate": "2027-05-18",
+    "endDate": "2027-05-19",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Dusseldorf",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Gaming retail and omnichannel business summit for operators and technology providers.",
+    "website": "https://www.eventus-international.com/gaming-retail",
+    "sourceUrl": "https://www.eventus-international.com/gaming-retail",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-144",
+    "slug": "spice-east-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SPiCE East Asia 2027",
+    "startDate": "2027-05-25",
+    "endDate": "2027-05-26",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "APAC",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming and integrated resort summit for commercial development and industry partnerships.",
+    "website": "https://www.spiceseries.com/sea",
+    "sourceUrl": "https://www.spiceseries.com/sea",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-145",
+    "slug": "cyprus-gaming-show-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Cyprus Gaming Show 2027",
+    "startDate": "2027-06-10",
+    "endDate": "2027-06-11",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Cyprus",
+    "city": "Limassol",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Focused iGaming summit covering growth, acquisition, technology and operational development.",
+    "website": "https://www.eventus-international.com/cyprus-gaming-show",
+    "sourceUrl": "https://www.eventus-international.com/cyprus-gaming-show",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-146",
+    "slug": "spice-southeast-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SPiCE Southeast Asia 2027",
+    "startDate": "2027-08-04",
+    "endDate": "2027-08-06",
+    "month": "August",
+    "quarter": "Q3",
+    "region": "APAC",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming conference connecting operators, providers and commercial partners across Southeast Asia.",
+    "website": "https://www.spiceseries.com/ssea",
+    "sourceUrl": "https://www.spiceseries.com/ssea",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-147",
+    "slug": "spice-affiliate-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SPiCE Affiliate 2027",
+    "startDate": "2027-09-15",
+    "endDate": "2027-09-17",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "APAC",
+    "country": "India",
+    "city": "Goa",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate and customer acquisition summit linking brands, buyers, networks and technology partners.",
+    "website": "https://www.spiceseries.com/sa",
+    "sourceUrl": "https://www.spiceseries.com/sa",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-148",
+    "slug": "spice-central-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SPiCE Central Asia 2027",
+    "startDate": "2027-09-21",
+    "endDate": "2027-09-22",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Gaming market summit covering regional growth, affiliate strategy and technology partnerships.",
+    "website": "https://www.spiceseries.com/sca",
+    "sourceUrl": "https://www.spiceseries.com/sca",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Conference"
+  },
+  {
+    "id": "E27-149",
+    "slug": "global-virtual-martech-summit-january-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Global Virtual MarTech Summit — January 2027",
+    "startDate": "2027-01-20",
+    "endDate": "2027-01-20",
+    "month": "January",
+    "quarter": "Q1",
+    "region": "Global / Online",
+    "country": "Online",
+    "city": "Online",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Virtual summit"
+  },
+  {
+    "id": "E27-150",
+    "slug": "the-martech-summit-berlin-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Berlin 2027",
+    "startDate": "2027-02-25",
+    "endDate": "2027-02-25",
+    "month": "February",
+    "quarter": "Q1",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Berlin",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/berlin",
+    "sourceUrl": "https://themartechsummit.com/berlin",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-151",
+    "slug": "the-martech-summit-asia-singapore-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Asia — Singapore 2027",
+    "startDate": "2027-03-02",
+    "endDate": "2027-03-03",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/singapore",
+    "sourceUrl": "https://themartechsummit.com/singapore",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-152",
+    "slug": "the-martech-summit-paris-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Paris 2027",
+    "startDate": "2027-04-21",
+    "endDate": "2027-04-21",
+    "month": "April",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/paris",
+    "sourceUrl": "https://themartechsummit.com/paris",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-153",
+    "slug": "the-martech-summit-stockholm-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Stockholm 2027",
+    "startDate": "2027-05-26",
+    "endDate": "2027-05-26",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/stockholm",
+    "sourceUrl": "https://themartechsummit.com/stockholm",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-154",
+    "slug": "the-martech-summit-madrid-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Madrid 2027",
+    "startDate": "2027-05-28",
+    "endDate": "2027-05-28",
+    "month": "May",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Spain",
+    "city": "Madrid",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/madrid",
+    "sourceUrl": "https://themartechsummit.com/madrid",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-155",
+    "slug": "the-martech-summit-amsterdam-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Amsterdam 2027",
+    "startDate": "2027-06-24",
+    "endDate": "2027-06-24",
+    "month": "June",
+    "quarter": "Q2",
+    "region": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/amsterdam",
+    "sourceUrl": "https://themartechsummit.com/amsterdam",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-156",
+    "slug": "the-martech-summit-manila-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Manila 2027",
+    "startDate": "2027-07-01",
+    "endDate": "2027-07-01",
+    "month": "July",
+    "quarter": "Q3",
+    "region": "APAC",
+    "country": "Philippines",
+    "city": "Manila",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/manila",
+    "sourceUrl": "https://themartechsummit.com/manila",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-157",
+    "slug": "the-martech-summit-hong-kong-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Hong Kong 2027",
+    "startDate": "2027-07-08",
+    "endDate": "2027-07-08",
+    "month": "July",
+    "quarter": "Q3",
+    "region": "APAC",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/hongkong",
+    "sourceUrl": "https://themartechsummit.com/hongkong",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-158",
+    "slug": "the-martech-summit-milan-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Milan 2027",
+    "startDate": "2027-09-16",
+    "endDate": "2027-09-16",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Europe",
+    "country": "Italy",
+    "city": "Milan",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-159",
+    "slug": "the-martech-summit-sydney-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Sydney 2027",
+    "startDate": "2027-09-21",
+    "endDate": "2027-09-21",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Oceania",
+    "country": "Australia",
+    "city": "Sydney",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-160",
+    "slug": "the-martech-summit-dubai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Dubai 2027",
+    "startDate": "2027-09-28",
+    "endDate": "2027-09-28",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Dubai",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/dubai",
+    "sourceUrl": "https://themartechsummit.com/dubai",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-161",
+    "slug": "global-virtual-martech-summit-september-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Global Virtual MarTech Summit — September 2027",
+    "startDate": "2027-09-30",
+    "endDate": "2027-09-30",
+    "month": "September",
+    "quarter": "Q3",
+    "region": "Global / Online",
+    "country": "Online",
+    "city": "Online",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Virtual summit"
+  },
+  {
+    "id": "E27-162",
+    "slug": "the-martech-summit-bangkok-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Bangkok 2027",
+    "startDate": "2027-10-05",
+    "endDate": "2027-10-05",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "APAC",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/bangkok",
+    "sourceUrl": "https://themartechsummit.com/bangkok",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-163",
+    "slug": "the-martech-summit-kuala-lumpur-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit Kuala Lumpur 2027",
+    "startDate": "2027-10-19",
+    "endDate": "2027-10-19",
+    "month": "October",
+    "quarter": "Q4",
+    "region": "APAC",
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-164",
+    "slug": "the-martech-summit-london-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "The MarTech Summit London 2027",
+    "startDate": "2027-11-10",
+    "endDate": "2027-11-11",
+    "month": "November",
+    "quarter": "Q4",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
+    "website": "https://themartechsummit.com/summit-dates/",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Announced",
+    "format": "Summit"
+  },
+  {
+    "id": "E27-165",
+    "slug": "wn-dubai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "WN Dubai 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Dubai",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Games industry networking for developers, publishers, investors and service partners.",
+    "website": "https://wnhub.io/event-info/abu-dhabi-27",
+    "sourceUrl": "https://wnhub.io/event-info/abu-dhabi-27",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "February 2027"
+  },
+  {
+    "id": "E27-166",
+    "slug": "wn-istanbul-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "WN Istanbul 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Türkiye",
+    "city": "Istanbul",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Games business gathering for studios, publishers and commercial partners.",
+    "website": "https://wnhub.io/event-info/istanbul27",
+    "sourceUrl": "https://wnhub.io/event-info/istanbul27",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "June 2027"
+  },
+  {
+    "id": "E27-167",
+    "slug": "wn-dinner-shanghai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "WN Dinner Shanghai 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "China",
+    "city": "Shanghai",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Games industry business dinner for studio, publishing and partnership leaders.",
+    "website": "https://wnhub.io/event-info/wn-shanghai-27",
+    "sourceUrl": "https://wnhub.io/event-info/wn-shanghai-27",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "July 2027"
+  },
+  {
+    "id": "E27-168",
+    "slug": "devgamm-dubai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "DevGAMM Dubai 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Dubai",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "B2B games event for studios, publishers, investors and industry partners.",
+    "website": "https://devgamm.com/",
+    "sourceUrl": "https://devgamm.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "Spring 2027"
+  },
+  {
+    "id": "E27-169",
+    "slug": "gamesforum-hamburg-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Gamesforum Hamburg 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Hamburg",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Focused mobile game UA and ad monetization gathering with practitioner roundtables.",
+    "website": "https://www.globalgamesforum.com/hamburg",
+    "sourceUrl": "https://www.globalgamesforum.com/hamburg",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-170",
+    "slug": "dmwf-north-america-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "DMWF North America 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Digital marketing forum for brand, growth and technology leaders.",
+    "website": "https://www.digitalmarketing-conference.com/northamerica/",
+    "sourceUrl": "https://www.digitalmarketing-conference.com/northamerica/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "September 2027"
+  },
+  {
+    "id": "E27-171",
+    "slug": "dmwf-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "DMWF Asia 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "Digital Marketing / Martech",
+    "verticalTags": [
+      "Martech",
+      "Digital Marketing",
+      "Performance Marketing"
+    ],
+    "audienceTags": [
+      "brand marketers",
+      "growth leaders",
+      "agencies",
+      "marketing technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Brand marketing, performance, data and marketing technology teams",
+    "shortDescription": "Asian digital marketing forum for brands, agencies and marketing technology partners.",
+    "website": "https://www.digitalmarketing-conference.com/asia/",
+    "sourceUrl": "https://www.digitalmarketing-conference.com/asia/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-172",
+    "slug": "sigma-asia-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SiGMA Asia 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Philippines",
+    "city": "Manila",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming and affiliate business summit connecting operators, networks and suppliers.",
+    "website": "https://sigma.world/summits/asia/exhibit/",
+    "sourceUrl": "https://sigma.world/summits/asia/exhibit/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "June 2027"
+  },
+  {
+    "id": "E27-173",
+    "slug": "sigma-north-america-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SiGMA North America 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "LATAM",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Gaming and affiliate business event for commercial teams in the Americas.",
+    "website": "https://sigma.world/summits/asia/exhibit/",
+    "sourceUrl": "https://sigma.world/summits/asia/exhibit/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "September 2027"
+  },
+  {
+    "id": "E27-174",
+    "slug": "affiliate-world-dubai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Affiliate World Dubai 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Dubai",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate marketing conference for advertisers, networks, traffic sources and performance partners.",
+    "website": "https://www.affiliateworldevents.com/",
+    "sourceUrl": "https://www.affiliateworldevents.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-175",
+    "slug": "affiliate-world-europe-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Affiliate World Europe 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Hungary",
+    "city": "Budapest",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "European affiliate gathering for performance marketers, advertisers and networks.",
+    "website": "https://www.affiliateworldevents.com/",
+    "sourceUrl": "https://www.affiliateworldevents.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-176",
+    "slug": "affiliate-world-americas-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Affiliate World Americas 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "LATAM",
+    "country": "Mexico",
+    "city": "Cancun",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate industry gathering for performance teams and advertisers working across the Americas.",
+    "website": "https://www.affiliateworldevents.com/",
+    "sourceUrl": "https://www.affiliateworldevents.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-177",
+    "slug": "sbc-summit-americas-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "SBC Summit Americas 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "Fort Lauderdale",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting",
+      "Affiliate"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Gaming industry summit for operators, affiliates, acquisition and technology partners.",
+    "website": "https://sbcevents.com/sbc-summit-americas/",
+    "sourceUrl": "https://sbcevents.com/sbc-summit-americas/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-178",
+    "slug": "hipther-baltics-nordics-tallinn-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "HIPTHER Baltics & Nordics: Tallinn 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming summit covering market development, data and industry partnerships.",
+    "website": "https://www.hipther.com/igaming",
+    "sourceUrl": "https://www.hipther.com/igaming",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "June 2027"
+  },
+  {
+    "id": "E27-179",
+    "slug": "seamless-digital-commerce-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Seamless Digital Commerce 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "Location TBA",
+    "city": "Location TBA",
+    "mainCategory": "Retail / E-commerce",
+    "verticalTags": [
+      "Retail Media",
+      "E-commerce",
+      "AdTech"
+    ],
+    "audienceTags": [
+      "retailers",
+      "brands",
+      "media buyers",
+      "commerce platforms"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Commerce media buyers, brands, retailers and advertising partners",
+    "shortDescription": "Digital commerce and retail technology gathering. Next-edition location and exact dates are pending.",
+    "website": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+    "sourceUrl": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-180",
+    "slug": "ats-london-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "ATS London 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Publishers, agencies, media buyers and adtech partnership teams",
+    "shortDescription": "ExchangeWire has signalled the return of ATS London in 2027; exact dates are not published.",
+    "website": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/",
+    "sourceUrl": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-181",
+    "slug": "pi-live-europe-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "PI LIVE Europe 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Partner and affiliate marketing event; organizer is collecting waitlist interest for 2027.",
+    "website": "https://performancein.live/europe/passes/",
+    "sourceUrl": "https://performancein.live/europe/passes/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-182",
+    "slug": "sports-betting-west-africa-summit-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Sports Betting West Africa+ Summit 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Africa",
+    "country": "Senegal",
+    "city": "Dakar",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Regional gaming and betting business summit; 2027 is listed in the organizer calendar.",
+    "website": "https://www.eventus-international.com/",
+    "sourceUrl": "https://www.eventus-international.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "October 2027"
+  },
+  {
+    "id": "E27-183",
+    "slug": "gaming-event-francophone-africa-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Gaming Event Francophone Africa 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Africa",
+    "country": "Senegal",
+    "city": "Dakar",
+    "mainCategory": "iGaming / Betting",
+    "verticalTags": [
+      "iGaming",
+      "Betting"
+    ],
+    "audienceTags": [
+      "operators",
+      "affiliates",
+      "technology providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
+    "shortDescription": "Francophone African gaming business gathering; 2027 is listed in the organizer calendar.",
+    "website": "https://www.eventus-international.com/",
+    "sourceUrl": "https://www.eventus-international.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "October 2027"
+  },
+  {
+    "id": "E27-184",
+    "slug": "portside-game-assembly-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Portside Game Assembly 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Hamburg",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Curated meeting for indie studio leaders. Organizer pages show conflicting 2027 dates; verify before booking.",
+    "website": "https://portsideassembly.com/",
+    "sourceUrl": "https://portsideassembly.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027 — dates under review",
+    "dateNote": "Date conflict: homepage lists 1–2 July; About page lists 24–25 June 2027. Exact days held for review.",
+    "accessNote": "Conference is curated for established indie studio heads; check partner access."
+  },
+  {
+    "id": "E27-185",
+    "slug": "game-dev-local-expo-gdlx-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "Game Dev Local Expo (GDLX) 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Game Publishing"
+    ],
+    "audienceTags": [
+      "game studios",
+      "publishers",
+      "industry partners"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Game studios, publishers and business development teams",
+    "shortDescription": "Indie games showcase and industry gathering; applications for the 2027 edition are open.",
+    "website": "https://www.gamedevlocal.com/gdlx",
+    "sourceUrl": "https://www.gamedevlocal.com/gdlx",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-186",
+    "slug": "ttmeetup-las-vegas-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Las Vegas 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "Las Vegas",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-187",
+    "slug": "ttmeetup-dubai-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Dubai 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "UAE",
+    "city": "Dubai",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-188",
+    "slug": "ttmeetup-budapest-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Budapest 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Hungary",
+    "city": "Budapest",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-189",
+    "slug": "ttmeetup-sao-paulo-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Sao Paulo 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "LATAM",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-190",
+    "slug": "ttmeetup-new-york-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup New York 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-191",
+    "slug": "ttmeetup-cancun-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Cancun 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "LATAM",
+    "country": "Mexico",
+    "city": "Cancun",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-192",
+    "slug": "ttmeetup-bangkok-2027",
+    "status": "Upcoming",
+    "year": 2027,
+    "name": "TTMeetup Bangkok 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "mainCategory": "Affiliate / Performance",
+    "verticalTags": [
+      "Affiliate",
+      "Performance Marketing",
+      "User Acquisition"
+    ],
+    "audienceTags": [
+      "affiliates",
+      "advertisers",
+      "networks",
+      "media buyers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
+    "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
+    "website": "https://ttmeetup.com/",
+    "sourceUrl": "https://ttmeetup.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "TBA",
+    "format": "Meetup",
+    "announcedWindow": "2027"
+  },
+  {
+    "id": "E27-193",
+    "slug": "growth-phestival-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Growth Phestival",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Berlin",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Focused app growth community event covering ASO, paid acquisition, retention and monetization.",
+    "website": "https://growthphestival.com/",
+    "sourceUrl": "https://growthphestival.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-194",
+    "slug": "appgala-barcelona-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "AppGala Barcelona",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Spain",
+    "city": "Barcelona",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Small mobile app and gaming business conference covering growth, product and monetization.",
+    "website": "https://appgala.events/",
+    "sourceUrl": "https://appgala.events/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-195",
+    "slug": "appgala-warsaw-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "AppGala Warsaw",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Poland",
+    "city": "Warsaw",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Small app industry event for marketing, product and growth teams.",
+    "website": "https://appgala.events/",
+    "sourceUrl": "https://appgala.events/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-196",
+    "slug": "ua-society-summit-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "UA Society Summit",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Practitioner gathering for mobile UA, retention and creative teams.",
+    "website": "https://uasociety.events/ua-society-summit-2026-london-uk/",
+    "sourceUrl": "https://uasociety.events/ua-society-summit-2026-london-uk/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Latest edition restricted to app developers and publishers; vendor access requires organizer approval."
+  },
+  {
+    "id": "E27-197",
+    "slug": "aso-spot-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "ASO Spot",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Russian-language practitioner conference on app store optimization and mobile app growth.",
+    "website": "https://asospot.com/",
+    "sourceUrl": "https://asospot.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-198",
+    "slug": "app-growth-annual-by-revenuecat-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "App Growth Annual by RevenueCat",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "App business gathering with growth workshops and monetization discussions.",
+    "website": "https://appgrowthannual.com/",
+    "sourceUrl": "https://appgrowthannual.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-199",
+    "slug": "unlocked-mobile-app-growth-summit-amsterdam-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Unlocked Mobile & App Growth Summit Amsterdam",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Focused European app growth event for marketing, product and UX leaders.",
+    "website": "https://mobileappgrowthsummit.com/amsterdam/",
+    "sourceUrl": "https://mobileappgrowthsummit.com/amsterdam/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-200",
+    "slug": "mama-san-francisco-by-appsflyer-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "MAMA San Francisco by AppsFlyer",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Francisco",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "App marketing community gathering on measurement, incrementality, creative and growth.",
+    "website": "https://www.appsflyer.com/events/mama-san-francisco-2026/",
+    "sourceUrl": "https://www.appsflyer.com/events/mama-san-francisco-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-201",
+    "slug": "israel-mobile-summit-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Israel Mobile Summit",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "MENA",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Mobile apps, games and advertising technology event for app businesses and partners.",
+    "website": "https://israelmobilesummit.com/",
+    "sourceUrl": "https://israelmobilesummit.com/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-202",
+    "slug": "app-growth-summit-berlin-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "App Growth Summit Berlin",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "Berlin",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Curated app growth gathering for user acquisition, retention and product teams.",
+    "website": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/",
+    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+  },
+  {
+    "id": "E27-203",
+    "slug": "app-growth-summit-london-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "App Growth Summit London",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "UK",
+    "city": "London",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Curated mobile marketing and product gathering for growth practitioners.",
+    "website": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/",
+    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+  },
+  {
+    "id": "E27-204",
+    "slug": "app-growth-summit-san-francisco-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "App Growth Summit San Francisco",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Francisco",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "App growth community event for acquisition, retention, creative and monetization teams.",
+    "website": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/",
+    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+  },
+  {
+    "id": "E27-205",
+    "slug": "app-growth-summit-sao-paulo-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "App Growth Summit Sao Paulo",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "LATAM",
+    "country": "Brazil",
+    "city": "Sao Paulo",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile",
+      "App Growth",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "UA leads",
+      "product and monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "App advertisers, user acquisition and monetization teams",
+    "shortDescription": "Regional app growth community gathering for Latin American app businesses.",
+    "website": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/",
+    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+  },
+  {
+    "id": "E27-206",
+    "slug": "prebid-summit-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Prebid Summit",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "New York",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Publishers, agencies, media buyers and adtech partnership teams",
+    "shortDescription": "Open-source advertising technology community gathering for publishers, platforms and engineering partners.",
+    "website": "https://www.prebidsummit.org/",
+    "sourceUrl": "https://www.prebidsummit.org/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-207",
+    "slug": "prebid-germany-devcon-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Prebid Germany DevCon",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Germany",
+    "city": "City TBA",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Publishers, agencies, media buyers and adtech partnership teams",
+    "shortDescription": "Technical community event for open-source advertising infrastructure and integration partners.",
+    "website": "https://prebid.org/calendar/",
+    "sourceUrl": "https://prebid.org/calendar/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-208",
+    "slug": "beeler-tech-base-camp-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Beeler.Tech Base.Camp",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Global / Online",
+    "country": "USA / Spain",
+    "city": "Multiple locations",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Publishers, agencies, media buyers and adtech partnership teams",
+    "shortDescription": "Curated publisher revenue and ad operations gathering with partner participation.",
+    "website": "https://www.beeler.tech/events/",
+    "sourceUrl": "https://www.beeler.tech/events/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced",
+    "accessNote": "Curated invitation format; technology partners should check partnership access."
+  },
+  {
+    "id": "E27-209",
+    "slug": "mobile-executive-summit-by-gamesforum-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Mobile Executive Summit by Gamesforum",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Focused gathering for Vietnamese mobile studio and publisher executives.",
+    "website": "https://www.globalgamesforum.com/mes-ho-chi-minh",
+    "sourceUrl": "https://www.globalgamesforum.com/mes-ho-chi-minh",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-210",
+    "slug": "gamesforum-san-francisco-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Gamesforum San Francisco",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "USA",
+    "city": "San Francisco",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Focused mobile games community conference on UA and advertising monetization.",
+    "website": "https://www.globalgamesforum.com/san-francisco",
+    "sourceUrl": "https://www.globalgamesforum.com/san-francisco",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-211",
+    "slug": "gamesforum-vancouver-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Gamesforum Vancouver",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "North America",
+    "country": "Canada",
+    "city": "Vancouver",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Focused mobile game marketing, product and monetization gathering.",
+    "website": "https://www.globalgamesforum.com/vancouver",
+    "sourceUrl": "https://www.globalgamesforum.com/vancouver",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-212",
+    "slug": "gamesforum-vietnam-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Gamesforum Vietnam",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Vietnam",
+    "city": "Hanoi",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Regional mobile games growth gathering connecting studios, publishers and advertising partners.",
+    "website": "https://www.globalgamesforum.com/vietnam",
+    "sourceUrl": "https://www.globalgamesforum.com/vietnam",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
+  },
+  {
+    "id": "E27-213",
+    "slug": "mobidictum-conference-2027-watch",
+    "status": "Watching",
+    "year": 2027,
+    "name": "Mobidictum Conference",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Türkiye",
+    "city": "Istanbul",
+    "mainCategory": "Gaming",
+    "verticalTags": [
+      "Gaming",
+      "Mobile Gaming",
+      "AdTech",
+      "User Acquisition",
+      "Ad Monetization"
+    ],
+    "audienceTags": [
+      "mobile game publishers",
+      "UA leads",
+      "ad monetization teams"
+    ],
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "bestFor": "Mobile game publishers, UA and advertising monetization teams",
+    "shortDescription": "Games industry conference with mobile publishing, growth and partnership opportunities.",
+    "website": "https://mobidictum.com/events/mobidictum-conference-2026/",
+    "sourceUrl": "https://mobidictum.com/events/mobidictum-conference-2026/",
+    "verifiedOn": "2026-10-19",
+    "dateStatus": "Watchlist",
+    "format": "Conference",
+    "lastEdition": "2026",
+    "locationStatus": "Last published location; next edition unannounced"
   }
 ]

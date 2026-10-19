@@ -6,7 +6,7 @@
   <meta name="description" content="Find 2027 app growth, gaming, adtech and affiliate events, including announced editions awaiting dates. Explore the 2026 archive.">
   <title>App Growth Event Radar 2027 | BidMatrix</title>
   <link rel="icon" href="data:,">
-  <link rel="stylesheet" href="styles.css?v=2027-20261019-r3">
+  <link rel="stylesheet" href="styles.css?v=2027-20261019-r4">
 </head>
 <body>
   <main class="widget-shell">
@@ -23,6 +23,7 @@
         <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Affiliate">Affiliate</button>
         <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="AdTech">AdTech</button>
         <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="Programmatic">Programmatic</button>
+        <button type="button" class="chip" data-filter-type="category" data-filter-field="verticalTags" data-filter-value="CTV">CTV</button>
         <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="Europe">Europe</button>
         <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="APAC">APAC</button>
         <button type="button" class="chip" data-filter-type="region" data-filter-field="region" data-filter-value="North America">North America</button>
@@ -47,12 +48,17 @@
           <span>Quarter</span>
           <select id="quarterFilter" data-filter="quarter"></select>
         </label>
+        <label for="dateStatusFilter">
+          <span>Date status</span>
+          <select id="dateStatusFilter" data-filter="dateStatus"></select>
+        </label>
         <button type="button" id="applyFilters" class="primary-button">Apply</button>
         <button type="button" id="clearFilters" class="secondary-button">Clear filters</button>
       </div>
 
       <p id="resultCount" class="result-count">Loading events...</p>
       <p id="dataNote" class="data-note"></p>
+      <p id="activeFilters" class="active-filters" hidden></p>
     </section>
 
     <section class="events-section" aria-live="polite">
@@ -65,6 +71,6 @@
     </section>
   </main>
 
-  <script src="script.js?v=2027-20261019-r3"></script>
+  <script src="script.js?v=2027-20261019-r4"></script>
 </body>
 </html>

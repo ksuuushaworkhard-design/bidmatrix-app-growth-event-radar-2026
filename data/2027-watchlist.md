@@ -1,26 +1,38 @@
-# Event Radar 2027 — анонсы и кандидаты для следующей проверки
+# Event Radar 2027 — watchlist and held conflicts
 
-Проверено 19 октября 2026 года. Записи ниже **не входят в 121 событие с точными датами** и не показываются как датированные события в радаре. Отсутствие опубликованной даты не означает отмену события.
+Checked 19 October 2026. These 21 series are visible in the radar in a separate Series to watch section. They are not counted among the 192 announced 2027 events. Cities below are last-published locations, not confirmed future venues.
 
-## 2027 уже упоминается организатором, точных дней пока нет
-
-| Событие | Что опубликовано | Место | Официальный источник |
+| Series | Latest verified edition | Last published location | Organizer |
 | --- | --- | --- | --- |
-| DevGAMM Dubai 2027 | Весна 2027 | Дубай, ОАЭ | [DevGAMM](https://devgamm.com/) |
-| WN Dubai 2027 | Февраль 2027 | Дубай, ОАЭ | [WN calendar](https://wnhub.io/event-info) |
-| WN Istanbul 2027 | Июнь 2027 | Стамбул, Турция | [WN calendar](https://wnhub.io/event-info) |
-| WN Dinner Shanghai 2027 | Июль 2027 | Шанхай, Китай | [WN calendar](https://wnhub.io/event-info) |
-| SBC Summit Rio 2027 | TBA | Рио-де-Жанейро, Бразилия | [SBC](https://sbcevents.com/) |
-| SBC Summit Americas 2027 | TBA | Форт-Лодердейл, США | [SBC](https://sbcevents.com/) |
-| SiGMA Asia 2027 | Июнь 2027 | Манила, Филиппины | [SiGMA](https://sigma.world/) |
-| SiGMA North America 2027 | Сентябрь 2027 | Мехико, Мексика | [SiGMA](https://sigma.world/) |
-| Gamesforum Hamburg 2027 | TBC | Гамбург, Германия | [Gamesforum](https://www.globalgamesforum.com/hamburg) |
-| DMWF North America 2027 | Сентябрь 2027 | Нью-Йорк, США | [DMWF](https://www.digitalmarketing-conference.com/northamerica/) |
-| DMWF Asia 2027 | Coming soon, 2027 | Сингапур | [DMWF](https://www.digitalmarketing-conference.com/asia/) |
-| HIPTHER Baltics & Nordics: Tallinn 2027 | Июнь 2027 | Таллин, Эстония | [HIPTHER](https://hipther.com/igaming) |
-| Seamless Digital Commerce 2027 | See you in 2027; точных дат на проверенной странице нет | Место следующей версии требует проверки | [Организатор](https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm) |
-| Affiliate World Dubai 2027 | 2027 Dates Coming Soon | Дубай, ОАЭ | [Организатор](https://www.affiliateworldevents.com/) |
-| Affiliate World Europe 2027 | 2027 Dates Coming Soon | Место следующей версии требует проверки | [Организатор](https://www.affiliateworldevents.com/) |
+| ASO Spot | 2026 | Tbilisi, Georgia | [Source](https://asospot.com/) |
+| App Growth Annual by RevenueCat | 2026 | New York, USA | [Source](https://appgrowthannual.com/) |
+| App Growth Summit Berlin | 2026 | Berlin, Germany | [Source](https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/) |
+| App Growth Summit London | 2026 | London, UK | [Source](https://appgrowthsummit.com/events/app-growth-summit-london-2026/) |
+| App Growth Summit San Francisco | 2026 | San Francisco, USA | [Source](https://appgrowthsummit.com/events/app-growth-summit-sf-2026/) |
+| App Growth Summit Sao Paulo | 2026 | Sao Paulo, Brazil | [Source](https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/) |
+| AppGala Barcelona | 2026 | Barcelona, Spain | [Source](https://appgala.events/) |
+| AppGala Warsaw | 2026 | Warsaw, Poland | [Source](https://appgala.events/) |
+| Beeler.Tech Base.Camp | 2026 | Multiple locations, USA / Spain | [Source](https://www.beeler.tech/events/) |
+| Gamesforum San Francisco | 2026 | San Francisco, USA | [Source](https://www.globalgamesforum.com/san-francisco) |
+| Gamesforum Vancouver | 2026 | Vancouver, Canada | [Source](https://www.globalgamesforum.com/vancouver) |
+| Gamesforum Vietnam | 2026 | Hanoi, Vietnam | [Source](https://www.globalgamesforum.com/vietnam) |
+| Growth Phestival | 2026 | Berlin, Germany | [Source](https://growthphestival.com/) |
+| Israel Mobile Summit | 2026 | Tel Aviv, Israel | [Source](https://israelmobilesummit.com/) |
+| MAMA San Francisco by AppsFlyer | 2026 | San Francisco, USA | [Source](https://www.appsflyer.com/events/mama-san-francisco-2026/) |
+| Mobidictum Conference | 2026 | Istanbul, Türkiye | [Source](https://mobidictum.com/events/mobidictum-conference-2026/) |
+| Mobile Executive Summit by Gamesforum | Year not established | Ho Chi Minh City, Vietnam | [Source](https://www.globalgamesforum.com/mes-ho-chi-minh) |
+| Prebid Germany DevCon | 2026 | City TBA, Germany | [Source](https://prebid.org/calendar/) |
+| Prebid Summit | 2026 | New York, USA | [Source](https://www.prebidsummit.org/) |
+| UA Society Summit | 2026 | London, UK | [Source](https://uasociety.events/ua-society-summit-2026-london-uk/) |
+| Unlocked Mobile & App Growth Summit Amsterdam | 2026 | Amsterdam, Netherlands | [Source](https://mobileappgrowthsummit.com/amsterdam/) |
+
+## Announced editions with dates pending
+
+The 30 announced 2027 editions are listed in [the full calendar](2027-events.md) and shown under Dates pending in the widget. WN month-only events, Gamesforum Hamburg, the TTMeetup world tour, Affiliate World, SiGMA Asia/North America, DMWF and other organizer-announced editions are included without fabricated days.
+
+## Portside date conflict
+
+[Homepage](https://portsideassembly.com/) lists 1–2 July 2027; [About page](https://portsideassembly.com/about-portside/) lists 24–25 June 2027. The radar shows a dates-under-review note and no exact date.
 
 ## Расхождения между опубликованными источниками
 
@@ -46,32 +58,10 @@
 
 В опубликованных программах встречаются издания в Los Angeles, New York, Boston, Toronto, Vancouver, Seattle, San Antonio, Dallas, Chicago, Detroit/Cleveland, Nashville, Atlanta, Houston, San Francisco, Sydney, Melbourne, Hong Kong, Bangkok, Singapore, New Delhi, London, Stockholm, Barcelona, Amsterdam, Berlin, Dubai, Riyadh, Johannesburg, Cape Town, Washington DC, Miami, Orlando/Caribbean, Denver/Salt Lake City, Las Vegas, Phoenix, San Diego и Anaheim, а также виртуальные издания. Это список направлений для сверки, а не подтверждение точных дат каждого города; некоторые программы также содержат 2028 год.
 
-## Повторяющиеся серии: на проверенных страницах пока нет подтверждённой версии 2027 с точными датами
 
-Эти события нельзя считать подтверждёнными на 2027 только потому, что они прошли в 2026.
 
-| Серия | Результат проверки | Источник |
-| --- | --- | --- |
-| Growth Phestival | Проверенная страница всё ещё указывает сентябрь 2026 | [Организатор](https://growthphestival.com/) |
-| App Growth Annual | Страница версии 2026 | [Организатор](https://appgrowthannual.com/) |
-| Mobidictum Conference | В календаре организатора не найден точный анонс 2027 | [Организатор](https://mobidictum.com/events/) |
-| Israel Mobile Summit | Страница версии 2026 | [Организатор](https://israelmobilesummit.com/) |
-| AppGala | Страница версии 2026 | [Организатор](https://appgala.events/) |
-| PI LIVE Europe | Страница версии октября 2026 | [Организатор](https://performancein.live/europe/) |
-| ad:tech Tokyo | На проверенной странице нет дат 2027 | [Организатор](https://adtech-tokyo.com/en/) |
-| Другие города App Growth Summit | Точные даты 2027 найдены для Los Angeles и Istanbul; остальные города автоматически не переносились | [Календарь](https://appgrowthsummit.com/events/) |
-| Другие города Pocket Gamer Connects | London 2027 добавлен; остальные города требуют отдельного анонса | [Календарь](https://www.pgconnects.com/) |
-| D.I.C.E. Summit 2027 | PocketGamer.biz указывает 16–18 февраля, но проверенный сайт организатора подтверждает лишь Awards 18 февраля; диапазон самого саммита требует первичного подтверждения | [D.I.C.E.](https://www.dicesummit.org/), [AIAS — дата Awards](https://www.interactive.org/awards/30th_annual_dice_awards_submissions_now_open.asp) |
+## Other held candidates
 
-## Почему первая версия содержала только 52 события
+D.I.C.E. Summit: primary organizer confirmation of the full summit range still required; the Awards date alone is insufficient. [Organizer](https://www.dicesummit.org/).
 
-1. Первый поиск не охватил полностью календари MediaPost, ANA, WN, часть gaming, affiliate и технологических событий. Расширенный поиск дал ещё 68 записей с опубликованными датами.
-2. В исходной базе 2026 было много разных типов событий, включая широкие marketing, retail и tech-конференции; первая версия 2027 покрывала их неравномерно.
-3. На 19 октября 2026 года у ряда особенно важных app growth-серий ещё нет точных дат 2027. Поэтому число чисто Mobile / App Growth-конференций пока остаётся 5; gaming, adtech и performance отражены в отдельных категориях.
-4. Месяц, сезон, TBA и спорные даты не превращались в выдуманные дни ради увеличения счётчика.
-
-## Дополнительная нишевая подборка
-
-Unlocked Singapore и Programmatic & Beyond Athens добавлены в радар отдельным блоком TBA: организаторы уже анонсировали 2027, точных дат нет. Brand & AI Safety Summit Singapore добавлен с датой 18 марта 2027.
-
-Для дальнейшей проверки: [UA Society Summit](https://uasociety.events/ua-society-summit-2026-london-uk/), [Beeler.Tech Base.Camp](https://www.beeler.tech/events/), [Prebid Summit / DevCon](https://prebid.org/calendar/), [Mobile Executive Summit Vietnam](https://www.globalgamesforum.com/mes-ho-chi-minh), [ASO Spot](https://asospot.com/), а также AppGala, Growth Phestival и App Growth Annual из таблицы выше. Эти серии не добавлены как подтверждённые версии 2027. В аккаунте ASO Spot есть намерение провести следующую встречу весной, но точных дат нет.
+Other PGC cities and other regional AGS editions are not automatically copied from the 2026 calendar.

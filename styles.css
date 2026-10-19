@@ -183,7 +183,7 @@ select:focus {
 
 .filter-controls {
   display: grid;
-  grid-template-columns: 94px repeat(3, minmax(0, 1fr)) 108px 152px;
+  grid-template-columns: 100px repeat(4, minmax(0, 1fr));
   gap: 11px;
   margin-top: 14px;
   align-items: end;
@@ -202,6 +202,54 @@ select:focus {
   text-transform: uppercase;
   white-space: nowrap;
   transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+#applyFilters,
+#clearFilters {
+  justify-self: start;
+}
+
+.active-filters,
+.source-note,
+.access-note,
+.date-note {
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.active-filters {
+  margin: 10px 0 0;
+}
+
+.source-note {
+  margin: 12px 0 0;
+}
+
+.source-note a {
+  text-underline-offset: 3px;
+}
+
+.date-note {
+  color: var(--accent);
+}
+
+.access-note {
+  margin-bottom: 14px;
+}
+
+.event-card.is-watchlist {
+  border-style: dashed;
+}
+
+.event-card.is-watchlist .date-badge {
+  font-size: 0.9rem;
+  white-space: normal;
+}
+
+.chip:disabled {
+  opacity: 0.4;
+  cursor: default;
 }
 
 .primary-button {
