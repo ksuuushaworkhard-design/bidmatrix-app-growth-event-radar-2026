@@ -1,6 +1,6 @@
 # Event Radar 2027 — source register
 
-Checked 19 October 2026. 120 events with exact dates announced by organizers. 52 from the initial release plus 68 from expanded research. The 230 original 2026 records are unchanged.
+Checked 19 October 2026. 121 events with exact dates announced by organizers, plus 2 announced 2027 editions with dates TBA. 52 from the initial release, 68 from expanded research, and 3 from the niche shortlist. The 230 original 2026 records are unchanged.
 
 Categories, tags, audience, goals and descriptions are editorial. This is the radar scope, including adjacent brand marketing, retail and technology events, not a claim to cover every global event. Organizer dates may change.
 
@@ -126,6 +126,9 @@ Categories, tags, audience, goals and descriptions are editorial. This is the ra
 | E27-118 | Email Insider Summit — Deer Valley 2027 | 2027-12-05 – 2027-12-08 | Deer Valley, USA | [Organizer](https://www.mediapost.com/events/2027/) |
 | E27-119 | CTV & Video Insider Summit 2027 | 2027-12-08 – 2027-12-11 | Deer Valley, USA | [Organizer](https://www.mediapost.com/events/2027/) |
 | E27-120 | Performance Marketing Insider Summit 2027 | 2027-12-12 – 2027-12-15 | Deer Valley, USA | [Organizer](https://www.mediapost.com/events/2027/) |
+| E27-121 | Brand & AI Safety Summit Singapore 2027 | 2027-03-18 | Singapore, Singapore | [Organizer](https://brandsafetysummit.com/) |
+| E27-122 | Unlocked: Mobile & App Growth Summit Singapore 2027 | 2027 — dates TBA | Singapore, Singapore | [Organizer](https://mobileappgrowthsummit.com/singapore/) |
+| E27-123 | Programmatic & Beyond Conference 2027 | 2027 — dates TBA | Athens, Greece | [Organizer](https://programmatic.boussiasevents.gr/) |
 
 ## Source and counting notes
 
@@ -137,3 +140,6 @@ Categories, tags, audience, goals and descriptions are editorial. This is the ra
 - Affiliate Leaders Summit remains a separately branded, co-located event alongside SBC Summit.
 - Day ranges include organizer-announced networking/conference days. Month and quarter are derived from start date.
 - [Uncertain announcements and candidates](2027-watchlist.md) are excluded from the dated calendar.
+
+- Unlocked Singapore and Programmatic & Beyond explicitly announce 2027; their exact dates, month and quarter remain empty.
+- Brand & AI Safety Summit Singapore: organizer calendar and main 2027 event text agree on 18 March 2027; a lower block on the dedicated page retains a stale 2026 line.

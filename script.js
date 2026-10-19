@@ -44,7 +44,7 @@ const elements = {
 async function init() {
   try {
     assertRequiredElements();
-    const response = await fetch("events.json?v=2027-20261019-r2");
+    const response = await fetch("events.json?v=2027-20261019-r3");
     if (!response.ok) throw new Error(`Unable to load events.json (${response.status})`);
     state.events = await response.json();
     populateFilters();
@@ -189,11 +189,17 @@ function render() {
     const checked = allVerified
       ? parseEventDate(checkedDates[0]).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })
       : "";
+    const pendingCount = yearEvents.filter((event) => event.dateStatus === "TBA").length;
     elements.dataNote.textContent = allVerified
-      ? `Organizer-announced dates · Checked ${checked} · More dates to be announced.`
+      ? `${yearEvents.length - pendingCount} dated events${pendingCount ? ` · ${pendingCount} dates TBA` : ""} · Checked ${checked} · Organizer announcements.`
       : `${state.applied.year} archive · Original event listings.`;
   }
-  elements.eventsGrid.innerHTML = matches.map(eventCard).join("");
+  const dated = matches.filter((event) => event.dateStatus !== "TBA");
+  const pending = matches.filter((event) => event.dateStatus === "TBA");
+  const pendingHeading = pending.length
+    ? `<div class="pending-heading"><h2>Dates to be announced</h2><p>These ${escapeHtml(state.applied.year)} editions are announced. Exact dates are still pending.</p></div>`
+    : "";
+  elements.eventsGrid.innerHTML = dated.map(eventCard).join("") + pendingHeading + pending.map(eventCard).join("");
   elements.emptyState.hidden = matches.length > 0;
 }
 
@@ -210,7 +216,7 @@ function filteredEvents() {
 }
 
 function eventYear(event) {
-  return event.startDate.slice(0, 4);
+  return String(event.year || event.startDate.slice(0, 4));
 }
 
 function eventMatchesQuickFilters(event) {
@@ -237,7 +243,7 @@ function searchText(event) {
 }
 
 function sortByDate(a, b) {
-  return a.startDate.localeCompare(b.startDate) || a.name.localeCompare(b.name);
+  return (a.startDate || "9999").localeCompare(b.startDate || "9999") || a.name.localeCompare(b.name);
 }
 
 function syncChips() {
@@ -260,7 +266,7 @@ function eventCard(event) {
     : `<span class="event-link" aria-disabled="true">Website TBA</span>`;
 
   return `
-    <article class="event-card">
+    <article class="event-card" data-event-id="${escapeAttribute(event.id)}">
       <div class="card-header">
         <div>
           <h2>${escapeHtml(event.name)}</h2>
@@ -288,6 +294,7 @@ function formatDateRange(event) {
 }
 
 function formatMonthLabel(event) {
+  if (event.dateStatus === "TBA") return eventYear(event);
   const start = parseEventDate(event.startDate);
   const end = parseEventDate(event.endDate);
   if (!start) return event.month || "Date";

@@ -1,6 +1,6 @@
 # Event Radar 2027 — полный найденный список
 
-Проверено 19 октября 2026 года. **120 событий с опубликованными датами** в направлениях существующего Event Radar: app growth, gaming, iGaming, affiliate/performance, adtech, digital marketing, retail/ecommerce и technology/startup. **68 добавлены при расширенном поиске**, 52 были в первой версии.
+Проверено 19 октября 2026 года. **121 событие с опубликованными датами и 2 анонсированных события без точных дат** в направлениях существующего Event Radar: app growth, gaming, iGaming, affiliate/performance, adtech, digital marketing, retail/ecommerce и technology/startup. **68 добавлены при расширенном поиске**, 52 были в первой версии.
 
 Это полный список текущей базы радара, а не обещание охватить все мировые события. Отраслевые бренд-маркетинговые конференции включены в более широкие категории радара. Даты опубликованы организаторами и могут измениться.
 
@@ -34,7 +34,7 @@
 | 24–27.02 | [Brand Insider Summit: Retail — Florida 2027](https://www.mediapost.com/events/2027/) | Florida, USA; city and venue TBA | Retail / E-commerce | Новое |
 | 25.02 | [App Growth Summit Los Angeles 2027](https://appgrowthsummit.com/events/) | Los Angeles, USA | Mobile / App Growth | Первая версия |
 
-## Март — 18
+## Март — 19
 
 | Даты | Событие и официальный источник | Место | Категория | Добавлено |
 | --- | --- | --- | --- | --- |
@@ -50,6 +50,7 @@
 | 17–20.03 | [OOH Insider Summit 2027](https://www.mediapost.com/events/2027/) | Scottsdale, USA | AdTech / Programmatic | Новое |
 | 17–18.03 | [ad:tech New Delhi 2027](https://newdelhi.ad-tech.com/) | New Delhi, India | AdTech / Programmatic | Первая версия |
 | 18.03 | [App Growth Summit Istanbul 2027](https://appgrowthsummit.com/events/) | Istanbul, Türkiye | Mobile / App Growth | Первая версия |
+| 18.03 | [Brand & AI Safety Summit Singapore 2027](https://brandsafetysummit.com/) | Singapore, Singapore | AdTech / Programmatic | Нишевая подборка |
 | 22–24.03 | [Digiday Publishing Summit 2027](https://digiday.com/events/digiday-publishing-summit-march-2027/) | Vail, USA | AdTech / Programmatic | Первая версия |
 | 22–24.03 | [Shoptalk Spring 2027](https://spring.shoptalk.com/home) | Las Vegas, USA | Retail / E-commerce | Первая версия |
 | 23–24.03 | [HIPTHER Prague Summit 2027](https://hipther.com/events/prague/summit/) | Prague, Czech Republic | iGaming / Betting | Новое |
@@ -186,11 +187,11 @@
 | 08–11.12 | [CTV & Video Insider Summit 2027](https://www.mediapost.com/events/2027/) | Deer Valley, USA | AdTech / Programmatic | Новое |
 | 12–15.12 | [Performance Marketing Insider Summit 2027](https://www.mediapost.com/events/2027/) | Deer Valley, USA | Affiliate / Performance | Новое |
 
-## По направлениям
+## По направлениям — события с точными датами
 
 | Направление | Количество |
 | --- | --- |
-| AdTech / Programmatic | 18 |
+| AdTech / Programmatic | 19 |
 | Affiliate / Performance | 12 |
 | Digital Marketing / Martech | 32 |
 | Gaming | 19 |
@@ -199,4 +200,11 @@
 | Tech / Startup | 7 |
 | iGaming / Betting | 15 |
 
-Анонсы без точных дат, спорные даты и кандидаты следующего года вынесены в [отдельный список](2027-watchlist.md). Они не входят в 120 событий выше.
+Дополнительные анонсы, спорные даты и кандидаты следующего года вынесены в [отдельный список](2027-watchlist.md). Они не входят в 121 событие с точными датами выше. Два анонсированных события TBA показаны ниже и отдельным блоком в радаре.
+
+## Версии 2027 с датами TBA — 2
+
+| Событие и официальный источник | Место | Категория | Статус |
+| --- | --- | --- | --- |
+| [Unlocked: Mobile & App Growth Summit Singapore 2027](https://mobileappgrowthsummit.com/singapore/) | Singapore, Singapore | Mobile / App Growth | 2027 анонсирован, точные даты ожидаются |
+| [Programmatic & Beyond Conference 2027](https://programmatic.boussiasevents.gr/) | Athens, Greece | AdTech / Programmatic | 2027 анонсирован, точные даты ожидаются |

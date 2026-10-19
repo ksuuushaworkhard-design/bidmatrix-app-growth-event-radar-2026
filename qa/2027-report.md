@@ -46,3 +46,13 @@ This is the first verified 2027 calendar, not a claim that all recurring confere
 - DigiMarCon series and AffPapa Madrid were held for conflicting organizer dates. Other unannounced editions were not extrapolated from 2026.
 - 12 local browser assertions passed: 120 defaults; both Conversion editions; 16 Gaming + Europe events; 13 Q4 events; new cross-month badge (`APR / MAY`, `28 - 1`); 230-event archive; return to 120; external link security; no desktop overflow; zero widget console errors; 320px and 390px iframe layouts with 120 cards and zero overflow.
 - App Growth category remains five exact-date events; expanded research adds Gaming, iGaming, AdTech, Affiliate, Digital Marketing, Retail and Tech coverage within the existing eight categories.
+# Niche conference update — 19 October 2026
+
+- 121 dated events + 2 organizer-announced 2027 editions awaiting dates; 353 total including the archive.
+- Added Brand & AI Safety Summit Singapore (18 March), Unlocked Singapore (TBA), and Programmatic & Beyond Athens (TBA).
+- TBA editions render after dated events under a separate heading with 2027 / TBA badges. No month, day or quarter is invented.
+- Data validation and JavaScript syntax checks passed; all 350 earlier records preserved exactly.
+- Eight local browser assertions passed: initial count/order, TBA search, exclusion from a specific quarter, Enter + Q1 dated search, Programmatic + Europe chips, 230-event archive, Clear preserving year, and search matching both TBA editions.
+- Both 320 px and 390 px iframe previews passed with 123 cards and zero overflowing elements. No browser console errors.
+- Publication status is recorded separately after the deployment check.
+

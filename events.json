@@ -12099,5 +12099,116 @@
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
     "verifiedOn": "2026-10-19"
+  },
+  {
+    "status": "Upcoming",
+    "year": 2027,
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "verifiedOn": "2026-10-19",
+    "id": "E27-121",
+    "slug": "brand-ai-safety-summit-singapore-2027",
+    "name": "Brand & AI Safety Summit Singapore 2027",
+    "startDate": "2027-03-18",
+    "endDate": "2027-03-18",
+    "month": "March",
+    "quarter": "Q1",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "Brand Safety"
+    ],
+    "audienceTags": [
+      "advertisers",
+      "agencies",
+      "adtech executives",
+      "media buyers"
+    ],
+    "bestFor": "Advertisers, agencies and adtech partners focused on inventory quality and brand suitability",
+    "shortDescription": "One-day summit for brands, media buyers and adtech leaders on brand safety, AI safety and trust in digital advertising.",
+    "website": "https://brandsafetysummit.com/singapore-27",
+    "sourceUrl": "https://brandsafetysummit.com/",
+    "dateStatus": "Announced"
+  },
+  {
+    "status": "Upcoming",
+    "year": 2027,
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "verifiedOn": "2026-10-19",
+    "id": "E27-122",
+    "slug": "unlocked-mobile-app-growth-summit-singapore-2027",
+    "name": "Unlocked: Mobile & App Growth Summit Singapore 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "APAC",
+    "country": "Singapore",
+    "city": "Singapore",
+    "mainCategory": "Mobile / App Growth",
+    "verticalTags": [
+      "Mobile Marketing",
+      "User Acquisition",
+      "Monetization"
+    ],
+    "audienceTags": [
+      "app marketers",
+      "growth leaders",
+      "product teams",
+      "advertisers"
+    ],
+    "bestFor": "App advertisers and growth teams across Southeast Asia",
+    "shortDescription": "Focused summit for mobile app growth, acquisition, measurement and monetization. The organizer has announced the 2027 edition; exact dates are pending.",
+    "website": "https://mobileappgrowthsummit.com/singapore/",
+    "sourceUrl": "https://mobileappgrowthsummit.com/singapore/",
+    "dateStatus": "TBA"
+  },
+  {
+    "status": "Upcoming",
+    "year": 2027,
+    "goalTags": [
+      "Networking",
+      "Partnerships",
+      "Lead generation"
+    ],
+    "verifiedOn": "2026-10-19",
+    "id": "E27-123",
+    "slug": "programmatic-beyond-athens-2027",
+    "name": "Programmatic & Beyond Conference 2027",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
+    "region": "Europe",
+    "country": "Greece",
+    "city": "Athens",
+    "mainCategory": "AdTech / Programmatic",
+    "verticalTags": [
+      "AdTech",
+      "Programmatic",
+      "CTV"
+    ],
+    "audienceTags": [
+      "publishers",
+      "advertisers",
+      "agencies",
+      "adtech providers"
+    ],
+    "bestFor": "Programmatic buyers, publishers and adtech partners in Greece and Southeast Europe",
+    "shortDescription": "Focused conference for agencies, publishers and adtech providers on programmatic, AI, measurement and CTV. Interest registration is open for 2027; exact dates are pending.",
+    "website": "https://programmatic.boussiasevents.gr/",
+    "sourceUrl": "https://programmatic.boussiasevents.gr/",
+    "dateStatus": "TBA"
   }
 ]
