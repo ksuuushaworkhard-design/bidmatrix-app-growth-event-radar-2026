@@ -1,7 +1,10 @@
+const DEFAULT_YEAR = "2027";
+
 const state = {
   events: [],
   quickFilters: [],
   applied: {
+    year: DEFAULT_YEAR,
     search: "",
     region: "",
     mainCategory: "",
@@ -10,6 +13,7 @@ const state = {
 };
 
 const filterIds = {
+  year: "yearFilter",
   region: "regionFilter",
   mainCategory: "mainCategoryFilter",
   quarter: "quarterFilter",
@@ -29,6 +33,7 @@ const elements = {
   eventsGrid: document.querySelector("#eventsGrid"),
   emptyState: document.querySelector("#emptyState"),
   resultCount: document.querySelector("#resultCount"),
+  dataNote: document.querySelector("#dataNote"),
   searchInput: document.querySelector("#searchInput"),
   applyButton: document.querySelector("#applyFilters"),
   clearButton: document.querySelector("#clearFilters"),
@@ -39,7 +44,7 @@ const elements = {
 async function init() {
   try {
     assertRequiredElements();
-    const response = await fetch("events.json");
+    const response = await fetch("events.json?v=2027-20261019");
     if (!response.ok) throw new Error(`Unable to load events.json (${response.status})`);
     state.events = await response.json();
     populateFilters();
@@ -124,13 +129,14 @@ function applyFilters() {
 
 function clearAllFilters() {
   elements.searchInput.value = "";
-  Object.values(filterIds).forEach((id) => {
+  Object.entries(filterIds).forEach(([key, id]) => {
     const select = document.querySelector(`#${id}`);
-    if (select) select.value = "";
+    if (select) select.value = key === "year" ? state.applied.year : "";
   });
 
   state.quickFilters = [];
   state.applied = {
+    year: state.applied.year,
     search: "",
     region: "",
     mainCategory: "",
@@ -146,14 +152,16 @@ function populateFilters() {
     const select = document.querySelector(`#${id}`);
     if (!select) return;
 
-    select.innerHTML = `<option value="">All ${labelFor(key)}</option>`;
+    select.innerHTML = key === "year" ? "" : `<option value="">All ${labelFor(key)}</option>`;
     getOptionsForKey(key).forEach((option) => {
       select.appendChild(new Option(option, option));
     });
+    if (key === "year") select.value = state.applied.year;
   });
 }
 
 function getOptionsForKey(key) {
+  if (key === "year") return [...new Set(state.events.map(eventYear))].sort().reverse();
   const values = new Set();
   state.events.forEach((event) => {
     if (event[key]) values.add(event[key]);
@@ -173,20 +181,36 @@ function labelFor(key) {
 
 function render() {
   const matches = filteredEvents().sort(sortByDate);
-  elements.resultCount.textContent = `${matches.length} matching ${matches.length === 1 ? "event" : "events"}`;
+  elements.resultCount.textContent = `${matches.length} matching ${matches.length === 1 ? "event" : "events"} · ${state.applied.year}`;
+  if (elements.dataNote) {
+    const yearEvents = state.events.filter((event) => eventYear(event) === state.applied.year);
+    const checkedDates = yearEvents.map((event) => event.verifiedOn).filter(Boolean).sort();
+    const allVerified = yearEvents.length > 0 && checkedDates.length === yearEvents.length;
+    const checked = allVerified
+      ? parseEventDate(checkedDates[0]).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })
+      : "";
+    elements.dataNote.textContent = allVerified
+      ? `Organizer-announced dates · Checked ${checked} · More dates to be announced.`
+      : `${state.applied.year} archive · Original event listings.`;
+  }
   elements.eventsGrid.innerHTML = matches.map(eventCard).join("");
   elements.emptyState.hidden = matches.length > 0;
 }
 
 function filteredEvents() {
   return state.events.filter((event) => {
+    const passesYear = eventYear(event) === state.applied.year;
     const passesQuickFilters = eventMatchesQuickFilters(event);
     const passesSearch = !state.applied.search || searchText(event).includes(state.applied.search);
     const passesRegion = !state.applied.region || event.region === state.applied.region;
     const passesCategory = !state.applied.mainCategory || event.mainCategory === state.applied.mainCategory;
     const passesQuarter = !state.applied.quarter || event.quarter === state.applied.quarter;
-    return passesQuickFilters && passesSearch && passesRegion && passesCategory && passesQuarter;
+    return passesYear && passesQuickFilters && passesSearch && passesRegion && passesCategory && passesQuarter;
   });
+}
+
+function eventYear(event) {
+  return event.startDate.slice(0, 4);
 }
 
 function eventMatchesQuickFilters(event) {

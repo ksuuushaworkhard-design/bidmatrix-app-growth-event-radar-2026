@@ -1,102 +1,69 @@
-# App Growth Event Radar 2026
+# App Growth Event Radar 2027
 
-Static BidMatrix widget for finding 2026 mobile growth, adtech, gaming, iGaming, affiliate and marketing events. It is designed to be embedded into a Wix landing page by iframe, so the interface starts directly with a compact event search form instead of a standalone hero or lead form.
+BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **52 events whose exact dates have been announced by organizers**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
 
-The app uses plain HTML, CSS and JavaScript. There is no backend and no build step.
+Live URL: https://ksuuushaworkhard-design.github.io/bidmatrix-app-growth-event-radar-2026/
+
+The URL deliberately stays the same so existing Wix iframes continue working. HTML, CSS and JavaScript only; no backend or build step.
+
+## Behavior
+
+- Year defaults to 2027. Select 2026 to browse the archive, then Apply.
+- Search, Year, Region, Category and Quarter apply when clicking Apply or pressing Enter in search.
+- Quick chips update immediately, with OR within a chip type and AND between chip types.
+- Clear filters resets search, chips and the three dropdown filters within the currently applied year.
+- Events sort by start date, then name.
+- Date badges show the month once and numeric days: `JANUARY / 18 - 20`; cross-month events use `APR / MAY / 30 - 1`.
+- Visit Website opens the organizer's site in a new tab with `noopener noreferrer`.
+- The design retains Oswald + Roboto, dark panels and turquoise `#09CAB6` accents.
 
 ## Files
 
-- `index.html` - page structure and product copy
-- `styles.css` - BidMatrix dark/tech visual style
-- `script.js` - search, quick chips, filters and card rendering
-- `events.json` - local event database exported from the `Public Events` sheet
+- `index.html`: search form and metadata
+- `styles.css`: responsive widget styles
+- `script.js`: filtering and card rendering
+- `events.json`: 2026 archive plus confirmed-date 2027 entries
+- `data/2027-sources.md`: organizer source register, date conventions and known pending announcements
+- `qa/validate-events.mjs`: data validation
+- `qa/2027-report.md`: release verification
 
-## Widget Behavior
+## Local preview and checks
 
-- Search runs across event names, city, country, region, category, best-for text and descriptions.
-- Quick chips are toggle filters and update results immediately.
-- Quick chips use OR logic inside the same chip type and AND logic between chip types.
-- Dropdown filters are intentionally minimal for MVP: Region, Category and Quarter.
-- Search and dropdown filters update results only after clicking Apply or pressing Enter in the search input.
-- Results must pass active chips and applied search/dropdown filters.
-- Clear filters resets the search form, dropdowns and active chips, then shows all events again.
-- Visit Website links open in a new tab with `noopener noreferrer`.
-
-## Run Locally
-
-Because the app loads `events.json`, use a simple local server from this folder:
-
-```bash
-python3 -m http.server 8080
+```sh
+python3 -m http.server 8080 --bind 127.0.0.1
+node --check script.js
+node qa/validate-events.mjs
 ```
 
-Then open:
+Open http://localhost:8080. Loading the HTML directly as a file will not allow the JSON fetch.
 
-```text
-http://localhost:8080
-```
+## Updating the calendar
 
-Static hosts such as Netlify, Vercel and GitHub Pages will serve the JSON file normally.
+Verify exact dates, edition and location on the organizer's own site. Do not advance old dates by one year. Keep recurring events without exact dates out of the dated calendar until the organizer announces them.
 
-## Update events.json
-
-1. Update the `Public Events` sheet in `BidMatrix_App_Growth_Event_Radar_2026_CLEAN_READY_FOR_CODING.xlsx`.
-2. Export the sheet to JSON with the same field names used in `events.json`.
-3. Keep tag fields as arrays:
-   - `verticalTags`
-   - `audienceTags`
-   - `goalTags`
-4. Keep dates in `YYYY-MM-DD` format for correct sorting.
-
-Expected event object shape:
+Add each event with a unique `E27-...` ID and slug. Preserve the existing fields and array tags. Use ISO `YYYY-MM-DD` dates, derive month and quarter from the start date, and add:
 
 ```json
 {
-  "id": "E26-001",
-  "slug": "lead-generation-world-2026",
-  "status": "Past",
-  "name": "Lead Generation World 2026",
-  "startDate": "2026-01-04",
-  "endDate": "2026-01-06",
-  "month": "January",
-  "quarter": "Q1",
-  "region": "North America",
-  "country": "USA",
-  "city": "San Diego",
-  "mainCategory": "Affiliate / Performance",
-  "verticalTags": ["Lead Generation", "Affiliate", "Performance Marketing"],
-  "audienceTags": ["Affiliates", "Advertisers"],
-  "goalTags": ["Lead generation", "Networking"],
-  "bestFor": "Lead buyers, lead sellers, performance marketers",
-  "shortDescription": "Lead generation event for lead buyers, networks, publishers and performance marketers.",
-  "website": "https://www.leadgenerationworld.com/"
+  "dateStatus": "Announced",
+  "sourceUrl": "https://organizer.example/event-2027/",
+  "verifiedOn": "2026-10-19"
 }
 ```
 
-## Deploy to Netlify
-
-1. Create a new Netlify site.
-2. Choose manual deploy or connect a Git repo.
-3. Set the publish directory to the project folder containing `index.html`.
-4. No build command is required.
-5. Deploy and test the live URL.
+Keep the source register in sync. Categories, tags, descriptions and Best For are editorial summaries, not claims about confirmed speakers or attendees. Re-run validation and browser checks; update asset/data version strings when publishing.
 
 ## Embed in Wix
 
-1. Deploy the app to Netlify, Vercel or GitHub Pages.
-2. In Wix, add an Embed element.
-3. Choose iframe / embed a site.
-4. Paste the hosted app URL.
-5. Set the iframe width to `100%` and choose a height that fits the event list, for example `900px` to `1200px`.
-
-Example iframe:
+Use an Embed / website iframe with the existing URL, width 100%, and a height suitable for the event list (for example 1200px).
 
 ```html
 <iframe
-  src="https://your-event-radar-url.netlify.app"
+  src="https://ksuuushaworkhard-design.github.io/bidmatrix-app-growth-event-radar-2026/"
+  title="BidMatrix App Growth Event Radar"
   width="100%"
-  height="900"
-  style="border:0; border-radius:16px;"
+  height="1200"
+  style="border:0"
   loading="lazy"
 ></iframe>
 ```

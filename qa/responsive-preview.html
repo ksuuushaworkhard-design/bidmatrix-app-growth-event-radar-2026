@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Event Radar responsive QA</title>
+<style>body{margin:16px;background:#222;color:#fff;font:14px Arial}main{display:flex;gap:24px;align-items:start}h1{font-size:18px}h2{font-size:14px}iframe{display:block;border:1px solid #555;height:1050px}</style></head>
+<body><h1>Event Radar — mobile iframe preview</h1><pre id="results" aria-live="polite">Checking embedded layouts…</pre><main>
+<section><h2>320 px</h2><iframe src="../" title="320 px mobile preview" width="320"></iframe></section>
+<section><h2>390 px</h2><iframe src="../" title="390 px mobile preview" width="390"></iframe></section>
+</main>
+<script>
+const started = Date.now();
+const timer = setInterval(() => {
+  const frames = [...document.querySelectorAll('iframe')];
+  if (!frames.every(frame => frame.contentDocument?.querySelectorAll('.event-card').length)) {
+    if (Date.now() - started > 10000) {
+      document.querySelector('#results').textContent = 'FAIL: embedded event lists did not load.';
+      clearInterval(timer);
+    }
+    return;
+  }
+  document.querySelector('#results').textContent = frames.map(frame => {
+    const doc = frame.contentDocument;
+    const width = doc.documentElement.clientWidth;
+    const overflow = [...doc.querySelectorAll('.search-panel, .event-card, input, select, button, .date-badge')]
+      .filter(el => { const r = el.getBoundingClientRect(); return r.right > width + 1 || r.left < 0; });
+    const fits = doc.documentElement.scrollWidth === width && !overflow.length;
+    return `${fits ? 'PASS' : 'FAIL'}: ${width}px / ${doc.querySelectorAll('.event-card').length} cards / ${overflow.length} overflowing elements`;
+  }).join('\n');
+  clearInterval(timer);
+}, 100);
+</script>
+</body></html>
