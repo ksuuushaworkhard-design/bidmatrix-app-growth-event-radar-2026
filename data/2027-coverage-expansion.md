@@ -1,3 +1,5 @@
+> Historical expansion snapshot from 19 October. Superseded by the [20 October verification report](verification-report-2026-10-20.md) for current counts and facts.
+
 # Coverage expansion — organizer source register
 
 Checked 19 October 2026. 90 added listings: 41 dated, 28 announced editions awaiting dates, 21 unannounced series to watch. Watchlist entries are planning references, not confirmed 2027 events.

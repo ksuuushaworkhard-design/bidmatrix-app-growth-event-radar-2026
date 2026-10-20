@@ -1,3 +1,16 @@
+# Verification pass — 20 October 2026
+
+- Reviewed all 213 original 2027 planning records against organizer material: 212 remain; AGS Paris is quarantined while its current page returns 404.
+- Current totals: 161 dated, 30 dates pending, 21 unannounced series; archive 228; three records held outside events.json.
+- Corrected GDC to March 1–4, gamescom exhibition to August 25–29, Portside to July 1–2; IAB Connected Commerce date held for reconfirmation.
+- Replaced 55 website destinations and corrected source links, historical dates and two cancellations.
+- node --check script.js and node qa/validate-events.mjs pass.
+- Browser: 212 cards load; corrected dates/link and quarantine exclusion checked; 2026 shows 228 cards and an explicit partial-audit note; cancellations are disclosed.
+- Search with Enter, Gaming chip and Clear filters pass. No captured console errors. Date status dropdown remains absent.
+- The full 2026 historical date audit is NOT complete; UI and verification report explicitly disclose this. Transport errors/anti-bot responses are not classified as fake events.
+
+---
+
 # Event Radar 2027 release checks
 
 ## Coverage and discovery release — 19 October 2026

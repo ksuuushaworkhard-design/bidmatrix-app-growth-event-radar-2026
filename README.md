@@ -1,6 +1,6 @@
 # App Growth Event Radar 2027
 
-BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **192 announced events (162 dated, 30 awaiting exact dates), plus 21 unannounced series to watch**, checked on **19 October 2026**. The original **230 events from 2026** remain available in the Year selector.
+BidMatrix's static event finder for mobile growth, gaming, iGaming, affiliate marketing, adtech and digital commerce. The widget opens on **2027**, with **191 announced events (161 dated, 30 awaiting exact dates), plus 21 unannounced series to watch**, checked on **20 October 2026**. The Year selector also contains **228 historical 2026 listings**, whose date audit is partial.
 
 Live URL: https://ksuuushaworkhard-design.github.io/bidmatrix-app-growth-event-radar-2026/
 
@@ -79,3 +79,13 @@ Undated 2027 editions use an explicit `year: 2027`, `dateStatus: "TBA"` and empt
 Category membership can overlap: mobile gaming events are also discoverable under Mobile / App Growth, while explicitly tagged affiliate/adtech events appear under those categories. Category counts are not additive. Filter options are year-specific, counts reflect other constraints, and zero-result options are disabled. Applied constraints are shown in an active-filter summary.
 
 Unannounced recurring series use `dateStatus: "Watchlist"`, `status: "Watching"`, an explicit planning `year: 2027`, empty date/month/quarter fields, and a title without a claimed 2027 edition. Cards disclose that the edition is unannounced and location is from the last published edition. They are counted separately from announced events. Source links and checked dates are displayed on sourced cards; format and access restrictions are shown when documented.
+
+## Verification — 20 October 2026
+
+The current 2027 dataset contains 161 dated events, 30 announced editions awaiting exact dates, and 21 separately labelled unannounced series. App Growth Summit Paris 2027 is held in `data/verification-quarantine.json` because its page currently returns 404 and it is absent from the current organizer calendar. `data/2027-verification.json` records the reviewed facts and sources for every published 2027 entry.
+
+All 325 original distinct website/source URLs across both years were checked for response, redirects and destination. HTTP 403/405 anti-bot responses and client TLS/timeouts are recorded separately from 404s and wrong destinations; they do not themselves prove an event is fake or cancelled. Browser/web retrieval was used where needed for 2027 sources.
+
+The 2026 historical date audit remains partial. The archive is labelled accordingly; known cancellations, wrong dates, stale statuses and unrelated/generic links were corrected. IRCE + RetailX and the dated Mumbai mobile marketing listing are held for lack of an adequate current official source. The quarantine is preserved for later review, not treated as proof those events never existed.
+
+Descriptions, categories, audience/goal tags and Best For are editorial summaries of the organizer material, not promises about attendance, access or business results. Sources were checked on the stated day; organizers can subsequently change details. See `data/verification-report-2026-10-20.md`.

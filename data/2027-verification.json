@@ -1,0 +1,4255 @@
+{
+  "checkedOn": "2026-10-20",
+  "scope": "All 213 previously listed 2027 planning records reviewed: 212 retained and 1 quarantined. Transport and destination checks cover all 325 original distinct URLs across both years. The 2026 historical date audit is partial; 228 archive records remain, two unverified records are quarantined, and cancellation/date/link corrections are documented separately.",
+  "editorialFields": [
+    "mainCategory",
+    "relatedCategories",
+    "verticalTags",
+    "audienceTags",
+    "goalTags",
+    "bestFor",
+    "shortDescription"
+  ],
+  "records": [
+    {
+      "id": "E27-001",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "CES 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-06",
+        "endDate": "2027-01-09",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ces.tech/",
+        "sourceUrl": "https://www.ces.tech/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-002",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "NRF Retail's Big Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-10",
+        "endDate": "2027-01-12",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://nrfbigshow.nrf.com/",
+        "sourceUrl": "https://nrfbigshow.nrf.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": null,
+      "sourceHttpStatus": null
+    },
+    {
+      "id": "E27-003",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ICE Barcelona 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-18",
+        "endDate": "2027-01-20",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://www.icegaming.com/",
+        "sourceUrl": "https://www.icegaming.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-004",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Pocket Gamer Connects London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-18",
+        "endDate": "2027-01-19",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.pgconnects.com/london/",
+        "sourceUrl": "https://www.pgconnects.com/london/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-005",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "iGB Affiliate Barcelona 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-20",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://barcelona.igbaffiliate.com/",
+        "sourceUrl": "https://barcelona.igbaffiliate.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-006",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Affiliate Summit West 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-28",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.affiliatesummit.com/west/attend/faqs",
+        "sourceUrl": "https://www.affiliatesummit.com/west/attend/faqs"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-007",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum Barcelona 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-09",
+        "endDate": "2027-02-10",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://www.globalgamesforum.com/barcelona",
+        "sourceUrl": "https://www.globalgamesforum.com/barcelona"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-008",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA Africa 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-17",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "region": "Africa",
+        "website": "https://sigma.world/summits/africa/",
+        "sourceUrl": "https://sigma.world/summits/africa/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-009",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "E-commerce Berlin Expo 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-18",
+        "city": "Berlin",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://ecommerceberlin.com/",
+        "sourceUrl": "https://ecommerceberlin.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-010",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Lead Generation World 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-17",
+        "endDate": "2027-02-19",
+        "city": "Chula Vista (San Diego Bay)",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://leadgenerationworld.com/agenda-overview/",
+        "sourceUrl": "https://leadgenerationworld.com/agenda-overview/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-011",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit Los Angeles 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "city": "Los Angeles",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-los-angeles-2027/",
+        "sourceUrl": "https://appgrowthsummit.com/events/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-012",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Digiday Media Buying Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-03",
+        "city": "Charleston",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://digiday.com/events/digiday-media-buying-summit-mar-2027/",
+        "sourceUrl": "https://digiday.com/events/digiday-media-buying-summit-mar-2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-013",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "GDC Festival of Gaming 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-04",
+        "city": "San Francisco",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://gdconf.com/faq/",
+        "sourceUrl": "https://gdconf.com/faq/"
+      },
+      "note": "Current FAQ and event update announce March 1–4, superseding stale March 1–5 search snippets.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-014",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "MWC Barcelona 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-04",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://www.mwcbarcelona.com/",
+        "sourceUrl": "https://www.mwcbarcelona.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-015",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TES Affiliate Conference Seville 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-08",
+        "endDate": "2027-03-11",
+        "city": "Seville",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://tesaffiliateconferences.com/upcoming-events",
+        "sourceUrl": "https://tesaffiliateconferences.com/upcoming-events"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-016",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA Eurasia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-15",
+        "endDate": "2027-03-17",
+        "city": "RAK – Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://sigma.world/summits/eurasia/",
+        "sourceUrl": "https://sigma.world/summits/eurasia/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-017",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "d3con 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-16",
+        "endDate": "2027-03-17",
+        "city": "Hamburg",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://d3con.de/",
+        "sourceUrl": "https://d3con.de/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-018",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ad:tech New Delhi 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-17",
+        "endDate": "2027-03-18",
+        "city": "New Delhi",
+        "country": "India",
+        "region": "APAC",
+        "website": "https://newdelhi.ad-tech.com/",
+        "sourceUrl": "https://newdelhi.ad-tech.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-019",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit Istanbul 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "region": "Europe",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-istanbul-2027/",
+        "sourceUrl": "https://appgrowthsummit.com/events/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-020",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Digiday Publishing Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-22",
+        "endDate": "2027-03-24",
+        "city": "Vail",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://digiday.com/events/digiday-publishing-summit-march-2027/",
+        "sourceUrl": "https://digiday.com/events/digiday-publishing-summit-march-2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-021",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Shoptalk Spring 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-22",
+        "endDate": "2027-03-24",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://spring.shoptalk.com/home",
+        "sourceUrl": "https://spring.shoptalk.com/home"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-022",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Social Media Marketing World 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-01",
+        "endDate": "2027-04-03",
+        "city": "Anaheim",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.socialmediaexaminer.com/smmworld/",
+        "sourceUrl": "https://www.socialmediaexaminer.com/smmworld/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-023",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "LeadsCon Las Vegas 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-05",
+        "endDate": "2027-04-07",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.leadscon.com/",
+        "sourceUrl": "https://www.leadscon.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-024",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "POSSIBLE Miami 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-05",
+        "endDate": "2027-04-07",
+        "city": "Miami Beach",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://possibleevent.com/",
+        "sourceUrl": "https://possibleevent.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-025",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA South America 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-05",
+        "endDate": "2027-04-08",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://sigma.world/summits/south-america/",
+        "sourceUrl": "https://sigma.world/summits/south-america/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-026",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum Cyprus 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-14",
+        "endDate": "2027-04-15",
+        "city": "",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://www.globalgamesforum.com/cyprus",
+        "sourceUrl": "https://www.globalgamesforum.com/cyprus"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-027",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "brightonSEO Spring 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-15",
+        "endDate": "2027-04-16",
+        "city": "Brighton",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://brightonseo.com/",
+        "sourceUrl": "https://brightonseo.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-028",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Modern Retail Marketing Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-19",
+        "endDate": "2027-04-21",
+        "city": "Palm Springs",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.modernretail.co/events/modern-retail-marketing-summit-april-2027/",
+        "sourceUrl": "https://www.modernretail.co/events/modern-retail-marketing-summit-april-2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-029",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SBC Summit Europe 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-19",
+        "endDate": "2027-04-21",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "region": "Europe",
+        "website": "https://sbcevents.com/sbc-summit-europe/",
+        "sourceUrl": "https://sbcevents.com/sbc-summit-europe/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-030",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Business of Apps London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-22",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://tickets.businessofapps.com/events/businessofapps",
+        "sourceUrl": "https://tickets.businessofapps.com/events/businessofapps"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-031",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "OMR Festival 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-03",
+        "endDate": "2027-05-05",
+        "city": "Hamburg",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://omr.com/en",
+        "sourceUrl": "https://omr.com/en"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-032",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA Europe 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-03",
+        "endDate": "2027-05-05",
+        "city": "Ta' Qali",
+        "country": "Malta",
+        "region": "Europe",
+        "website": "https://sigma.world/summits/europe/",
+        "sourceUrl": "https://sigma.world/summits/europe/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-033",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "MAU Vegas 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-04",
+        "endDate": "2027-05-06",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://mauvegas.com/",
+        "sourceUrl": "https://mauvegas.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-034",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Digiday Programmatic Marketing Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-07",
+        "city": "Orlando",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://digiday.com/events/digiday-programmatic-marketing-summit-may-2027/",
+        "sourceUrl": "https://digiday.com/events/digiday-programmatic-marketing-summit-may-2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-035",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Nordic Game 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-28",
+        "city": "Malmö",
+        "country": "Sweden",
+        "region": "Europe",
+        "website": "https://nordicgame.com/",
+        "sourceUrl": "https://nordicgame.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-036",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Shoptalk Europe 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-01",
+        "endDate": "2027-06-03",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://europe.shoptalk.com/home",
+        "sourceUrl": "https://europe.shoptalk.com/home"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-037",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SBC Summit Canada 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-15",
+        "endDate": "2027-06-17",
+        "city": "Toronto",
+        "country": "Canada",
+        "region": "North America",
+        "website": "https://sbcevents.com/sbc-summit-canada/",
+        "sourceUrl": "https://sbcevents.com/sbc-summit-canada/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-038",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Cannes Lions 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-21",
+        "endDate": "2027-06-25",
+        "city": "Cannes",
+        "country": "France",
+        "region": "Europe",
+        "website": "https://www.canneslions.com/",
+        "sourceUrl": "https://www.canneslions.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-039",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "MWC Shanghai 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-23",
+        "endDate": "2027-06-25",
+        "city": "Shanghai",
+        "country": "China",
+        "region": "APAC",
+        "website": "https://www.mwcshanghai.com/",
+        "sourceUrl": "https://www.mwcshanghai.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-040",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "iGB L!VE 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-07",
+        "endDate": "2027-07-08",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.igblive.com/",
+        "sourceUrl": "https://www.igblive.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-041",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Develop:Brighton 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-13",
+        "endDate": "2027-07-15",
+        "city": "Brighton",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.developconference.com/",
+        "sourceUrl": "https://www.developconference.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-042",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Affiliate Summit East 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-26",
+        "endDate": "2027-07-27",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.affiliatesummit.com/east",
+        "sourceUrl": "https://www.affiliatesummit.com/east"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-043",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-07",
+        "endDate": "2027-09-08",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.globalgamesforum.com/london",
+        "sourceUrl": "https://www.globalgamesforum.com/london"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-044",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "brightonSEO San Diego 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-09",
+        "endDate": "2027-09-10",
+        "city": "San Diego",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://brightonseo.com/",
+        "sourceUrl": "https://brightonseo.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-045",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TES Affiliate Conference Prague 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-10",
+        "endDate": "2027-09-13",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "region": "Europe",
+        "website": "https://tesaffiliateconferences.com/upcoming-events",
+        "sourceUrl": "https://tesaffiliateconferences.com/upcoming-events"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-046",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Groceryshop 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-13",
+        "endDate": "2027-09-15",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://groceryshop.com/home",
+        "sourceUrl": "https://groceryshop.com/home"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-047",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Business of Apps New York 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-16",
+        "endDate": "2027-09-16",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://tickets.businessofapps.com/events/businessofapps",
+        "sourceUrl": "https://tickets.businessofapps.com/events/businessofapps"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-048",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "Affiliate Leaders Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-21",
+        "endDate": "2027-09-23",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "region": "Europe",
+        "website": "https://sbcevents.com/affiliate-leaders-summit/",
+        "sourceUrl": "https://sbcevents.com/affiliate-leaders-summit/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-049",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SBC Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-21",
+        "endDate": "2027-09-23",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "region": "Europe",
+        "website": "https://sbcevents.com/sbc-summit/",
+        "sourceUrl": "https://sbcevents.com/sbc-summit/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-050",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "DMEXCO 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-22",
+        "endDate": "2027-09-23",
+        "city": "Cologne",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://dmexco.com/about-dmexco/",
+        "sourceUrl": "https://dmexco.com/about-dmexco/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-051",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Shoptalk Fall 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-05",
+        "endDate": "2027-10-07",
+        "city": "Nashville",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://fall.shoptalk.com/",
+        "sourceUrl": "https://spring.shoptalk.com/home"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-052",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "POSSIBLE Europe 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-12",
+        "endDate": "2027-10-14",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "region": "Europe",
+        "website": "https://europe.possibleevent.com/",
+        "sourceUrl": "https://europe.possibleevent.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-053",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Connect London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-19",
+        "endDate": "2027-01-19",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://wnhub.io/event-info/connect-london-27",
+        "sourceUrl": "https://wnhub.io/event-info/connect-london-27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-054",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Rendered organizer page in browser",
+      "facts": {
+        "name": "Umeå Game Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-26",
+        "endDate": "2027-01-28",
+        "city": "Umeå",
+        "country": "Sweden",
+        "region": "Europe",
+        "website": "https://ugconf.se/",
+        "sourceUrl": "https://ugconf.se/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-055",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "IAB Annual Leadership Meeting 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-03",
+        "city": "San Antonio",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/",
+        "sourceUrl": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-056",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Ukie Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-11",
+        "endDate": "2027-02-11",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://ukie.org.uk/events/",
+        "sourceUrl": "https://ukie.org.uk/events/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-057",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "GameDev Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-15",
+        "endDate": "2027-02-17",
+        "city": "Clark",
+        "country": "Philippines",
+        "region": "APAC",
+        "website": "https://gamedevsummit.co/",
+        "sourceUrl": "https://gamedevsummit.co/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-058",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Creator Marketing Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-01",
+        "endDate": "2027-03-03",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/INFL-MAR27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/INFL-MAR27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-059",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Prosper Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-03",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://prospershow.com/",
+        "sourceUrl": "https://prospershow.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-060",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "HIPTHER Prague Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-24",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "region": "Europe",
+        "website": "https://hipther.com/events/prague/summit/",
+        "sourceUrl": "https://hipther.com/events/prague/summit/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-061",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "gamescom dev Leadership Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-23",
+        "endDate": "2027-03-25",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "region": "Europe",
+        "website": "https://dev.gamescom.global/",
+        "sourceUrl": "https://dev.gamescom.global/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-062",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Conversion Conf Warsaw 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-24",
+        "endDate": "2027-03-25",
+        "city": "Warsaw",
+        "country": "Poland",
+        "region": "Europe",
+        "website": "https://www.conversion-conf.com/",
+        "sourceUrl": "https://www.conversion-conf.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-063",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "CTV World 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-30",
+        "endDate": "2027-03-31",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.adexchanger.com/go/ctv-world-2027/",
+        "sourceUrl": "https://www.admonsters.com/conferences-and-events/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-064",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "NAB Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-04",
+        "endDate": "2027-04-07",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.nabshow.com/",
+        "sourceUrl": "https://www.nabshow.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-065",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA In-House Agency Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-12",
+        "endDate": "2027-04-14",
+        "city": "Miami Beach",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/IHA-APR27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/IHA-APR27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-066",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "London Games Festival 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-12",
+        "endDate": "2027-04-19",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://festival.games.london/",
+        "sourceUrl": "https://festival.games.london/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-067",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "NEXT.io Summit New York 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-13",
+        "endDate": "2027-04-14",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://next.io/summits/newyork/",
+        "sourceUrl": "https://next.io/summits/newyork/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": null,
+      "sourceHttpStatus": null
+    },
+    {
+      "id": "E27-068",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Retail Technology Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-22",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.retailtechnologyshow.com/",
+        "sourceUrl": "https://www.retailtechnologyshow.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-069",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "gamescom latam 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-22",
+        "endDate": "2027-04-25",
+        "city": "São Paulo",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://latam.gamescom.global/en/",
+        "sourceUrl": "https://latam.gamescom.global/en/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-070",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Masters of Data Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-26",
+        "endDate": "2027-04-28",
+        "city": "San Diego",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/DATA-APR27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/DATA-APR27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-071",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Forrester B2B Summit North America 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-04",
+        "city": "Phoenix",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.forrester.com/event/b2b-summit-north-america/",
+        "sourceUrl": "https://www.forrester.com/event/b2b-summit-north-america/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-072",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Advertising Financial Management Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-05",
+        "city": "Scottsdale",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/AFM-MAY27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/AFM-MAY27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-073",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "DMWF Global 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-05",
+        "endDate": "2027-05-06",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.digitalmarketing-conference.com/global/",
+        "sourceUrl": "https://www.digitalmarketing-conference.com/global/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-074",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Ads Takeover 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-10",
+        "endDate": "2027-05-11",
+        "city": "Miami Beach",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.atoconf.com/",
+        "sourceUrl": "https://www.atoconf.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-075",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SaaStr AI Annual 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-11",
+        "endDate": "2027-05-12",
+        "city": "San Mateo",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.saastrannual.com/",
+        "sourceUrl": "https://www.saastrannual.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-076",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Madeira Games Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-14",
+        "city": "Funchal",
+        "country": "Portugal",
+        "region": "Europe",
+        "website": "https://devgamm.com/madeira2027/",
+        "sourceUrl": "https://devgamm.com/madeira2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-077",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Brand Masters Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-17",
+        "endDate": "2027-05-19",
+        "city": "San Diego",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/BIC-MAY27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/BIC-MAY27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-078",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "G2E Asia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-20",
+        "city": "Macao",
+        "country": "China",
+        "region": "APAC",
+        "website": "https://www.g2easia.com/",
+        "sourceUrl": "https://www.g2easia.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-079",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Masters of B2B Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-24",
+        "endDate": "2027-05-26",
+        "city": "Chicago",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/B2BANC-MAY27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/B2BANC-MAY27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-080",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Asia Tech x Singapore 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-26",
+        "endDate": "2027-05-28",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://asiatechxsg.com/",
+        "sourceUrl": "https://asiatechxsg.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-081",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Growth Summit Limassol 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-27",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://wnhub.io/event-info/growth-summit-27",
+        "sourceUrl": "https://wnhub.io/event-info/growth-summit-27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-082",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "i-Con Island Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-27",
+        "endDate": "2027-05-28",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://island-conference.com/",
+        "sourceUrl": "https://island-conference.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-083",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA AI and Technology for Marketers Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-07",
+        "endDate": "2027-06-09",
+        "city": "Phoenix",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/MFM-OCT27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/MFM-OCT27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-084",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "Gartner Marketing Symposium/Xpo 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-07",
+        "endDate": "2027-06-09",
+        "city": "Denver",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.gartner.com/en/conferences/na/marketing-symposium-us",
+        "sourceUrl": "https://www.gartner.com/en/conferences/na/marketing-symposium-us"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-085",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "CommerceNext Growth Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-08",
+        "endDate": "2027-06-09",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://growthshow.commercenext.com/",
+        "sourceUrl": "https://growthshow.commercenext.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-086",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Web Summit Rio 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-14",
+        "endDate": "2027-06-17",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://rio.websummit.com/en/",
+        "sourceUrl": "https://rio.websummit.com/en/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-087",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "VivaTech 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-16",
+        "endDate": "2027-06-19",
+        "city": "Paris",
+        "country": "France",
+        "region": "Europe",
+        "website": "https://vivatech.com/",
+        "sourceUrl": "https://vivatech.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-088",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Affiliate Africa Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-19",
+        "city": "Lagos",
+        "country": "Nigeria",
+        "region": "Africa",
+        "website": "https://www.affafrica.com/",
+        "sourceUrl": "https://www.affafrica.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-089",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "gamescom dev 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-08-23",
+        "endDate": "2027-08-24",
+        "city": "Cologne",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://dev.gamescom.global/",
+        "sourceUrl": "https://dev.gamescom.global/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-090",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "gamescom 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-08-25",
+        "endDate": "2027-08-29",
+        "city": "Cologne",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://www.gamescom.global/en/gamescom-2026-expands-leading-position-more-exhibitors-bigger-indie-area-and-strong-international-presence",
+        "sourceUrl": "https://www.gamescom.global/en/gamescom-2026-expands-leading-position-more-exhibitors-bigger-indie-area-and-strong-international-presence"
+      },
+      "note": "Organizer distinguishes August 25–29 exhibition from the August 23–24 developer conference; removed their overlap from this listing.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-091",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Conversion Conf Cyprus 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-06",
+        "endDate": "2027-09-07",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://www.conversion-conf.com/",
+        "sourceUrl": "https://www.conversion-conf.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-092",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Measurement & Analytics Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-13",
+        "endDate": "2027-09-15",
+        "city": "Chicago",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/ROI-SEP27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/ROI-SEP27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-093",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Technology for Marketing 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-22",
+        "endDate": "2027-09-23",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.technologyformarketing.co.uk/",
+        "sourceUrl": "https://www.technologyformarketing.co.uk/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-094",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Global Gaming Expo (G2E) 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-27",
+        "endDate": "2027-09-30",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.globalgamingexpo.com/",
+        "sourceUrl": "https://www.globalgamingexpo.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-095",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Media Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-06",
+        "endDate": "2027-10-08",
+        "city": "Los Angeles",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/MLC-JUN27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/MLC-JUN27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-096",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Masters of Marketing Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-26",
+        "endDate": "2027-10-29",
+        "city": "Orlando",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/ANC-OCT27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/ANC-OCT27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-097",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Conference Cyprus 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-11-04",
+        "endDate": "2027-11-05",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://wnhub.io/event-info/cyprus27",
+        "sourceUrl": "https://wnhub.io/event-info/cyprus27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-098",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ANA Multicultural and Inclusive Marketing Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-11-09",
+        "endDate": "2027-11-11",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.ana.net/conference/show/id/MCC-NOV27",
+        "sourceUrl": "https://www.ana.net/conference/show/id/MCC-NOV27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-099",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Pharma & Health — Florida 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-21",
+        "endDate": "2027-02-24",
+        "city": "",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-100",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Retail — Florida 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-27",
+        "city": "",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-101",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Travel & Hospitality — Scottsdale 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-14",
+        "endDate": "2027-03-17",
+        "city": "Scottsdale",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-102",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "OOH Insider Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-17",
+        "endDate": "2027-03-20",
+        "city": "Scottsdale",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-103",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Sports Marketing 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-11",
+        "endDate": "2027-04-14",
+        "city": "New Orleans",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-104",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Planning & Buying Insider Summit — New Orleans 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-14",
+        "endDate": "2027-04-17",
+        "city": "New Orleans",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-105",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: QSR — Charleston 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-28",
+        "endDate": "2027-05-01",
+        "city": "Charleston",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-106",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: CPG — Charleston 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-02",
+        "endDate": "2027-05-05",
+        "city": "Charleston",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-107",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Email Insider Summit — Nashville 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-02",
+        "endDate": "2027-06-05",
+        "city": "Nashville",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-108",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Financial Services 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-06",
+        "endDate": "2027-06-09",
+        "city": "Nashville",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-109",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Automotive 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-25",
+        "endDate": "2027-07-28",
+        "city": "Park City",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-110",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Pharma & Health — Park City 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-28",
+        "endDate": "2027-07-31",
+        "city": "Park City",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-111",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Retail — Lake Tahoe 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-08-15",
+        "endDate": "2027-08-18",
+        "city": "Lake Tahoe",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-112",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Data & Programmatic Insider Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-08-18",
+        "endDate": "2027-08-21",
+        "city": "Lake Tahoe",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-113",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Planning & Buying Insider Summit — Austin 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-15",
+        "endDate": "2027-09-18",
+        "city": "Austin",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-114",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Luxury 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-17",
+        "endDate": "2027-10-20",
+        "city": "Napa",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-115",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: Travel & Hospitality — Napa 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-20",
+        "endDate": "2027-10-23",
+        "city": "Napa",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-116",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: QSR — Santa Barbara 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-11-14",
+        "endDate": "2027-11-17",
+        "city": "Santa Barbara",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-117",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand Insider Summit: CPG — Santa Barbara 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-11-17",
+        "endDate": "2027-11-20",
+        "city": "Santa Barbara",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-118",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Email Insider Summit — Deer Valley 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-12-05",
+        "endDate": "2027-12-08",
+        "city": "Deer Valley",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-119",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "CTV & Video Insider Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-12-08",
+        "endDate": "2027-12-11",
+        "city": "Deer Valley",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-120",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Performance Marketing Insider Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-12-12",
+        "endDate": "2027-12-15",
+        "city": "Deer Valley",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.mediapost.com/events/2027/",
+        "sourceUrl": "https://www.mediapost.com/events/2027/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-121",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Brand & AI Safety Summit Singapore 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-18",
+        "endDate": "2027-03-18",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://brandsafetysummit.com/singapore-27",
+        "sourceUrl": "https://brandsafetysummit.com/singapore-27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-122",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Unlocked: Mobile & App Growth Summit Singapore 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://mobileappgrowthsummit.com/singapore/",
+        "sourceUrl": "https://mobileappgrowthsummit.com/singapore/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-123",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Programmatic & Beyond Conference 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "",
+        "country": "Location TBA",
+        "region": "Europe",
+        "website": "https://programmatic.boussiasevents.gr/",
+        "sourceUrl": "https://programmatic.boussiasevents.gr/"
+      },
+      "note": "2027 interest/return announcement is explicit, but the reviewed page does not confirm the next venue; previous location disclosed only in a note.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-125",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ATS Singapore 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-30",
+        "endDate": "2027-06-30",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://www.exchangewire.com/events/",
+        "sourceUrl": "https://www.exchangewire.com/events/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-126",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Connected TV World Summit London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-09",
+        "endDate": "2027-03-10",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.adwantedevents.com/ctvws27",
+        "sourceUrl": "https://www.adwantedevents.com/ctvws27"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-127",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "IAB NewFronts 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-22",
+        "endDate": "2027-03-25",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.iab.com/events/2027-iab-newfronts/",
+        "sourceUrl": "https://www.iab.com/events/2027-iab-newfronts/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-128",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "IAB Connected Commerce Summit 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.iab.com/events/2027-iab-connected-commerce-summit/",
+        "sourceUrl": "https://www.iab.com/events/2027-iab-connected-commerce-summit/"
+      },
+      "note": "2027 edition and New York confirmed; exact date withheld because it is only available in a stale search snapshot, not current page content.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-129",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SBC Summit Rio 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-04",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://sbcevents.com/sbc-summit-rio/",
+        "sourceUrl": "https://sbcevents.com/sbc-summit-rio/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-130",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "Global Games Show Abu Dhabi 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-27",
+        "endDate": "2027-01-28",
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://www.globalgamesshow.com/",
+        "sourceUrl": "https://www.globalgamesshow.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": null,
+      "sourceHttpStatus": null
+    },
+    {
+      "id": "E27-131",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Splitscreen Games Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-20",
+        "endDate": "2027-04-22",
+        "city": "Split",
+        "country": "Croatia",
+        "region": "Europe",
+        "website": "https://www.splitscreencroatia.com/",
+        "sourceUrl": "https://www.splitscreencroatia.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-132",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Game Access Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-07",
+        "endDate": "2027-05-08",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "region": "Europe",
+        "website": "https://game-access.com/conference/",
+        "sourceUrl": "https://game-access.com/conference/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-133",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Digital Dragons Conference 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-23",
+        "endDate": "2027-05-25",
+        "city": "Krakow",
+        "country": "Poland",
+        "region": "Europe",
+        "website": "https://conference.digitaldragons.pl/",
+        "sourceUrl": "https://conference.digitaldragons.pl/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-134",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "XP Game Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-11",
+        "city": "Toronto",
+        "country": "Canada",
+        "region": "North America",
+        "website": "https://xpgamesummit.com/",
+        "sourceUrl": "https://xpgamesummit.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-135",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Game Camp France 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-17",
+        "endDate": "2027-06-18",
+        "city": "Lille",
+        "country": "France",
+        "region": "Europe",
+        "website": "https://gamecamp.fr/",
+        "sourceUrl": "https://fr.linkedin.com/company/game-camp-france"
+      },
+      "note": "Website now points to Game Camp itself; dates and Lille venue verified in the organizer’s public LinkedIn announcement.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-136",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "External Development Summit (XDS) 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-20",
+        "endDate": "2027-09-24",
+        "city": "Vancouver",
+        "country": "Canada",
+        "region": "North America",
+        "website": "https://xdsummit.com/",
+        "sourceUrl": "https://xdsummit.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-137",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "next.app devCon 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-29",
+        "endDate": "2027-10-01",
+        "city": "Berlin",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://www.nextappcon.com/",
+        "sourceUrl": "https://www.nextappcon.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-138",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "BiG Africa Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-01",
+        "endDate": "2027-02-04",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "region": "Africa",
+        "website": "https://www.bigafricasummit.com/",
+        "sourceUrl": "https://www.bigafricasummit.com/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-139",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "MEGA Mexico Gaming 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-24",
+        "endDate": "2027-02-26",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "region": "LATAM",
+        "website": "https://www.eventus-international.com/mega",
+        "sourceUrl": "https://www.eventus-international.com/mega"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-140",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SPiCE+ South Asia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-09",
+        "endDate": "2027-03-11",
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "region": "APAC",
+        "website": "https://www.spiceseries.com/ssa",
+        "sourceUrl": "https://www.spiceseries.com/ssa"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-141",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Sports Betting East Africa+ Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-23",
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "region": "Africa",
+        "website": "https://www.sportsbettingevents.com/sbea",
+        "sourceUrl": "https://www.sportsbettingevents.com/sbea"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-142",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "iGaming Germany 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-13",
+        "endDate": "2027-05-14",
+        "city": "Munich",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://www.eventus-international.com/igg",
+        "sourceUrl": "https://www.eventus-international.com/igg"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-143",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gaming Retail Summit 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-18",
+        "endDate": "2027-05-19",
+        "city": "Dusseldorf",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://www.eventus-international.com/gaming-retail",
+        "sourceUrl": "https://www.eventus-international.com/gaming-retail"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-144",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SPiCE East Asia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-25",
+        "endDate": "2027-05-26",
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "region": "APAC",
+        "website": "https://www.spiceseries.com/sea",
+        "sourceUrl": "https://www.spiceseries.com/sea"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-145",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Cyprus Gaming Show 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-10",
+        "endDate": "2027-06-11",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "region": "Europe",
+        "website": "https://www.eventus-international.com/cyprus-gaming-show",
+        "sourceUrl": "https://www.eventus-international.com/cyprus-gaming-show"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-146",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SPiCE Southeast Asia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-08-04",
+        "endDate": "2027-08-06",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "region": "APAC",
+        "website": "https://www.spiceseries.com/ssea",
+        "sourceUrl": "https://www.spiceseries.com/ssea"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-147",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SPiCE Affiliate 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-15",
+        "endDate": "2027-09-17",
+        "city": "Goa",
+        "country": "India",
+        "region": "APAC",
+        "website": "https://www.spiceseries.com/sa",
+        "sourceUrl": "https://www.spiceseries.com/sa"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-148",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "SPiCE Central Asia 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-21",
+        "endDate": "2027-09-22",
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "region": "Europe",
+        "website": "https://www.spiceseries.com/sca",
+        "sourceUrl": "https://www.spiceseries.com/sca"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-149",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "Global Virtual MarTech Summit — January 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-01-20",
+        "endDate": "2027-01-20",
+        "city": "Online",
+        "country": "Online",
+        "region": "Global / Online",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-150",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Berlin 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-02-25",
+        "endDate": "2027-02-25",
+        "city": "Berlin",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/berlin",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-151",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Asia — Singapore 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-03-02",
+        "endDate": "2027-03-03",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://themartechsummit.com/singapore",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-152",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Paris 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-04-21",
+        "endDate": "2027-04-21",
+        "city": "Paris",
+        "country": "France",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/paris",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-153",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Stockholm 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-26",
+        "endDate": "2027-05-26",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/stockholm",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-154",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Madrid 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-05-28",
+        "endDate": "2027-05-28",
+        "city": "Madrid",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/madrid",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-155",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Amsterdam 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-06-24",
+        "endDate": "2027-06-24",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/amsterdam",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-156",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Manila 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-01",
+        "endDate": "2027-07-01",
+        "city": "Manila",
+        "country": "Philippines",
+        "region": "APAC",
+        "website": "https://themartechsummit.com/manila",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-157",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Hong Kong 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-08",
+        "endDate": "2027-07-08",
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "region": "APAC",
+        "website": "https://themartechsummit.com/hongkong",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-158",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Milan 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-16",
+        "endDate": "2027-09-16",
+        "city": "Milan",
+        "country": "Italy",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-159",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Sydney 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-21",
+        "endDate": "2027-09-21",
+        "city": "Sydney",
+        "country": "Australia",
+        "region": "Oceania",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-160",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Dubai 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-28",
+        "endDate": "2027-09-28",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://themartechsummit.com/dubai",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-161",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "Global Virtual MarTech Summit — September 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-09-30",
+        "endDate": "2027-09-30",
+        "city": "Online",
+        "country": "Online",
+        "region": "Global / Online",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-162",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Bangkok 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-05",
+        "endDate": "2027-10-05",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "region": "APAC",
+        "website": "https://themartechsummit.com/bangkok",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-163",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit Kuala Lumpur 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-10-19",
+        "endDate": "2027-10-19",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "region": "APAC",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-164",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "The MarTech Summit London 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-11-10",
+        "endDate": "2027-11-11",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://themartechsummit.com/summit-dates/",
+        "sourceUrl": "https://themartechsummit.com/summit-dates/"
+      },
+      "note": "Official edition, exact dates and location compared with organizer page.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-165",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Dubai 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://wnhub.io/event-info/abu-dhabi-27",
+        "sourceUrl": "https://wnhub.io/event-info/abu-dhabi-27"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-166",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Istanbul 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "region": "Europe",
+        "website": "https://wnhub.io/event-info/istanbul27",
+        "sourceUrl": "https://wnhub.io/event-info/istanbul27"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-167",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "WN Dinner Shanghai 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Shanghai",
+        "country": "China",
+        "region": "APAC",
+        "website": "https://wnhub.io/event-info/wn-shanghai-27",
+        "sourceUrl": "https://wnhub.io/event-info/wn-shanghai-27"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-168",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "DevGAMM Dubai 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://devgamm.com/",
+        "sourceUrl": "https://devgamm.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-169",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum Hamburg 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Hamburg",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://www.globalgamesforum.com/hamburg",
+        "sourceUrl": "https://www.globalgamesforum.com/hamburg"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-170",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "DMWF North America 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.digitalmarketing-conference.com/northamerica/",
+        "sourceUrl": "https://www.digitalmarketing-conference.com/northamerica/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-171",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "DMWF Asia 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Singapore",
+        "country": "Singapore",
+        "region": "APAC",
+        "website": "https://www.digitalmarketing-conference.com/asia/",
+        "sourceUrl": "https://www.digitalmarketing-conference.com/asia/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-172",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA Asia 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Manila",
+        "country": "Philippines",
+        "region": "APAC",
+        "website": "https://sigma.world/summits/asia/",
+        "sourceUrl": "https://sigma.world/summits/asia/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-173",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SiGMA North America 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "region": "LATAM",
+        "website": "https://sigma.world/summits/north-america/",
+        "sourceUrl": "https://sigma.world/summits/north-america/"
+      },
+      "note": "Replaced the unrelated Asia exhibitor page with the North America summit page. Mexico City and September-only announcement confirmed in organizer calendar.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-174",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Rendered organizer page in browser",
+      "facts": {
+        "name": "Affiliate World Dubai 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://www.affiliateworldevents.com/dubai",
+        "sourceUrl": "https://www.affiliateworldevents.com/"
+      },
+      "note": "Rendered organizer calendar explicitly lists the 2027 city edition with dates coming soon; no day inferred.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-175",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Rendered organizer page in browser",
+      "facts": {
+        "name": "Affiliate World Europe 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Budapest",
+        "country": "Hungary",
+        "region": "Europe",
+        "website": "https://www.affiliateworldevents.com/europe",
+        "sourceUrl": "https://www.affiliateworldevents.com/"
+      },
+      "note": "Rendered organizer calendar explicitly lists the 2027 city edition with dates coming soon; no day inferred.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-176",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Rendered organizer page in browser",
+      "facts": {
+        "name": "Affiliate World Americas 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Cancun",
+        "country": "Mexico",
+        "region": "LATAM",
+        "website": "https://www.affiliateworldevents.com/americas",
+        "sourceUrl": "https://www.affiliateworldevents.com/"
+      },
+      "note": "Rendered organizer calendar explicitly lists the 2027 city edition with dates coming soon; no day inferred.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-177",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "SBC Summit Americas 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Fort Lauderdale",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://sbcevents.com/sbc-summit-americas/",
+        "sourceUrl": "https://sbcevents.com/sbc-summit-americas/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 403,
+      "sourceHttpStatus": 403
+    },
+    {
+      "id": "E27-178",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Rendered organizer page in browser",
+      "facts": {
+        "name": "HIPTHER Baltics & Nordics: Tallinn 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Tallinn",
+        "country": "Estonia",
+        "region": "Europe",
+        "website": "https://www.hipther.com/igaming",
+        "sourceUrl": "https://www.hipther.com/igaming"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-179",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Seamless Digital Commerce 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Location TBA",
+        "country": "Location TBA",
+        "region": "MENA",
+        "website": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
+        "sourceUrl": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-180",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ATS London 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/",
+        "sourceUrl": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-181",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "PI LIVE Europe 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "",
+        "country": "Location TBA",
+        "region": "Europe",
+        "website": "https://performancein.live/europe/passes/",
+        "sourceUrl": "https://performancein.live/europe/passes/"
+      },
+      "note": "2027 interest/return announcement is explicit, but the reviewed page does not confirm the next venue; previous location disclosed only in a note.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-182",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Sports Betting West Africa+ Summit 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dakar",
+        "country": "Senegal",
+        "region": "Africa",
+        "website": "https://www.sportsbettingevents.com/sbwa",
+        "sourceUrl": "https://www.eventus-international.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-183",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gaming Event Francophone Africa 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dakar",
+        "country": "Senegal",
+        "region": "Africa",
+        "website": "https://www.sportsbettingevents.com/gefa",
+        "sourceUrl": "https://www.eventus-international.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-184",
+      "checkedOn": "2026-10-20",
+      "decision": "Announced",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Portside Game Assembly 2027",
+        "dateStatus": "Announced",
+        "startDate": "2027-07-01",
+        "endDate": "2027-07-02",
+        "city": "Hamburg",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://portsideassembly.com/",
+        "sourceUrl": "https://portsideassembly.com/"
+      },
+      "note": "Homepage, About page and 2027 ticket information reviewed. Old June/July discrepancy is resolved; both date-bearing pages now agree on July 1–2.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-185",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Game Dev Local Expo (GDLX) 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://www.gamedevlocal.com/gdlx",
+        "sourceUrl": "https://www.gamedevlocal.com/gdlx"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-186",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Las Vegas 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Las Vegas",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-187",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Dubai 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Dubai",
+        "country": "UAE",
+        "region": "MENA",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-188",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Budapest 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Budapest",
+        "country": "Hungary",
+        "region": "Europe",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-189",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Sao Paulo 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Sao Paulo",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-190",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup New York 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-191",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Cancun 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Cancun",
+        "country": "Mexico",
+        "region": "LATAM",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-192",
+      "checkedOn": "2026-10-20",
+      "decision": "TBA",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "TTMeetup Bangkok 2027",
+        "dateStatus": "TBA",
+        "startDate": "",
+        "endDate": "",
+        "city": "Bangkok",
+        "country": "Thailand",
+        "region": "APAC",
+        "website": "https://ttmeetup.com/",
+        "sourceUrl": "https://ttmeetup.com/"
+      },
+      "note": "Organizer explicitly announces a 2027 edition; exact days are not published.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-193",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Growth Phestival",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Berlin",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://growthphestival.com/",
+        "sourceUrl": "https://growthphestival.com/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-194",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "AppGala Barcelona",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region": "Europe",
+        "website": "https://appgala.events/",
+        "sourceUrl": "https://appgala.events/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-195",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "AppGala Warsaw",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Warsaw",
+        "country": "Poland",
+        "region": "Europe",
+        "website": "https://appgala.events/",
+        "sourceUrl": "https://appgala.events/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-196",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "UA Society Summit",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://uasociety.events/ua-society-summit-2026-london-uk/",
+        "sourceUrl": "https://uasociety.events/ua-society-summit-2026-london-uk/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-197",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "ASO Spot",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "region": "Europe",
+        "website": "https://asospot.com/",
+        "sourceUrl": "https://asospot.com/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-198",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Organizer page via web retrieval (direct client blocked or timed out)",
+      "facts": {
+        "name": "App Growth Annual by RevenueCat",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://appgrowthannual.com/",
+        "sourceUrl": "https://appgrowthannual.com/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": null,
+      "sourceHttpStatus": null
+    },
+    {
+      "id": "E27-199",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Unlocked Mobile & App Growth Summit Amsterdam",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "region": "Europe",
+        "website": "https://mobileappgrowthsummit.com/amsterdam/",
+        "sourceUrl": "https://mobileappgrowthsummit.com/amsterdam/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-200",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "MAMA San Francisco by AppsFlyer",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "San Francisco",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.appsflyer.com/events/mama-san-francisco-2026/",
+        "sourceUrl": "https://www.appsflyer.com/events/mama-san-francisco-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-201",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Israel Mobile Summit",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Tel Aviv",
+        "country": "Israel",
+        "region": "MENA",
+        "website": "https://israelmobilesummit.com/",
+        "sourceUrl": "https://israelmobilesummit.com/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-202",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit Berlin",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Berlin",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/",
+        "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-203",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit London",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "London",
+        "country": "UK",
+        "region": "Europe",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/",
+        "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-204",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit San Francisco",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "San Francisco",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/",
+        "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-205",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "App Growth Summit Sao Paulo",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Sao Paulo",
+        "country": "Brazil",
+        "region": "LATAM",
+        "website": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/",
+        "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-206",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Prebid Summit",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "New York",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.prebidsummit.org/",
+        "sourceUrl": "https://www.prebidsummit.org/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-207",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Prebid Germany DevCon",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "City TBA",
+        "country": "Germany",
+        "region": "Europe",
+        "website": "https://prebid.org/calendar/",
+        "sourceUrl": "https://prebid.org/calendar/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-208",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Beeler.Tech Base.Camp",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Multiple locations",
+        "country": "USA / Spain",
+        "region": "Global / Online",
+        "website": "https://www.beeler.tech/events/",
+        "sourceUrl": "https://www.beeler.tech/events/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-209",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Mobile Executive Summit by Gamesforum",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "region": "APAC",
+        "website": "https://www.globalgamesforum.com/mes-ho-chi-minh",
+        "sourceUrl": "https://www.globalgamesforum.com/mes-ho-chi-minh"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-210",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum San Francisco",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "San Francisco",
+        "country": "USA",
+        "region": "North America",
+        "website": "https://www.globalgamesforum.com/san-francisco",
+        "sourceUrl": "https://www.globalgamesforum.com/san-francisco"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-211",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum Vancouver",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Vancouver",
+        "country": "Canada",
+        "region": "North America",
+        "website": "https://www.globalgamesforum.com/vancouver",
+        "sourceUrl": "https://www.globalgamesforum.com/vancouver"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-212",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Gamesforum Vietnam",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "region": "APAC",
+        "website": "https://www.globalgamesforum.com/vietnam",
+        "sourceUrl": "https://www.globalgamesforum.com/vietnam"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    },
+    {
+      "id": "E27-213",
+      "checkedOn": "2026-10-20",
+      "decision": "Watchlist",
+      "reviewMethod": "Direct organizer page",
+      "facts": {
+        "name": "Mobidictum Conference",
+        "dateStatus": "Watchlist",
+        "startDate": "",
+        "endDate": "",
+        "city": "Istanbul",
+        "country": "Türkiye",
+        "region": "Europe",
+        "website": "https://mobidictum.com/events/mobidictum-conference-2026/",
+        "sourceUrl": "https://mobidictum.com/events/mobidictum-conference-2026/"
+      },
+      "note": "Series existence and latest published location checked; no 2027 edition confirmed in reviewed organizer source.",
+      "websiteHttpStatus": 200,
+      "sourceHttpStatus": 200
+    }
+  ]
+}

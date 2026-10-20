@@ -1,0 +1,139 @@
+[
+  {
+    "event": {
+      "id": "E27-124",
+      "slug": "app-growth-summit-paris-2027",
+      "status": "Upcoming",
+      "year": 2027,
+      "name": "App Growth Summit Paris 2027",
+      "startDate": "2027-05-27",
+      "endDate": "2027-05-27",
+      "month": "May",
+      "quarter": "Q2",
+      "region": "Europe",
+      "country": "France",
+      "city": "Paris",
+      "mainCategory": "Mobile / App Growth",
+      "verticalTags": [
+        "Mobile",
+        "App Growth",
+        "User Acquisition",
+        "Monetization"
+      ],
+      "audienceTags": [
+        "app marketers",
+        "UA leads",
+        "product and monetization teams"
+      ],
+      "goalTags": [
+        "Networking",
+        "Partnerships",
+        "Lead generation"
+      ],
+      "bestFor": "App advertisers, user acquisition and monetization teams",
+      "shortDescription": "Curated app growth summit covering acquisition, creative, retention and monetization.",
+      "website": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
+      "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
+      "verifiedOn": "2026-10-19",
+      "dateStatus": "Announced",
+      "format": "Conference",
+      "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+    },
+    "checkedOn": "2026-10-20",
+    "reason": "2027 edition page returns HTTP 404 and a rendered 404 page; current upcoming calendar omits Paris. Older indexed organizer snapshot is not sufficient for a current dated listing.",
+    "sources": [
+      "https://appgrowthsummit.com/events/",
+      "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/"
+    ]
+  },
+  {
+    "event": {
+      "id": "E26-071",
+      "slug": "irce-retailx-2026",
+      "status": "Past",
+      "name": "IRCE + RetailX 2026",
+      "startDate": "2026-06-09",
+      "endDate": "2026-06-11",
+      "month": "June",
+      "quarter": "Q2",
+      "region": "North America",
+      "country": "USA",
+      "city": "Chicago",
+      "mainCategory": "Retail / E-commerce",
+      "verticalTags": [
+        "Retail / E-commerce",
+        "Digital Marketing",
+        "Martech",
+        "Retail Media"
+      ],
+      "audienceTags": [
+        "Retail / E-commerce Brands",
+        "CMOs / Marketing Leaders",
+        "Growth Leads",
+        "Advertisers",
+        "Agencies"
+      ],
+      "goalTags": [
+        "Brand advertiser discovery",
+        "Partnerships",
+        "Networking",
+        "Market insights",
+        "Lead generation"
+      ],
+      "bestFor": "Ecommerce brands, retail marketers, technology vendors",
+      "shortDescription": "Commerce and retail event for ecommerce, marketplace and retail technology teams.",
+      "website": "https://retailx.com/",
+      "dateNote": "Imported archive listing: the 2026 edition and dates could not be confirmed from an official source; retained as unverified history."
+    },
+    "checkedOn": "2026-10-20",
+    "reason": "Could not verify a 2026 IRCE + RetailX edition. The old retailx.com domain redirects to a retail news publisher, not this conference.",
+    "sources": [
+      "https://retailx.com/"
+    ]
+  },
+  {
+    "event": {
+      "id": "E26-223",
+      "slug": "mobile-digital-marketing-summit-mumbai",
+      "status": "Upcoming",
+      "name": "Mobile & Digital Marketing Summit Mumbai",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "month": "November",
+      "quarter": "Q4",
+      "region": "APAC",
+      "country": "India",
+      "city": "Mumbai",
+      "mainCategory": "Mobile / App Growth",
+      "verticalTags": [
+        "Mobile Growth",
+        "Performance Marketing",
+        "AI / Data"
+      ],
+      "audienceTags": [
+        "UA Managers",
+        "Growth Leads",
+        "CMOs / Marketing Leaders",
+        "Advertisers",
+        "Agencies"
+      ],
+      "goalTags": [
+        "Meet app advertisers",
+        "Networking",
+        "Brand visibility"
+      ],
+      "bestFor": "Digital marketers, UA managers, Advertisers",
+      "shortDescription": "Mobile and digital marketing event in Mumbai focused on growth, mobile marketing and digital strategy.",
+      "website": "https://www.worldmarketingcongress.org/",
+      "sourceUrl": "https://www.worldmarketingcongress.org/",
+      "linkCheckedOn": "2026-10-20",
+      "dateNote": "Imported archive listing: November 25 date is not confirmed by the current organizer page. Check with organizer before making plans."
+    },
+    "checkedOn": "2026-10-20",
+    "reason": "Only generic third-party listings found for the November 25 date; current organizer site does not confirm the dated edition. Original destination was a generic third-party calendar.",
+    "sources": [
+      "https://www.worldmarketingcongress.org/",
+      "https://online.marketing/mobile-marketing/"
+    ]
+  }
+]

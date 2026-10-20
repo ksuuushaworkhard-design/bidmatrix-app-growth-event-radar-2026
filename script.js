@@ -48,7 +48,7 @@ const elements = {
 async function init() {
   try {
     assertRequiredElements();
-    const response = await fetch("events.json?v=2027-20261020-r1");
+    const response = await fetch("events.json?v=2027-20261020-r2");
     if (!response.ok) throw new Error(`Unable to load events.json (${response.status})`);
     state.events = await response.json();
     populateFilters();
@@ -268,7 +268,7 @@ function render() {
     const watchCount = yearEvents.filter((event) => event.dateStatus === "Watchlist").length;
     elements.dataNote.textContent = allVerified
       ? `${yearEvents.length - pendingCount - watchCount} dated · ${pendingCount} dates pending${watchCount ? ` · ${watchCount} series awaiting a 2027 announcement` : ""} · Sources checked ${checked}.`
-      : `${state.applied.year} archive · Original event listings.`;
+      : `${state.applied.year} archive · Historical listings; some details await reconfirmation.`;
   }
   const dated = matches.filter((event) => !["TBA", "Watchlist"].includes(event.dateStatus));
   const pending = matches.filter((event) => event.dateStatus === "TBA");

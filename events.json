@@ -312,7 +312,9 @@
     ],
     "bestFor": "Affiliate and partner marketing teams",
     "shortDescription": "Regional affiliate/partner marketing event included in 2026 affiliate calendars.",
-    "website": "https://www.amnavigator.com/affiliate-marketing-conferences/"
+    "website": "https://martechrecord.com/past-events/marcc-denver/",
+    "sourceUrl": "https://martechrecord.com/past-events/marcc-denver/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-010",
@@ -633,7 +635,9 @@
     ],
     "bestFor": "Performance marketers, affiliates, partner marketers",
     "shortDescription": "Performance marketing conference for affiliate, partner and performance growth teams.",
-    "website": "https://performancemarketingworld.com/"
+    "website": "https://www.performancemarketingunlocked.com/",
+    "sourceUrl": "https://www.performancemarketingunlocked.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-018",
@@ -1855,7 +1859,7 @@
   {
     "id": "E26-240",
     "slug": "asean-gaming-summit-2026",
-    "status": "Past",
+    "status": "Cancelled",
     "name": "ASEAN Gaming Summit 2026",
     "startDate": "2026-05-06",
     "endDate": "2026-05-08",
@@ -1886,8 +1890,11 @@
       "Market expansion"
     ],
     "bestFor": "APAC operators, suppliers, affiliates",
-    "shortDescription": "ASEAN gaming conference for operators, regulators and gaming suppliers.",
-    "website": "https://www.aseangaming.com/"
+    "shortDescription": "Gaming summit originally scheduled in Manila; the organizer has foregone the 2026 edition.",
+    "website": "https://aseangaming.com/",
+    "sourceUrl": "https://aseangaming.com/",
+    "linkCheckedOn": "2026-10-20",
+    "dateNote": "2026 edition cancelled by organizer. Dates shown are the originally scheduled dates; organizer announces return in March 2027."
   },
   {
     "id": "E26-051",
@@ -2341,7 +2348,9 @@
     ],
     "bestFor": "iGaming operators, affiliates, tech partners",
     "shortDescription": "iGaming summit and networking event in Malta with operator and tech audience.",
-    "website": "https://next.io/events/next-valletta/"
+    "website": "https://next.io/summits/valletta/",
+    "sourceUrl": "https://next.io/summits/valletta/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-064",
@@ -2655,43 +2664,6 @@
     "website": "https://rio.websummit.com/"
   },
   {
-    "id": "E26-071",
-    "slug": "irce-retailx-2026",
-    "status": "Past",
-    "name": "IRCE + RetailX 2026",
-    "startDate": "2026-06-09",
-    "endDate": "2026-06-11",
-    "month": "June",
-    "quarter": "Q2",
-    "region": "North America",
-    "country": "USA",
-    "city": "Chicago",
-    "mainCategory": "Retail / E-commerce",
-    "verticalTags": [
-      "Retail / E-commerce",
-      "Digital Marketing",
-      "Martech",
-      "Retail Media"
-    ],
-    "audienceTags": [
-      "Retail / E-commerce Brands",
-      "CMOs / Marketing Leaders",
-      "Growth Leads",
-      "Advertisers",
-      "Agencies"
-    ],
-    "goalTags": [
-      "Brand advertiser discovery",
-      "Partnerships",
-      "Networking",
-      "Market insights",
-      "Lead generation"
-    ],
-    "bestFor": "Ecommerce brands, retail marketers, technology vendors",
-    "shortDescription": "Commerce and retail event for ecommerce, marketplace and retail technology teams.",
-    "website": "https://retailx.com/"
-  },
-  {
     "id": "E26-072",
     "slug": "sbc-summit-americas",
     "status": "Past",
@@ -2858,7 +2830,7 @@
   {
     "id": "E26-077",
     "slug": "giga-expo-2026",
-    "status": "Ongoing",
+    "status": "Cancelled",
     "name": "GiGA Expo 2026",
     "startDate": "2026-06-17",
     "endDate": "2026-06-18",
@@ -2889,13 +2861,16 @@
       "Market expansion"
     ],
     "bestFor": "iGaming affiliates, operators, tech partners",
-    "shortDescription": "Global iGaming and affiliate expo with European operator/affiliate audience.",
-    "website": "https://www.gigaexpo.com/"
+    "shortDescription": "iGaming and affiliate expo originally scheduled in Sofia; the organizer has cancelled this edition.",
+    "website": "https://giga-expo.com/",
+    "sourceUrl": "https://giga-expo.com/",
+    "linkCheckedOn": "2026-10-20",
+    "dateNote": "Cancelled by the organizer. Dates shown are the originally scheduled dates."
   },
   {
     "id": "E26-257",
     "slug": "peru-gaming-show-2026",
-    "status": "Ongoing",
+    "status": "Past",
     "name": "Peru Gaming Show 2026",
     "startDate": "2026-06-17",
     "endDate": "2026-06-18",
@@ -2932,7 +2907,7 @@
   {
     "id": "E26-078",
     "slug": "vivatech-2026",
-    "status": "Ongoing",
+    "status": "Past",
     "name": "VivaTech 2026",
     "startDate": "2026-06-17",
     "endDate": "2026-06-20",
@@ -2964,7 +2939,7 @@
   {
     "id": "E26-079",
     "slug": "devgamm-gda-sk",
-    "status": "Ongoing",
+    "status": "Past",
     "name": "DevGAMM Gdańsk",
     "startDate": "2026-06-18",
     "endDate": "2026-06-19",
@@ -2995,7 +2970,7 @@
   {
     "id": "E26-080",
     "slug": "serious-play-europe-2026",
-    "status": "Ongoing",
+    "status": "Past",
     "name": "Serious Play Europe 2026",
     "startDate": "2026-06-18",
     "endDate": "2026-06-19",
@@ -3028,12 +3003,14 @@
     ],
     "bestFor": "Game studios, product teams, serious games teams",
     "shortDescription": "Conference around serious games, game-based learning and game tech.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://seriousplayconf.com/wp-content/uploads/2025/10/SPC_PRESSKIT_NA.pdf",
+    "sourceUrl": "https://seriousplayconf.com/wp-content/uploads/2025/10/SPC_PRESSKIT_NA.pdf",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-081",
     "slug": "wn-conference-istanbul",
-    "status": "Ongoing",
+    "status": "Past",
     "name": "WN Conference Istanbul",
     "startDate": "2026-06-18",
     "endDate": "2026-06-19",
@@ -3065,7 +3042,7 @@
   {
     "id": "E26-082",
     "slug": "game-con-canada-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game Con Canada 2026",
     "startDate": "2026-06-19",
     "endDate": "2026-06-21",
@@ -3098,12 +3075,14 @@
     ],
     "bestFor": "Game studios, publishers, creators",
     "shortDescription": "Canadian game industry event with consumer and developer presence.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://gameconcanada.com/",
+    "sourceUrl": "https://gameconcanada.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-083",
     "slug": "cannes-lions-international-festival-of-creativity",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Cannes Lions International Festival of Creativity",
     "startDate": "2026-06-22",
     "endDate": "2026-06-26",
@@ -3136,7 +3115,7 @@
   {
     "id": "E26-085",
     "slug": "commercenext-growth-show-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "CommerceNext Growth Show 2026",
     "startDate": "2026-06-23",
     "endDate": "2026-06-24",
@@ -3168,12 +3147,14 @@
     ],
     "bestFor": "Ecommerce marketers, retail growth leaders",
     "shortDescription": "CommerceNext growth event for ecommerce marketers and retail leaders.",
-    "website": "https://commercenext.com/events/the-commerce-next-growth-show/"
+    "website": "https://growthshow.commercenext.com/",
+    "sourceUrl": "https://growthshow.commercenext.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-086",
     "slug": "game-quality-forum-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game Quality Forum 2026",
     "startDate": "2026-06-23",
     "endDate": "2026-06-25",
@@ -3206,12 +3187,14 @@
     ],
     "bestFor": "Game studios, QA teams, publishers",
     "shortDescription": "Focused forum for game quality, QA, production and live operations.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.gqforum.com/",
+    "sourceUrl": "https://www.gqforum.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-087",
     "slug": "game-production-summit-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game Production Summit 2026",
     "startDate": "2026-06-24",
     "endDate": "2026-06-25",
@@ -3244,12 +3227,14 @@
     ],
     "bestFor": "Game producers, studios, publishers",
     "shortDescription": "Production-focused conference for game development and studio operations.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.iqpc.com/events-gameproductionsummit",
+    "sourceUrl": "https://www.iqpc.com/events-gameproductionsummit",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-088",
     "slug": "mwc-shanghai",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "MWC Shanghai",
     "startDate": "2026-06-24",
     "endDate": "2026-06-26",
@@ -3284,8 +3269,8 @@
   {
     "id": "E26-089",
     "slug": "gic-katowice-2026",
-    "status": "Upcoming",
-    "name": "GiC Katowice 2026",
+    "status": "Past",
+    "name": "GIC Sprint Katowice 2026",
     "startDate": "2026-06-25",
     "endDate": "2026-06-27",
     "month": "June",
@@ -3317,12 +3302,14 @@
     ],
     "bestFor": "Game developers, studios, publishers",
     "shortDescription": "Polish game industry conference for developers and partners.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.mckkatowice.pl/pl/wydarzenia-archiwum/5/",
+    "sourceUrl": "https://www.mckkatowice.pl/pl/wydarzenia-archiwum/5/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-090",
     "slug": "portside-game-assembly-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Portside Game Assembly 2026",
     "startDate": "2026-06-25",
     "endDate": "2026-06-26",
@@ -3355,12 +3342,14 @@
     ],
     "bestFor": "Game studios, publishers, creative teams",
     "shortDescription": "Regional game industry event useful for European studio networking.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://portsideassembly.com/portside-26/",
+    "sourceUrl": "https://portsideassembly.com/portside-26/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-091",
     "slug": "search-n-stuff-london-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Search 'n Stuff London Conference 2026",
     "startDate": "2026-06-26",
     "endDate": "2026-06-26",
@@ -3391,12 +3380,14 @@
     ],
     "bestFor": "SEO and digital marketing teams",
     "shortDescription": "Digital marketing/SEO conference in London for search and growth professionals.",
-    "website": "https://searchnstuff.co.uk/conference/"
+    "website": "https://searchnstuff.co.uk/",
+    "sourceUrl": "https://searchnstuff.co.uk/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-092",
     "slug": "global-games-show-saudi-arabia-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Global Games Show Saudi Arabia 2026",
     "startDate": "2026-06-29",
     "endDate": "2026-06-30",
@@ -3429,12 +3420,14 @@
     ],
     "bestFor": "Game companies, regional partners, investors",
     "shortDescription": "MENA-facing games and entertainment event with regional networking value.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.globalgamesshow.com/",
+    "sourceUrl": "https://www.globalgamesshow.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-094",
     "slug": "igb-l-ve-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "iGB L!VE 2026",
     "startDate": "2026-07-01",
     "endDate": "2026-07-02",
@@ -3471,7 +3464,7 @@
   {
     "id": "E26-095",
     "slug": "digimarcon-japan",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Japan",
     "startDate": "2026-07-02",
     "endDate": "2026-07-03",
@@ -3508,7 +3501,7 @@
   {
     "id": "E26-096",
     "slug": "guadalindie-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Guadalindie 2026",
     "startDate": "2026-07-03",
     "endDate": "2026-07-04",
@@ -3540,12 +3533,14 @@
     ],
     "bestFor": "Indie game studios, publishers",
     "shortDescription": "Indie games event useful for publisher discovery and regional game networking.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://guadalindie.com/en/",
+    "sourceUrl": "https://guadalindie.com/en/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-097",
     "slug": "mad-fest-london",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "MAD//Fest London",
     "startDate": "2026-07-07",
     "endDate": "2026-07-09",
@@ -3578,7 +3573,7 @@
   {
     "id": "E26-098",
     "slug": "app-growth-summit-berlin",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit Berlin",
     "startDate": "2026-07-08",
     "endDate": "2026-07-09",
@@ -3613,7 +3608,7 @@
   {
     "id": "E26-242",
     "slug": "ats-singapore-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "ATS Singapore 2026",
     "startDate": "2026-07-08",
     "endDate": "2026-07-08",
@@ -3650,7 +3645,7 @@
   {
     "id": "E26-100",
     "slug": "affiliate-world-europe",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Affiliate World Europe",
     "startDate": "2026-07-09",
     "endDate": "2026-07-10",
@@ -3685,7 +3680,7 @@
   {
     "id": "E26-101",
     "slug": "gameis-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "GameIs Conference 2026",
     "startDate": "2026-07-13",
     "endDate": "2026-07-13",
@@ -3718,12 +3713,14 @@
     ],
     "bestFor": "Israeli game studios, publishers, UA partners",
     "shortDescription": "Israeli games industry conference with strong regional studio access.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.gameisconf.com/",
+    "sourceUrl": "https://www.gameisconf.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-102",
     "slug": "develop-brighton-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Develop Brighton 2026",
     "startDate": "2026-07-14",
     "endDate": "2026-07-16",
@@ -3761,7 +3758,7 @@
   {
     "id": "E26-103",
     "slug": "mozcon-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "MozCon 2026",
     "startDate": "2026-07-14",
     "endDate": "2026-07-15",
@@ -3797,7 +3794,7 @@
   {
     "id": "E26-104",
     "slug": "taipei-game-developers-forum-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Taipei Game Developers Forum 2026",
     "startDate": "2026-07-15",
     "endDate": "2026-07-16",
@@ -3830,12 +3827,14 @@
     ],
     "bestFor": "Game developers, APAC publishers",
     "shortDescription": "Taiwan game developer forum for APAC studio and publisher networking.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://2026.tgdf.tw/en/",
+    "sourceUrl": "https://2026.tgdf.tw/en/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-271",
     "slug": "unlocked-mobile-app-growth-summit-singapore-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Unlocked Mobile & App Growth Summit Singapore 2026",
     "startDate": "2026-07-16",
     "endDate": "2026-07-16",
@@ -3872,7 +3871,7 @@
   {
     "id": "E26-105",
     "slug": "vietnam-game-connect-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Vietnam Game Connect 2026",
     "startDate": "2026-07-16",
     "endDate": "2026-07-16",
@@ -3880,7 +3879,7 @@
     "quarter": "Q3",
     "region": "APAC",
     "country": "Vietnam",
-    "city": "",
+    "city": "Hanoi",
     "mainCategory": "Gaming",
     "verticalTags": [
       "Gaming",
@@ -3905,17 +3904,19 @@
     ],
     "bestFor": "Vietnam game ecosystem, publishers, studios",
     "shortDescription": "Vietnam-focused games event relevant for APAC supply and partner discovery.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.vietnamgameconnect.com/",
+    "sourceUrl": "https://www.vietnamgameconnect.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-106",
     "slug": "unreal-fest-chicago-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Unreal Fest Chicago 2026",
-    "startDate": "2026-07-18",
-    "endDate": "2026-07-18",
-    "month": "July",
-    "quarter": "Q3",
+    "startDate": "2026-06-16",
+    "endDate": "2026-06-18",
+    "month": "June",
+    "quarter": "Q2",
     "region": "North America",
     "country": "USA",
     "city": "Chicago",
@@ -3939,12 +3940,14 @@
     ],
     "bestFor": "Developers, studios using Unreal, tech partners",
     "shortDescription": "Epic/Unreal-focused event for game and interactive development teams.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.unrealengine.com/news/apply-to-present-at-unreal-fest-chicago-2026",
+    "sourceUrl": "https://www.unrealengine.com/news/apply-to-present-at-unreal-fest-chicago-2026",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-107",
     "slug": "siggraph-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "SIGGRAPH 2026",
     "startDate": "2026-07-19",
     "endDate": "2026-07-23",
@@ -3976,7 +3979,7 @@
   {
     "id": "E26-108",
     "slug": "games-for-change-festival-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Games for Change Festival 2026",
     "startDate": "2026-07-21",
     "endDate": "2026-07-22",
@@ -4006,12 +4009,14 @@
     ],
     "bestFor": "Studios, education/impact apps, brands",
     "shortDescription": "Games and impact festival useful for broader app/game ecosystem networking.",
-    "website": "https://www.gamesforchange.org/festival/"
+    "website": "https://festival.gamesforchange.org/",
+    "sourceUrl": "https://festival.gamesforchange.org/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-109",
     "slug": "cedec-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "CEDEC 2026",
     "startDate": "2026-07-22",
     "endDate": "2026-07-24",
@@ -4049,7 +4054,7 @@
   {
     "id": "E26-110",
     "slug": "gaming-community-expo-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Gaming Community Expo 2026",
     "startDate": "2026-07-24",
     "endDate": "2026-07-25",
@@ -4076,12 +4081,14 @@
     ],
     "bestFor": "Gaming communities, creators, consumer-facing studios",
     "shortDescription": "Gaming community expo with creator and audience activation value.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://gcxevent.com/",
+    "sourceUrl": "https://gcxevent.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-111",
     "slug": "philippine-gamedev-expo-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Philippine GameDev Expo 2026",
     "startDate": "2026-07-24",
     "endDate": "2026-07-26",
@@ -4114,12 +4121,14 @@
     ],
     "bestFor": "Philippine game studios, APAC partners",
     "shortDescription": "Philippines game development expo for studio and regional partner discovery.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.pgdx.ph/",
+    "sourceUrl": "https://www.pgdx.ph/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-112",
     "slug": "affiliate-summit-east",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Affiliate Summit East",
     "startDate": "2026-07-27",
     "endDate": "2026-07-28",
@@ -4157,7 +4166,7 @@
   {
     "id": "E26-113",
     "slug": "pocket-gamer-connects-summit-shanghai",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Pocket Gamer Connects Summit Shanghai",
     "startDate": "2026-07-29",
     "endDate": "2026-07-29",
@@ -4191,7 +4200,7 @@
   {
     "id": "E26-114",
     "slug": "gen-con-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Gen Con 2026",
     "startDate": "2026-07-30",
     "endDate": "2026-08-02",
@@ -4223,7 +4232,7 @@
   {
     "id": "E26-115",
     "slug": "wn-summit-dinner-shanghai-26",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "WN Summit/Dinner Shanghai'26",
     "startDate": "2026-07-30",
     "endDate": "2026-07-30",
@@ -4258,7 +4267,7 @@
   {
     "id": "E26-116",
     "slug": "chinajoy-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "ChinaJoy 2026",
     "startDate": "2026-07-31",
     "endDate": "2026-08-03",
@@ -4293,10 +4302,10 @@
   {
     "id": "E26-117",
     "slug": "serious-play-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Serious Play Conference 2026",
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-02",
+    "startDate": "2026-08-05",
+    "endDate": "2026-08-07",
     "month": "August",
     "quarter": "Q3",
     "region": "North America",
@@ -4322,12 +4331,14 @@
     ],
     "bestFor": "Serious games, education and training app teams",
     "shortDescription": "Conference around serious games and applied game design.",
-    "website": "https://www.seriousplayconf.com/"
+    "website": "https://seriousplayconf.com/homepage/",
+    "sourceUrl": "https://seriousplayconf.com/homepage/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-118",
     "slug": "app-growth-summit-s-o-paulo",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit São Paulo",
     "startDate": "2026-08-05",
     "endDate": "2026-08-05",
@@ -4359,7 +4370,7 @@
   {
     "id": "E26-119",
     "slug": "quakecon-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "QuakeCon 2026",
     "startDate": "2026-08-06",
     "endDate": "2026-08-09",
@@ -4390,7 +4401,7 @@
   {
     "id": "E26-120",
     "slug": "etail-boston",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "eTail Boston",
     "startDate": "2026-08-10",
     "endDate": "2026-08-12",
@@ -4423,7 +4434,7 @@
   {
     "id": "E26-121",
     "slug": "digimarcon-australia",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Australia",
     "startDate": "2026-08-12",
     "endDate": "2026-08-13",
@@ -4458,7 +4469,7 @@
   {
     "id": "E26-122",
     "slug": "digimarcon-new-zealand",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon New Zealand",
     "startDate": "2026-08-12",
     "endDate": "2026-08-13",
@@ -4492,7 +4503,7 @@
   {
     "id": "E26-123",
     "slug": "bic-festival-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "BIC Festival 2026",
     "startDate": "2026-08-14",
     "endDate": "2026-08-16",
@@ -4524,12 +4535,14 @@
     ],
     "bestFor": "Indie game studios, Korean game ecosystem",
     "shortDescription": "Busan indie game festival for APAC studio discovery.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://bicfest.org/tickets",
+    "sourceUrl": "https://bicfest.org/tickets",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-124",
     "slug": "magwest-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "MAGWest 2026",
     "startDate": "2026-08-14",
     "endDate": "2026-08-16",
@@ -4555,12 +4568,14 @@
     ],
     "bestFor": "Gaming and community brands",
     "shortDescription": "Gaming, music and community event with consumer/gaming culture relevance.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://magwest.org/",
+    "sourceUrl": "https://magwest.org/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-125",
     "slug": "replaying-japan-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Replaying Japan 2026",
     "startDate": "2026-08-18",
     "endDate": "2026-08-21",
@@ -4586,12 +4601,14 @@
     ],
     "bestFor": "Japanese games ecosystem, researchers, cultural partners",
     "shortDescription": "Games research/culture conference focused on Japanese game studies.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://replaying.jp/",
+    "sourceUrl": "https://replaying.jp/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-126",
     "slug": "playnyc-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "PlayNYC 2026",
     "startDate": "2026-08-20",
     "endDate": "2026-08-23",
@@ -4622,7 +4639,7 @@
   {
     "id": "E26-127",
     "slug": "gamescom-dev",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "gamescom dev 2026",
     "startDate": "2026-08-23",
     "endDate": "2026-08-25",
@@ -4654,7 +4671,7 @@
   {
     "id": "E26-129",
     "slug": "meettomatch-cologne-edition-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "MeetToMatch Cologne Edition 2026",
     "startDate": "2026-08-24",
     "endDate": "2026-08-28",
@@ -4687,7 +4704,7 @@
   {
     "id": "E26-130",
     "slug": "pocket-gamer-mobile-games-awards-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Pocket Gamer Mobile Games Awards 2026",
     "startDate": "2026-08-25",
     "endDate": "2026-08-25",
@@ -4717,7 +4734,7 @@
   {
     "id": "E26-131",
     "slug": "wn-cologne-26",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "WN Cologne'26",
     "startDate": "2026-08-25",
     "endDate": "2026-08-25",
@@ -4750,7 +4767,7 @@
   {
     "id": "E26-132",
     "slug": "digimarcon-india",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon India",
     "startDate": "2026-08-26",
     "endDate": "2026-08-27",
@@ -4788,7 +4805,7 @@
   {
     "id": "E26-133",
     "slug": "digimarcon-singapore",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Singapore",
     "startDate": "2026-08-26",
     "endDate": "2026-08-27",
@@ -4826,7 +4843,7 @@
   {
     "id": "E26-134",
     "slug": "gamescom",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "gamescom",
     "startDate": "2026-08-26",
     "endDate": "2026-08-30",
@@ -4860,7 +4877,7 @@
   {
     "id": "E26-135",
     "slug": "gamescom-congress-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "gamescom congress 2026",
     "startDate": "2026-08-27",
     "endDate": "2026-08-27",
@@ -4891,7 +4908,7 @@
   {
     "id": "E26-136",
     "slug": "ieee-conference-on-games-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "IEEE Conference on Games 2026",
     "startDate": "2026-09-01",
     "endDate": "2026-09-04",
@@ -4917,12 +4934,14 @@
     ],
     "bestFor": "AI/game research teams, product teams",
     "shortDescription": "Academic and technical games conference covering game AI, design and systems.",
-    "website": "https://2026.ieee-cog.org/"
+    "website": "https://www.cog2026.org/",
+    "sourceUrl": "https://www.cog2026.org/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-138",
     "slug": "sigma-north-america-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "SiGMA North America 2026",
     "startDate": "2026-09-01",
     "endDate": "2026-09-03",
@@ -4956,7 +4975,7 @@
   {
     "id": "E26-139",
     "slug": "app-growth-summit-london",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit London",
     "startDate": "2026-09-03",
     "endDate": "2026-09-03",
@@ -4991,7 +5010,7 @@
   {
     "id": "E26-140",
     "slug": "digimarcon-uk",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon UK",
     "startDate": "2026-09-03",
     "endDate": "2026-09-04",
@@ -5025,7 +5044,7 @@
   {
     "id": "E26-141",
     "slug": "pax-west-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "PAX West 2026",
     "startDate": "2026-09-04",
     "endDate": "2026-09-07",
@@ -5056,7 +5075,7 @@
   {
     "id": "E26-142",
     "slug": "affiliate-world-americas",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Affiliate World Americas 2026",
     "startDate": "2026-09-07",
     "endDate": "2026-09-08",
@@ -5091,7 +5110,7 @@
   {
     "id": "E26-144",
     "slug": "digimarcon-spain",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Spain",
     "startDate": "2026-09-07",
     "endDate": "2026-09-08",
@@ -5128,7 +5147,7 @@
   {
     "id": "E26-145",
     "slug": "gamesforum-london",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Gamesforum London 2026",
     "startDate": "2026-09-07",
     "endDate": "2026-09-08",
@@ -5163,7 +5182,7 @@
   {
     "id": "E26-147",
     "slug": "external-development-summit-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "External Development Summit 2026",
     "startDate": "2026-09-08",
     "endDate": "2026-09-11",
@@ -5195,7 +5214,7 @@
   {
     "id": "E26-148",
     "slug": "game-publishing-marketing-community-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game Publishing, Marketing & Community 2026",
     "startDate": "2026-09-08",
     "endDate": "2026-09-09",
@@ -5223,12 +5242,14 @@
     ],
     "bestFor": "Game marketing and publishing teams",
     "shortDescription": "Focused event for game publishing, marketing and community growth.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.iqpc.com/events-game-publishing-marketing-community",
+    "sourceUrl": "https://www.iqpc.com/events-game-publishing-marketing-community",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-149",
     "slug": "live-service-gaming-summit-europe-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Live Service Gaming Summit Europe 2026",
     "startDate": "2026-09-08",
     "endDate": "2026-09-09",
@@ -5255,12 +5276,14 @@
     ],
     "bestFor": "Live service game teams, product and monetization leaders",
     "shortDescription": "Summit focused on live service game operations and monetization.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.iqpc.com/events-live-service-gaming-summit/agenda-at-a-glance",
+    "sourceUrl": "https://www.iqpc.com/events-live-service-gaming-summit/agenda-at-a-glance",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-150",
     "slug": "blizzcon-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "BlizzCon 2026",
     "startDate": "2026-09-12",
     "endDate": "2026-09-13",
@@ -5291,7 +5314,7 @@
   {
     "id": "E26-241",
     "slug": "ats-london-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "ATS London 2026",
     "startDate": "2026-09-15",
     "endDate": "2026-09-15",
@@ -5328,7 +5351,7 @@
   {
     "id": "E26-151",
     "slug": "dreamforce",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Dreamforce",
     "startDate": "2026-09-15",
     "endDate": "2026-09-17",
@@ -5361,7 +5384,7 @@
   {
     "id": "E26-153",
     "slug": "unbound-by-hubspot",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "UNBOUND by HubSpot 2026",
     "startDate": "2026-09-16",
     "endDate": "2026-09-18",
@@ -5393,7 +5416,7 @@
   {
     "id": "E26-154",
     "slug": "business-of-apps-nyc",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Business of Apps NYC 2026",
     "startDate": "2026-09-17",
     "endDate": "2026-09-17",
@@ -5427,7 +5450,7 @@
   {
     "id": "E26-155",
     "slug": "digimarcon-emea-online",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon EMEA (Online)",
     "startDate": "2026-09-17",
     "endDate": "2026-09-18",
@@ -5464,7 +5487,7 @@
   {
     "id": "E26-156",
     "slug": "digimarcon-europe",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Europe",
     "startDate": "2026-09-17",
     "endDate": "2026-09-18",
@@ -5497,7 +5520,7 @@
   {
     "id": "E26-157",
     "slug": "tokyo-game-show",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Tokyo Game Show",
     "startDate": "2026-09-17",
     "endDate": "2026-09-21",
@@ -5530,7 +5553,7 @@
   {
     "id": "E26-158",
     "slug": "wn-conference-cyprus-26",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "WN Conference Cyprus'26",
     "startDate": "2026-09-17",
     "endDate": "2026-09-18",
@@ -5564,7 +5587,7 @@
   {
     "id": "E26-159",
     "slug": "dice-europe-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DICE Europe 2026",
     "startDate": "2026-09-21",
     "endDate": "2026-09-23",
@@ -5596,7 +5619,7 @@
   {
     "id": "E26-160",
     "slug": "digimarcon-middle-east",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Middle East",
     "startDate": "2026-09-22",
     "endDate": "2026-09-23",
@@ -5630,7 +5653,7 @@
   {
     "id": "E26-161",
     "slug": "game-devs-of-color-expo-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game Devs of Color Expo 2026",
     "startDate": "2026-09-22",
     "endDate": "2026-09-25",
@@ -5662,7 +5685,7 @@
   {
     "id": "E26-162",
     "slug": "groceryshop",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Groceryshop",
     "startDate": "2026-09-22",
     "endDate": "2026-09-24",
@@ -5694,7 +5717,7 @@
   {
     "id": "E26-266",
     "slug": "seamless-middle-east-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Seamless Middle East 2026",
     "startDate": "2026-09-22",
     "endDate": "2026-09-24",
@@ -5730,7 +5753,7 @@
   {
     "id": "E26-163",
     "slug": "dmexco",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DMEXCO",
     "startDate": "2026-09-23",
     "endDate": "2026-09-24",
@@ -5764,7 +5787,7 @@
   {
     "id": "E26-164",
     "slug": "technology-for-marketing",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Technology for Marketing 2026",
     "startDate": "2026-09-23",
     "endDate": "2026-09-24",
@@ -5798,7 +5821,7 @@
   {
     "id": "E26-165",
     "slug": "app-growth-summit-sf",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit SF",
     "startDate": "2026-09-24",
     "endDate": "2026-09-24",
@@ -5832,7 +5855,7 @@
   {
     "id": "E26-166",
     "slug": "digimarcon-south-africa",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon South Africa",
     "startDate": "2026-09-28",
     "endDate": "2026-09-29",
@@ -5865,7 +5888,7 @@
   {
     "id": "E26-251",
     "slug": "g2e-las-vegas-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "G2E Las Vegas 2026",
     "startDate": "2026-09-28",
     "endDate": "2026-10-01",
@@ -5898,7 +5921,7 @@
   {
     "id": "E26-256",
     "slug": "gtm2026-by-pavilion",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "GTM2026 by Pavilion",
     "startDate": "2026-09-28",
     "endDate": "2026-10-01",
@@ -5930,7 +5953,7 @@
   {
     "id": "E26-168",
     "slug": "programmatic-i-o-new-york-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Programmatic I/O New York 2026",
     "startDate": "2026-09-28",
     "endDate": "2026-09-29",
@@ -5964,12 +5987,14 @@
     ],
     "bestFor": "Programmatic marketers, agencies, publishers",
     "shortDescription": "Major programmatic media event for advertisers, agencies, publishers and adtech platforms.",
-    "website": "https://programmatic.io/"
+    "website": "https://www.adexchanger.com/marketers/2026-events-award-deadlines/",
+    "sourceUrl": "https://www.adexchanger.com/marketers/2026-events-award-deadlines/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-169",
     "slug": "devgamm-for-the-win-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DevGAMM For The Win 2026",
     "startDate": "2026-09-29",
     "endDate": "2026-09-30",
@@ -6006,7 +6031,7 @@
   {
     "id": "E26-170",
     "slug": "sbc-summit",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "SBC Summit",
     "startDate": "2026-09-29",
     "endDate": "2026-10-01",
@@ -6039,7 +6064,7 @@
   {
     "id": "E26-171",
     "slug": "shoptalk-fall",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Shoptalk Fall",
     "startDate": "2026-09-29",
     "endDate": "2026-10-01",
@@ -6072,7 +6097,7 @@
   {
     "id": "E26-172",
     "slug": "la-games-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "LA Games Conference 2026",
     "startDate": "2026-09-30",
     "endDate": "2026-09-30",
@@ -6104,7 +6129,7 @@
   {
     "id": "E26-173",
     "slug": "nzgdc-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "NZGDC 2026",
     "startDate": "2026-09-30",
     "endDate": "2026-10-03",
@@ -6134,7 +6159,7 @@
   {
     "id": "E26-174",
     "slug": "app-growth-summit-mexico-city",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit Mexico City",
     "startDate": "2026-10-01",
     "endDate": "2026-10-01",
@@ -6168,7 +6193,7 @@
   {
     "id": "E26-175",
     "slug": "digimarcon-africa",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Africa",
     "startDate": "2026-10-01",
     "endDate": "2026-10-02",
@@ -6201,7 +6226,7 @@
   {
     "id": "E26-176",
     "slug": "content-marketing-world-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Content Marketing World 2026",
     "startDate": "2026-10-05",
     "endDate": "2026-10-07",
@@ -6237,7 +6262,7 @@
   {
     "id": "E26-177",
     "slug": "mobidictum-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Mobidictum Conference 2026",
     "startDate": "2026-10-07",
     "endDate": "2026-10-08",
@@ -6271,7 +6296,7 @@
   {
     "id": "E26-178",
     "slug": "brightonseo-october-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "brightonSEO October 2026",
     "startDate": "2026-10-08",
     "endDate": "2026-10-09",
@@ -6307,7 +6332,7 @@
   {
     "id": "E26-179",
     "slug": "digimarcon-mid-atlantic",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Mid-Atlantic",
     "startDate": "2026-10-08",
     "endDate": "2026-10-09",
@@ -6341,7 +6366,7 @@
   {
     "id": "E26-180",
     "slug": "barcelona-game-fest-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Barcelona Game Fest 2026",
     "startDate": "2026-10-09",
     "endDate": "2026-10-11",
@@ -6367,12 +6392,14 @@
     ],
     "bestFor": "Game studios, publishers, consumer gaming brands",
     "shortDescription": "Barcelona games event with consumer and industry relevance.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://sagabarcelonagamefest.cat/en/press-release-30-07-2026/",
+    "sourceUrl": "https://sagabarcelonagamefest.cat/en/press-release-30-07-2026/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-181",
     "slug": "pax-aus-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "PAX Aus 2026",
     "startDate": "2026-10-09",
     "endDate": "2026-10-11",
@@ -6403,7 +6430,7 @@
   {
     "id": "E26-182",
     "slug": "ahrefs-evolve-san-diego",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Ahrefs Evolve San Diego",
     "startDate": "2026-10-12",
     "endDate": "2026-10-13",
@@ -6434,7 +6461,7 @@
   {
     "id": "E26-183",
     "slug": "game-ux-summit-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Game UX Summit 2026",
     "startDate": "2026-10-12",
     "endDate": "2026-10-14",
@@ -6465,7 +6492,7 @@
   {
     "id": "E26-261",
     "slug": "saastock-europe-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "SaaStock Europe 2026",
     "startDate": "2026-10-13",
     "endDate": "2026-10-14",
@@ -6497,7 +6524,7 @@
   {
     "id": "E26-184",
     "slug": "app-growth-summit-barcelona",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "App Growth Summit Barcelona",
     "startDate": "2026-10-14",
     "endDate": "2026-10-15",
@@ -6529,7 +6556,7 @@
   {
     "id": "E26-185",
     "slug": "digimarcon-florida",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "DigiMarCon Florida",
     "startDate": "2026-10-14",
     "endDate": "2026-10-15",
@@ -6562,7 +6589,7 @@
   {
     "id": "E26-186",
     "slug": "gdex-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "GDEX 2026",
     "startDate": "2026-10-15",
     "endDate": "2026-10-18",
@@ -6593,7 +6620,7 @@
   {
     "id": "E26-187",
     "slug": "sweden-game-conference-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "Sweden Game Conference 2026",
     "startDate": "2026-10-15",
     "endDate": "2026-10-16",
@@ -6629,7 +6656,7 @@
   {
     "id": "E26-188",
     "slug": "gamedev-connect-2026",
-    "status": "Upcoming",
+    "status": "Past",
     "name": "GameDev Connect 2026",
     "startDate": "2026-10-17",
     "endDate": "2026-10-18",
@@ -6637,7 +6664,7 @@
     "quarter": "Q4",
     "region": "Europe",
     "country": "Czech Republic",
-    "city": "",
+    "city": "Brno",
     "mainCategory": "Gaming",
     "verticalTags": [
       "Gaming",
@@ -6654,12 +6681,14 @@
     ],
     "bestFor": "Central European game developers and studios",
     "shortDescription": "Regional game developer event in Central Europe.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://game-connect.cz/",
+    "sourceUrl": "https://game-connect.cz/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-190",
     "slug": "pi-live-europe-2026",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "name": "PI LIVE Europe 2026",
     "startDate": "2026-10-19",
     "endDate": "2026-10-21",
@@ -6696,7 +6725,7 @@
   {
     "id": "E26-233",
     "slug": "ana-masters-of-marketing-2026",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "name": "ANA Masters of Marketing 2026",
     "startDate": "2026-10-20",
     "endDate": "2026-10-23",
@@ -6732,7 +6761,7 @@
   {
     "id": "E26-191",
     "slug": "dmwf-global-2026",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "name": "DMWF Global 2026",
     "startDate": "2026-10-20",
     "endDate": "2026-10-21",
@@ -6769,7 +6798,7 @@
   {
     "id": "E26-192",
     "slug": "etail-nordic-2026",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "name": "eTail Nordic 2026",
     "startDate": "2026-10-20",
     "endDate": "2026-10-21",
@@ -6806,7 +6835,7 @@
   {
     "id": "E26-193",
     "slug": "pocket-gamer-connects-nordics",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "name": "Pocket Gamer Connects Nordics",
     "startDate": "2026-10-20",
     "endDate": "2026-10-21",
@@ -6835,7 +6864,9 @@
     ],
     "bestFor": "Publishers, App developers, UA managers",
     "shortDescription": "Large Nordic-region games conference with talks, indie pitch, investor connector, and publisher matchmaking.",
-    "website": "https://www.pocketgamer.biz/events/pocket-gamer-connects-nordics-2026/"
+    "website": "https://www.pgconnects.com/nordics/",
+    "sourceUrl": "https://www.pgconnects.com/nordics/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-194",
@@ -6977,7 +7008,9 @@
     ],
     "bestFor": "Mobile game studios, monetization and adtech teams",
     "shortDescription": "Gamesforum edition for mobile games, monetization and games business.",
-    "website": "https://www.globalgamesforum.com/"
+    "website": "https://www.globalgamesforum.com/vancouver",
+    "sourceUrl": "https://www.globalgamesforum.com/vancouver",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-199",
@@ -7011,7 +7044,9 @@
     ],
     "bestFor": "Mobile game studios, monetization and adtech teams",
     "shortDescription": "Gamesforum edition for US mobile games and monetization ecosystem.",
-    "website": "https://www.globalgamesforum.com/"
+    "website": "https://www.globalgamesforum.com/san-francisco",
+    "sourceUrl": "https://www.globalgamesforum.com/san-francisco",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-200",
@@ -7024,7 +7059,7 @@
     "quarter": "Q4",
     "region": "APAC",
     "country": "India",
-    "city": "Tamil Nadu",
+    "city": "Chennai",
     "mainCategory": "Gaming",
     "verticalTags": [
       "Gaming",
@@ -7048,7 +7083,10 @@
     ],
     "bestFor": "Indian game studios, publishers, APAC partners",
     "shortDescription": "India game developer conference for regional studio and partner discovery.",
-    "website": "https://www.igdc.in/"
+    "website": "https://gdai.in/",
+    "sourceUrl": "https://gdai.in/",
+    "linkCheckedOn": "2026-10-20",
+    "dateNote": "B2B conference: 28–29 October. Organizer also lists public event days on 30–31 October."
   },
   {
     "id": "E26-201",
@@ -7518,7 +7556,9 @@
     ],
     "bestFor": "LATAM game studios and publishers",
     "shortDescription": "Mexico game conference for LATAM game ecosystem networking.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.gameconferencemx.com/",
+    "sourceUrl": "https://www.gameconferencemx.com/",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-216",
@@ -7683,7 +7723,9 @@
     ],
     "bestFor": "China gaming and entertainment brands",
     "shortDescription": "Shanghai gaming/community event relevant for China market visibility.",
-    "website": "https://www.pocketgamer.biz/events/"
+    "website": "https://www.weplaymore.com/english",
+    "sourceUrl": "https://www.weplaymore.com/english",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-222",
@@ -7717,41 +7759,9 @@
     ],
     "bestFor": "Vietnam mobile game studios and monetization teams",
     "shortDescription": "Gamesforum edition focused on Vietnam games and mobile monetization ecosystem.",
-    "website": "https://www.globalgamesforum.com/"
-  },
-  {
-    "id": "E26-223",
-    "slug": "mobile-digital-marketing-summit-mumbai",
-    "status": "Upcoming",
-    "name": "Mobile & Digital Marketing Summit Mumbai",
-    "startDate": "2026-11-25",
-    "endDate": "2026-11-25",
-    "month": "November",
-    "quarter": "Q4",
-    "region": "APAC",
-    "country": "India",
-    "city": "Mumbai",
-    "mainCategory": "Mobile / App Growth",
-    "verticalTags": [
-      "Mobile Growth",
-      "Performance Marketing",
-      "AI / Data"
-    ],
-    "audienceTags": [
-      "UA Managers",
-      "Growth Leads",
-      "CMOs / Marketing Leaders",
-      "Advertisers",
-      "Agencies"
-    ],
-    "goalTags": [
-      "Meet app advertisers",
-      "Networking",
-      "Brand visibility"
-    ],
-    "bestFor": "Digital marketers, UA managers, Advertisers",
-    "shortDescription": "Mobile and digital marketing event in Mumbai focused on growth, mobile marketing and digital strategy.",
-    "website": "https://online.marketing/mobile-marketing/"
+    "website": "https://www.globalgamesforum.com/vietnam",
+    "sourceUrl": "https://www.globalgamesforum.com/vietnam",
+    "linkCheckedOn": "2026-10-20"
   },
   {
     "id": "E26-224",
@@ -7952,7 +7962,7 @@
     "website": "https://www.ces.tech/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ces.tech/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-002",
@@ -7986,7 +7996,7 @@
     "website": "https://nrfbigshow.nrf.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://nrfbigshow.nrf.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-003",
@@ -8019,7 +8029,7 @@
     "website": "https://www.icegaming.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.icegaming.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-004",
@@ -8052,7 +8062,7 @@
     "website": "https://www.pgconnects.com/london/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.pgconnects.com/london/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-005",
@@ -8087,7 +8097,7 @@
     "website": "https://barcelona.igbaffiliate.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://barcelona.igbaffiliate.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-006",
@@ -8122,7 +8132,7 @@
     "website": "https://www.affiliatesummit.com/west/attend/faqs",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.affiliatesummit.com/west/attend/faqs",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-007",
@@ -8158,7 +8168,7 @@
     "website": "https://www.globalgamesforum.com/barcelona",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.globalgamesforum.com/barcelona",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-008",
@@ -8190,10 +8200,10 @@
     ],
     "bestFor": "iGaming operators, affiliates, acquisition and partnership teams",
     "shortDescription": "Gaming business summit connecting operators, affiliates and suppliers working in African markets.",
-    "website": "https://sigma.world/",
+    "website": "https://sigma.world/summits/africa/",
     "dateStatus": "Announced",
-    "sourceUrl": "https://sigma.world/",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://sigma.world/summits/africa/",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-009",
@@ -8227,7 +8237,7 @@
     "website": "https://ecommerceberlin.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://ecommerceberlin.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-010",
@@ -8262,7 +8272,7 @@
     "website": "https://leadgenerationworld.com/agenda-overview/",
     "dateStatus": "Announced",
     "sourceUrl": "https://leadgenerationworld.com/agenda-overview/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-011",
@@ -8296,7 +8306,7 @@
     "website": "https://appgrowthsummit.com/events/app-growth-summit-los-angeles-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://appgrowthsummit.com/events/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-012",
@@ -8331,7 +8341,7 @@
     "website": "https://digiday.com/events/digiday-media-buying-summit-mar-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://digiday.com/events/digiday-media-buying-summit-mar-2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-013",
@@ -8339,7 +8349,7 @@
     "status": "Upcoming",
     "name": "GDC Festival of Gaming 2027",
     "startDate": "2027-03-01",
-    "endDate": "2027-03-05",
+    "endDate": "2027-03-04",
     "month": "March",
     "quarter": "Q1",
     "region": "North America",
@@ -8364,7 +8374,7 @@
     "website": "https://gdconf.com/faq/",
     "dateStatus": "Announced",
     "sourceUrl": "https://gdconf.com/faq/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-014",
@@ -8398,7 +8408,7 @@
     "website": "https://www.mwcbarcelona.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mwcbarcelona.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-015",
@@ -8433,7 +8443,7 @@
     "website": "https://tesaffiliateconferences.com/upcoming-events",
     "dateStatus": "Announced",
     "sourceUrl": "https://tesaffiliateconferences.com/upcoming-events",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-016",
@@ -8465,10 +8475,10 @@
     ],
     "bestFor": "iGaming operators, affiliates, acquisition and partnership teams",
     "shortDescription": "Gaming and affiliate summit bringing together regional operators, suppliers and commercial partners.",
-    "website": "https://sigma.world/",
+    "website": "https://sigma.world/summits/eurasia/",
     "dateStatus": "Announced",
-    "sourceUrl": "https://sigma.world/",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://sigma.world/summits/eurasia/",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-017",
@@ -8504,7 +8514,7 @@
     "website": "https://d3con.de/",
     "dateStatus": "Announced",
     "sourceUrl": "https://d3con.de/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-018",
@@ -8540,7 +8550,7 @@
     "website": "https://newdelhi.ad-tech.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://newdelhi.ad-tech.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-019",
@@ -8574,7 +8584,7 @@
     "website": "https://appgrowthsummit.com/events/app-growth-summit-istanbul-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://appgrowthsummit.com/events/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-020",
@@ -8609,7 +8619,7 @@
     "website": "https://digiday.com/events/digiday-publishing-summit-march-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://digiday.com/events/digiday-publishing-summit-march-2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-021",
@@ -8643,7 +8653,7 @@
     "website": "https://spring.shoptalk.com/home",
     "dateStatus": "Announced",
     "sourceUrl": "https://spring.shoptalk.com/home",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-022",
@@ -8676,7 +8686,7 @@
     "website": "https://www.socialmediaexaminer.com/smmworld/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.socialmediaexaminer.com/smmworld/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-023",
@@ -8711,7 +8721,7 @@
     "website": "https://www.leadscon.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.leadscon.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-024",
@@ -8746,7 +8756,7 @@
     "website": "https://possibleevent.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://possibleevent.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-025",
@@ -8778,10 +8788,10 @@
     ],
     "bestFor": "iGaming operators, affiliates, acquisition and partnership teams",
     "shortDescription": "Gaming summit for operators, affiliates and technology suppliers active in Latin America.",
-    "website": "https://sigma.world/",
+    "website": "https://sigma.world/summits/south-america/",
     "dateStatus": "Announced",
-    "sourceUrl": "https://sigma.world/",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://sigma.world/summits/south-america/",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-026",
@@ -8813,11 +8823,11 @@
       "Partnerships"
     ],
     "bestFor": "Mobile game publishers, UA leads, monetization teams",
-    "shortDescription": "Mobile gaming conference on user acquisition and monetization at Park Lane Resort & Spa.",
+    "shortDescription": "Mobile gaming conference on user acquisition and monetization at Parklane Resort & Spa.",
     "website": "https://www.globalgamesforum.com/cyprus",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.globalgamesforum.com/cyprus",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-027",
@@ -8850,7 +8860,7 @@
     "website": "https://brightonseo.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://brightonseo.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-028",
@@ -8884,7 +8894,7 @@
     "website": "https://www.modernretail.co/events/modern-retail-marketing-summit-april-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.modernretail.co/events/modern-retail-marketing-summit-april-2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-029",
@@ -8919,7 +8929,7 @@
     "website": "https://sbcevents.com/sbc-summit-europe/",
     "dateStatus": "Announced",
     "sourceUrl": "https://sbcevents.com/sbc-summit-europe/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-030",
@@ -8953,7 +8963,7 @@
     "website": "https://tickets.businessofapps.com/events/businessofapps",
     "dateStatus": "Announced",
     "sourceUrl": "https://tickets.businessofapps.com/events/businessofapps",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-031",
@@ -8986,7 +8996,7 @@
     "website": "https://omr.com/en",
     "dateStatus": "Announced",
     "sourceUrl": "https://omr.com/en",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-032",
@@ -9018,10 +9028,10 @@
     ],
     "bestFor": "iGaming operators, affiliates, acquisition and partnership teams",
     "shortDescription": "European gaming and affiliate summit for operators, technology providers and business partners.",
-    "website": "https://sigma.world/",
+    "website": "https://sigma.world/summits/europe/",
     "dateStatus": "Announced",
-    "sourceUrl": "https://sigma.world/",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://sigma.world/summits/europe/",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-033",
@@ -9055,7 +9065,7 @@
     "website": "https://mauvegas.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://mauvegas.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-034",
@@ -9091,7 +9101,7 @@
     "website": "https://digiday.com/events/digiday-programmatic-marketing-summit-may-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://digiday.com/events/digiday-programmatic-marketing-summit-may-2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-035",
@@ -9124,7 +9134,7 @@
     "website": "https://nordicgame.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://nordicgame.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-036",
@@ -9155,10 +9165,10 @@
     ],
     "bestFor": "Retailers, ecommerce brands, retail media and growth teams",
     "shortDescription": "European retail and commerce event for brands, retailers and technology companies.",
-    "website": "https://europe.shoptalk.com/",
+    "website": "https://europe.shoptalk.com/home",
     "dateStatus": "Announced",
-    "sourceUrl": "https://spring.shoptalk.com/home",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://europe.shoptalk.com/home",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-037",
@@ -9193,7 +9203,7 @@
     "website": "https://sbcevents.com/sbc-summit-canada/",
     "dateStatus": "Announced",
     "sourceUrl": "https://sbcevents.com/sbc-summit-canada/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-038",
@@ -9228,7 +9238,7 @@
     "website": "https://www.canneslions.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.canneslions.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-039",
@@ -9262,7 +9272,7 @@
     "website": "https://www.mwcshanghai.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mwcshanghai.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-040",
@@ -9297,7 +9307,7 @@
     "website": "https://www.igblive.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.igblive.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-041",
@@ -9330,7 +9340,7 @@
     "website": "https://www.developconference.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.developconference.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-042",
@@ -9365,7 +9375,7 @@
     "website": "https://www.affiliatesummit.com/east",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.affiliatesummit.com/east",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-043",
@@ -9401,7 +9411,7 @@
     "website": "https://www.globalgamesforum.com/london",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.globalgamesforum.com/london",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-044",
@@ -9434,7 +9444,7 @@
     "website": "https://brightonseo.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://brightonseo.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-045",
@@ -9469,7 +9479,7 @@
     "website": "https://tesaffiliateconferences.com/upcoming-events",
     "dateStatus": "Announced",
     "sourceUrl": "https://tesaffiliateconferences.com/upcoming-events",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-046",
@@ -9500,10 +9510,10 @@
     ],
     "bestFor": "Retailers, ecommerce brands, retail media and growth teams",
     "shortDescription": "Grocery and consumer goods industry event for commerce, marketing and technology teams.",
-    "website": "https://groceryshop.com/",
+    "website": "https://groceryshop.com/home",
     "dateStatus": "Announced",
-    "sourceUrl": "https://spring.shoptalk.com/home",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://groceryshop.com/home",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-047",
@@ -9537,7 +9547,7 @@
     "website": "https://tickets.businessofapps.com/events/businessofapps",
     "dateStatus": "Announced",
     "sourceUrl": "https://tickets.businessofapps.com/events/businessofapps",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-048",
@@ -9572,7 +9582,7 @@
     "website": "https://sbcevents.com/affiliate-leaders-summit/",
     "dateStatus": "Announced",
     "sourceUrl": "https://sbcevents.com/affiliate-leaders-summit/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-049",
@@ -9607,7 +9617,7 @@
     "website": "https://sbcevents.com/sbc-summit/",
     "dateStatus": "Announced",
     "sourceUrl": "https://sbcevents.com/sbc-summit/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-050",
@@ -9643,7 +9653,7 @@
     "website": "https://dmexco.com/about-dmexco/",
     "dateStatus": "Announced",
     "sourceUrl": "https://dmexco.com/about-dmexco/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-051",
@@ -9677,7 +9687,7 @@
     "website": "https://fall.shoptalk.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://spring.shoptalk.com/home",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-052",
@@ -9712,7 +9722,7 @@
     "website": "https://europe.possibleevent.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://europe.possibleevent.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-053",
@@ -9747,7 +9757,7 @@
     "website": "https://wnhub.io/event-info/connect-london-27",
     "dateStatus": "Announced",
     "sourceUrl": "https://wnhub.io/event-info/connect-london-27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-054",
@@ -9782,7 +9792,7 @@
     "website": "https://ugconf.se/",
     "dateStatus": "Announced",
     "sourceUrl": "https://ugconf.se/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-055",
@@ -9817,7 +9827,7 @@
     "website": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.iab.com/events/2027-iab-annual-leadership-meeting/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-056",
@@ -9852,7 +9862,7 @@
     "website": "https://ukie.org.uk/events/",
     "dateStatus": "Announced",
     "sourceUrl": "https://ukie.org.uk/events/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-057",
@@ -9887,7 +9897,7 @@
     "website": "https://gamedevsummit.co/",
     "dateStatus": "Announced",
     "sourceUrl": "https://gamedevsummit.co/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-058",
@@ -9922,7 +9932,7 @@
     "website": "https://www.ana.net/conference/show/id/INFL-MAR27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/INFL-MAR27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-059",
@@ -9956,7 +9966,7 @@
     "website": "https://prospershow.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://prospershow.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-060",
@@ -9991,7 +10001,7 @@
     "website": "https://hipther.com/events/prague/summit/",
     "dateStatus": "Announced",
     "sourceUrl": "https://hipther.com/events/prague/summit/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-061",
@@ -10026,7 +10036,7 @@
     "website": "https://dev.gamescom.global/",
     "dateStatus": "Announced",
     "sourceUrl": "https://dev.gamescom.global/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-062",
@@ -10061,7 +10071,7 @@
     "website": "https://www.conversion-conf.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.conversion-conf.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-063",
@@ -10097,7 +10107,7 @@
     "website": "https://www.adexchanger.com/go/ctv-world-2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.admonsters.com/conferences-and-events/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-064",
@@ -10133,7 +10143,7 @@
     "website": "https://www.nabshow.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.nabshow.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-065",
@@ -10168,7 +10178,7 @@
     "website": "https://www.ana.net/conference/show/id/IHA-APR27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/IHA-APR27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-066",
@@ -10203,7 +10213,7 @@
     "website": "https://festival.games.london/",
     "dateStatus": "Announced",
     "sourceUrl": "https://festival.games.london/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-067",
@@ -10238,7 +10248,7 @@
     "website": "https://next.io/summits/newyork/",
     "dateStatus": "Announced",
     "sourceUrl": "https://next.io/summits/newyork/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-068",
@@ -10272,7 +10282,7 @@
     "website": "https://www.retailtechnologyshow.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.retailtechnologyshow.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-069",
@@ -10307,7 +10317,7 @@
     "website": "https://latam.gamescom.global/en/",
     "dateStatus": "Announced",
     "sourceUrl": "https://latam.gamescom.global/en/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-070",
@@ -10341,7 +10351,7 @@
     "website": "https://www.ana.net/conference/show/id/DATA-APR27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/DATA-APR27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-071",
@@ -10376,7 +10386,7 @@
     "website": "https://www.forrester.com/event/b2b-summit-north-america/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.forrester.com/event/b2b-summit-north-america/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-072",
@@ -10411,7 +10421,7 @@
     "website": "https://www.ana.net/conference/show/id/AFM-MAY27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/AFM-MAY27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-073",
@@ -10446,7 +10456,7 @@
     "website": "https://www.digitalmarketing-conference.com/global/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.digitalmarketing-conference.com/global/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-074",
@@ -10481,7 +10491,7 @@
     "website": "https://www.atoconf.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.atoconf.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-075",
@@ -10517,7 +10527,7 @@
     "website": "https://www.saastrannual.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.saastrannual.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-076",
@@ -10552,7 +10562,7 @@
     "website": "https://devgamm.com/madeira2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://devgamm.com/madeira2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-077",
@@ -10587,7 +10597,7 @@
     "website": "https://www.ana.net/conference/show/id/BIC-MAY27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/BIC-MAY27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-078",
@@ -10622,7 +10632,7 @@
     "website": "https://www.g2easia.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.g2easia.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-079",
@@ -10657,7 +10667,7 @@
     "website": "https://www.ana.net/conference/show/id/B2BANC-MAY27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/B2BANC-MAY27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-080",
@@ -10693,7 +10703,7 @@
     "website": "https://asiatechxsg.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://asiatechxsg.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-081",
@@ -10729,7 +10739,7 @@
     "website": "https://wnhub.io/event-info/growth-summit-27",
     "dateStatus": "Announced",
     "sourceUrl": "https://wnhub.io/event-info/growth-summit-27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-082",
@@ -10764,7 +10774,7 @@
     "website": "https://island-conference.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://island-conference.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-083",
@@ -10798,7 +10808,7 @@
     "website": "https://www.ana.net/conference/show/id/MFM-OCT27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/MFM-OCT27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-084",
@@ -10833,7 +10843,7 @@
     "website": "https://www.gartner.com/en/conferences/na/marketing-symposium-us",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.gartner.com/en/conferences/na/marketing-symposium-us",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-085",
@@ -10867,7 +10877,7 @@
     "website": "https://growthshow.commercenext.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://growthshow.commercenext.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-086",
@@ -10900,10 +10910,10 @@
     ],
     "bestFor": "Technology platforms, startup founders, investors, partnership teams",
     "shortDescription": "Technology conference connecting startups, investors, platforms and business partners in Latin America.",
-    "website": "https://rio.websummit.com/",
+    "website": "https://rio.websummit.com/en/",
     "dateStatus": "Announced",
-    "sourceUrl": "https://rio.websummit.com/",
-    "verifiedOn": "2026-10-19"
+    "sourceUrl": "https://rio.websummit.com/en/",
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-087",
@@ -10939,7 +10949,7 @@
     "website": "https://vivatech.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://vivatech.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-088",
@@ -10974,7 +10984,7 @@
     "website": "https://www.affafrica.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.affafrica.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-089",
@@ -11009,14 +11019,14 @@
     "website": "https://dev.gamescom.global/",
     "dateStatus": "Announced",
     "sourceUrl": "https://dev.gamescom.global/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-090",
     "slug": "gamescom-2027",
     "status": "Upcoming",
     "name": "gamescom 2027",
-    "startDate": "2027-08-23",
+    "startDate": "2027-08-25",
     "endDate": "2027-08-29",
     "month": "August",
     "quarter": "Q3",
@@ -11040,12 +11050,12 @@
       "Lead generation"
     ],
     "bestFor": "Game developers, publishers, studio leaders, investors",
-    "shortDescription": "Gamescom week combines industry business, developer activity and public showcases. Business and Media Day is August 25; public entry starts August 26.",
-    "website": "https://www.gamescom.global/en/info/press-and-creator/participation-for-media-representatives",
+    "shortDescription": "Games industry trade fair and public exhibition at Koelnmesse. Opening Night Live is August 24; gamescom dev has a separate listing.",
+    "website": "https://www.gamescom.global/en/gamescom-2026-expands-leading-position-more-exhibitors-bigger-indie-area-and-strong-international-presence",
     "dateStatus": "Announced",
-    "sourceUrl": "https://www.gamescom.global/en/info/press-and-creator/participation-for-media-representatives",
-    "verifiedOn": "2026-10-19",
-    "dateNote": "Whole gamescom week; business/media day August 25, public access August 26-29. gamescom dev is also listed separately."
+    "sourceUrl": "https://www.gamescom.global/en/gamescom-2026-expands-leading-position-more-exhibitors-bigger-indie-area-and-strong-international-presence",
+    "verifiedOn": "2026-10-20",
+    "dateNote": "Exhibition: 25–29 August. Opening Night Live: 24 August. Developer conference: 23–24 August (listed separately)."
   },
   {
     "id": "E27-091",
@@ -11080,7 +11090,7 @@
     "website": "https://www.conversion-conf.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.conversion-conf.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-092",
@@ -11114,7 +11124,7 @@
     "website": "https://www.ana.net/conference/show/id/ROI-SEP27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/ROI-SEP27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-093",
@@ -11149,7 +11159,7 @@
     "website": "https://www.technologyformarketing.co.uk/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.technologyformarketing.co.uk/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-094",
@@ -11184,7 +11194,7 @@
     "website": "https://www.globalgamingexpo.com/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.globalgamingexpo.com/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-095",
@@ -11219,7 +11229,7 @@
     "website": "https://www.ana.net/conference/show/id/MLC-JUN27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/MLC-JUN27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-096",
@@ -11254,7 +11264,7 @@
     "website": "https://www.ana.net/conference/show/id/ANC-OCT27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/ANC-OCT27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-097",
@@ -11289,7 +11299,7 @@
     "website": "https://wnhub.io/event-info/cyprus27",
     "dateStatus": "Announced",
     "sourceUrl": "https://wnhub.io/event-info/cyprus27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-098",
@@ -11324,7 +11334,7 @@
     "website": "https://www.ana.net/conference/show/id/MCC-NOV27",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.ana.net/conference/show/id/MCC-NOV27",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-099",
@@ -11359,7 +11369,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "locationNote": "Florida, USA; city and venue TBA"
   },
   {
@@ -11394,7 +11404,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "locationNote": "Florida, USA; city and venue TBA"
   },
   {
@@ -11430,7 +11440,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-102",
@@ -11465,7 +11475,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-103",
@@ -11500,7 +11510,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-104",
@@ -11536,7 +11546,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-105",
@@ -11571,7 +11581,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-106",
@@ -11606,7 +11616,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-107",
@@ -11641,7 +11651,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-108",
@@ -11676,7 +11686,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-109",
@@ -11711,7 +11721,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-110",
@@ -11746,7 +11756,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-111",
@@ -11780,7 +11790,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-112",
@@ -11816,7 +11826,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-113",
@@ -11852,7 +11862,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-114",
@@ -11887,7 +11897,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-115",
@@ -11922,7 +11932,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-116",
@@ -11957,7 +11967,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-117",
@@ -11992,7 +12002,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-118",
@@ -12027,7 +12037,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-119",
@@ -12063,7 +12073,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "id": "E27-120",
@@ -12098,7 +12108,7 @@
     "website": "https://www.mediapost.com/events/2027/",
     "dateStatus": "Announced",
     "sourceUrl": "https://www.mediapost.com/events/2027/",
-    "verifiedOn": "2026-10-19"
+    "verifiedOn": "2026-10-20"
   },
   {
     "status": "Upcoming",
@@ -12108,7 +12118,7 @@
       "Partnerships",
       "Lead generation"
     ],
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "id": "E27-121",
     "slug": "brand-ai-safety-summit-singapore-2027",
     "name": "Brand & AI Safety Summit Singapore 2027",
@@ -12134,7 +12144,7 @@
     "bestFor": "Advertisers, agencies and adtech partners focused on inventory quality and brand suitability",
     "shortDescription": "One-day summit for brands, media buyers and adtech leaders on brand safety, AI safety and trust in digital advertising.",
     "website": "https://brandsafetysummit.com/singapore-27",
-    "sourceUrl": "https://brandsafetysummit.com/",
+    "sourceUrl": "https://brandsafetysummit.com/singapore-27",
     "dateStatus": "Announced"
   },
   {
@@ -12145,7 +12155,7 @@
       "Partnerships",
       "Lead generation"
     ],
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "id": "E27-122",
     "slug": "unlocked-mobile-app-growth-summit-singapore-2027",
     "name": "Unlocked: Mobile & App Growth Summit Singapore 2027",
@@ -12182,7 +12192,7 @@
       "Partnerships",
       "Lead generation"
     ],
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "id": "E27-123",
     "slug": "programmatic-beyond-athens-2027",
     "name": "Programmatic & Beyond Conference 2027",
@@ -12191,8 +12201,8 @@
     "month": "",
     "quarter": "",
     "region": "Europe",
-    "country": "Greece",
-    "city": "Athens",
+    "country": "Location TBA",
+    "city": "",
     "mainCategory": "AdTech / Programmatic",
     "verticalTags": [
       "AdTech",
@@ -12209,46 +12219,8 @@
     "shortDescription": "Focused conference for agencies, publishers and adtech providers on programmatic, AI, measurement and CTV. Interest registration is open for 2027; exact dates are pending.",
     "website": "https://programmatic.boussiasevents.gr/",
     "sourceUrl": "https://programmatic.boussiasevents.gr/",
-    "dateStatus": "TBA"
-  },
-  {
-    "id": "E27-124",
-    "slug": "app-growth-summit-paris-2027",
-    "status": "Upcoming",
-    "year": 2027,
-    "name": "App Growth Summit Paris 2027",
-    "startDate": "2027-05-27",
-    "endDate": "2027-05-27",
-    "month": "May",
-    "quarter": "Q2",
-    "region": "Europe",
-    "country": "France",
-    "city": "Paris",
-    "mainCategory": "Mobile / App Growth",
-    "verticalTags": [
-      "Mobile",
-      "App Growth",
-      "User Acquisition",
-      "Monetization"
-    ],
-    "audienceTags": [
-      "app marketers",
-      "UA leads",
-      "product and monetization teams"
-    ],
-    "goalTags": [
-      "Networking",
-      "Partnerships",
-      "Lead generation"
-    ],
-    "bestFor": "App advertisers, user acquisition and monetization teams",
-    "shortDescription": "Curated app growth summit covering acquisition, creative, retention and monetization.",
-    "website": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
-    "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-paris-2027/",
-    "verifiedOn": "2026-10-19",
-    "dateStatus": "Announced",
-    "format": "Conference",
-    "accessNote": "Vendors and service providers participate through sponsorship; no standard vendor tickets."
+    "dateStatus": "TBA",
+    "dateNote": "2027 edition announced; exact dates and venue pending. Previous edition: Athens, Greece."
   },
   {
     "id": "E27-125",
@@ -12283,7 +12255,7 @@
     "shortDescription": "ExchangeWire summit connecting APAC advertising technology, media and programmatic leaders.",
     "website": "https://www.exchangewire.com/events/",
     "sourceUrl": "https://www.exchangewire.com/events/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12322,7 +12294,7 @@
     "shortDescription": "Summit for streaming and premium TV businesses on audiences, advertising revenue and distribution.",
     "website": "https://www.adwantedevents.com/ctvws27",
     "sourceUrl": "https://www.adwantedevents.com/ctvws27",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12361,7 +12333,7 @@
     "shortDescription": "Digital video marketplace connecting brands and agencies with content, platforms and advertising opportunities.",
     "website": "https://www.iab.com/events/2027-iab-newfronts/",
     "sourceUrl": "https://www.iab.com/events/2027-iab-newfronts/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12371,10 +12343,10 @@
     "status": "Upcoming",
     "year": 2027,
     "name": "IAB Connected Commerce Summit 2027",
-    "startDate": "2027-04-20",
-    "endDate": "2027-04-20",
-    "month": "April",
-    "quarter": "Q2",
+    "startDate": "",
+    "endDate": "",
+    "month": "",
+    "quarter": "",
     "region": "North America",
     "country": "USA",
     "city": "New York",
@@ -12398,10 +12370,11 @@
     "bestFor": "Commerce media buyers, brands, retailers and advertising partners",
     "shortDescription": "Commerce media summit covering measurement, incrementality and connected shopping journeys.",
     "website": "https://www.iab.com/events/2027-iab-connected-commerce-summit/",
-    "sourceUrl": "https://www.iab.com/",
-    "verifiedOn": "2026-10-19",
-    "dateStatus": "Announced",
-    "format": "Conference"
+    "sourceUrl": "https://www.iab.com/events/2027-iab-connected-commerce-summit/",
+    "verifiedOn": "2026-10-20",
+    "dateStatus": "TBA",
+    "format": "Conference",
+    "dateNote": "A previously published April 20 date is no longer visible on the current organizer page. Exact date held for reconfirmation."
   },
   {
     "id": "E27-129",
@@ -12436,7 +12409,7 @@
     "shortDescription": "Brazilian gaming business summit for operators, affiliates and commercial partners at Riocentro.",
     "website": "https://sbcevents.com/sbc-summit-rio/",
     "sourceUrl": "https://sbcevents.com/sbc-summit-rio/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12472,7 +12445,7 @@
     "shortDescription": "B2B gaming conference connecting studios, publishers, investors and technology providers.",
     "website": "https://www.globalgamesshow.com/",
     "sourceUrl": "https://www.globalgamesshow.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12508,7 +12481,7 @@
     "shortDescription": "Curated games industry gathering for studio leaders, publishers and business partners.",
     "website": "https://www.splitscreencroatia.com/",
     "sourceUrl": "https://www.splitscreencroatia.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12544,7 +12517,7 @@
     "shortDescription": "Game development conference with industry talks, studio networking and business opportunities.",
     "website": "https://game-access.com/conference/",
     "sourceUrl": "https://game-access.com/conference/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12580,7 +12553,7 @@
     "shortDescription": "Games industry conference linking studios, publishers, investors and service partners.",
     "website": "https://conference.digitaldragons.pl/",
     "sourceUrl": "https://conference.digitaldragons.pl/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12616,7 +12589,7 @@
     "shortDescription": "Games business summit for industry partnerships, market insight and studio growth.",
     "website": "https://xpgamesummit.com/",
     "sourceUrl": "https://xpgamesummit.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12650,9 +12623,9 @@
     ],
     "bestFor": "Game studios, publishers and business development teams",
     "shortDescription": "Professional games industry gathering with talks, knowledge sharing and studio networking.",
-    "website": "https://fr.linkedin.com/company/game-camp-france",
+    "website": "https://gamecamp.fr/",
     "sourceUrl": "https://fr.linkedin.com/company/game-camp-france",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12688,7 +12661,7 @@
     "shortDescription": "Focused games industry summit on external development, outsourcing and production partnerships.",
     "website": "https://xdsummit.com/",
     "sourceUrl": "https://xdsummit.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12726,7 +12699,7 @@
     "shortDescription": "Mobile app developer conference for engineering, product and platform partnerships; less focused on paid UA.",
     "website": "https://www.nextappcon.com/",
     "sourceUrl": "https://www.nextappcon.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12762,7 +12735,7 @@
     "shortDescription": "African iGaming industry summit for operators, technology providers and regional partnerships.",
     "website": "https://www.bigafricasummit.com/",
     "sourceUrl": "https://www.bigafricasummit.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference",
     "dateNote": "Organizer site and organizer calendar agree on 1–4 February; secondary calendars contain different dates."
@@ -12799,7 +12772,7 @@
     "shortDescription": "Regional gaming summit for market entry, local acquisition strategy and industry partnerships.",
     "website": "https://www.eventus-international.com/mega",
     "sourceUrl": "https://www.eventus-international.com/mega",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12834,8 +12807,8 @@
     "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
     "shortDescription": "South Asian gaming business summit covering market development, technology and commercial partnerships.",
     "website": "https://www.spiceseries.com/ssa",
-    "sourceUrl": "https://www.spiceseries.com/spice-south-asia",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://www.spiceseries.com/ssa",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12871,7 +12844,7 @@
     "shortDescription": "Regional operator and supplier summit for East African betting and gaming markets.",
     "website": "https://www.sportsbettingevents.com/sbea",
     "sourceUrl": "https://www.sportsbettingevents.com/sbea",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12907,7 +12880,7 @@
     "shortDescription": "Focused summit for operators, suppliers and commercial teams in the German gaming market.",
     "website": "https://www.eventus-international.com/igg",
     "sourceUrl": "https://www.eventus-international.com/igg",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12943,7 +12916,7 @@
     "shortDescription": "Gaming retail and omnichannel business summit for operators and technology providers.",
     "website": "https://www.eventus-international.com/gaming-retail",
     "sourceUrl": "https://www.eventus-international.com/gaming-retail",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -12979,7 +12952,7 @@
     "shortDescription": "Regional gaming and integrated resort summit for commercial development and industry partnerships.",
     "website": "https://www.spiceseries.com/sea",
     "sourceUrl": "https://www.spiceseries.com/sea",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -13016,7 +12989,7 @@
     "shortDescription": "Focused iGaming summit covering growth, acquisition, technology and operational development.",
     "website": "https://www.eventus-international.com/cyprus-gaming-show",
     "sourceUrl": "https://www.eventus-international.com/cyprus-gaming-show",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -13052,7 +13025,7 @@
     "shortDescription": "Regional gaming conference connecting operators, providers and commercial partners across Southeast Asia.",
     "website": "https://www.spiceseries.com/ssea",
     "sourceUrl": "https://www.spiceseries.com/ssea",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -13090,7 +13063,7 @@
     "shortDescription": "Affiliate and customer acquisition summit linking brands, buyers, networks and technology partners.",
     "website": "https://www.spiceseries.com/sa",
     "sourceUrl": "https://www.spiceseries.com/sa",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -13127,7 +13100,7 @@
     "shortDescription": "Gaming market summit covering regional growth, affiliate strategy and technology partnerships.",
     "website": "https://www.spiceseries.com/sca",
     "sourceUrl": "https://www.spiceseries.com/sca",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Conference"
   },
@@ -13165,7 +13138,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Virtual summit"
   },
@@ -13202,8 +13175,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/berlin",
-    "sourceUrl": "https://themartechsummit.com/berlin",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13240,8 +13213,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/singapore",
-    "sourceUrl": "https://themartechsummit.com/singapore",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13278,8 +13251,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/paris",
-    "sourceUrl": "https://themartechsummit.com/paris",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13316,8 +13289,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/stockholm",
-    "sourceUrl": "https://themartechsummit.com/stockholm",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13354,8 +13327,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/madrid",
-    "sourceUrl": "https://themartechsummit.com/madrid",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13392,8 +13365,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/amsterdam",
-    "sourceUrl": "https://themartechsummit.com/amsterdam",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13430,8 +13403,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/manila",
-    "sourceUrl": "https://themartechsummit.com/manila",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13468,8 +13441,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/hongkong",
-    "sourceUrl": "https://themartechsummit.com/hongkong",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13507,7 +13480,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13545,7 +13518,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13582,8 +13555,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/dubai",
-    "sourceUrl": "https://themartechsummit.com/dubai",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13621,7 +13594,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Virtual summit"
   },
@@ -13658,8 +13631,8 @@
     "bestFor": "Brand marketing, performance, data and marketing technology teams",
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/bangkok",
-    "sourceUrl": "https://themartechsummit.com/bangkok",
-    "verifiedOn": "2026-10-19",
+    "sourceUrl": "https://themartechsummit.com/summit-dates/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13697,7 +13670,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13735,7 +13708,7 @@
     "shortDescription": "Marketing technology summit for brand, growth, data and performance teams to exchange strategies and meet partners.",
     "website": "https://themartechsummit.com/summit-dates/",
     "sourceUrl": "https://themartechsummit.com/summit-dates/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Announced",
     "format": "Summit"
   },
@@ -13771,7 +13744,7 @@
     "shortDescription": "Games industry networking for developers, publishers, investors and service partners.",
     "website": "https://wnhub.io/event-info/abu-dhabi-27",
     "sourceUrl": "https://wnhub.io/event-info/abu-dhabi-27",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "February 2027"
@@ -13808,7 +13781,7 @@
     "shortDescription": "Games business gathering for studios, publishers and commercial partners.",
     "website": "https://wnhub.io/event-info/istanbul27",
     "sourceUrl": "https://wnhub.io/event-info/istanbul27",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "June 2027"
@@ -13845,7 +13818,7 @@
     "shortDescription": "Games industry business dinner for studio, publishing and partnership leaders.",
     "website": "https://wnhub.io/event-info/wn-shanghai-27",
     "sourceUrl": "https://wnhub.io/event-info/wn-shanghai-27",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "July 2027"
@@ -13882,7 +13855,7 @@
     "shortDescription": "B2B games event for studios, publishers, investors and industry partners.",
     "website": "https://devgamm.com/",
     "sourceUrl": "https://devgamm.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "Spring 2027"
@@ -13922,7 +13895,7 @@
     "shortDescription": "Focused mobile game UA and ad monetization gathering with practitioner roundtables.",
     "website": "https://www.globalgamesforum.com/hamburg",
     "sourceUrl": "https://www.globalgamesforum.com/hamburg",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -13961,7 +13934,7 @@
     "shortDescription": "Digital marketing forum for brand, growth and technology leaders.",
     "website": "https://www.digitalmarketing-conference.com/northamerica/",
     "sourceUrl": "https://www.digitalmarketing-conference.com/northamerica/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "September 2027"
@@ -14000,7 +13973,7 @@
     "shortDescription": "Asian digital marketing forum for brands, agencies and marketing technology partners.",
     "website": "https://www.digitalmarketing-conference.com/asia/",
     "sourceUrl": "https://www.digitalmarketing-conference.com/asia/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14036,9 +14009,9 @@
     ],
     "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
     "shortDescription": "Regional gaming and affiliate business summit connecting operators, networks and suppliers.",
-    "website": "https://sigma.world/summits/asia/exhibit/",
-    "sourceUrl": "https://sigma.world/summits/asia/exhibit/",
-    "verifiedOn": "2026-10-19",
+    "website": "https://sigma.world/summits/asia/",
+    "sourceUrl": "https://sigma.world/summits/asia/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "June 2027"
@@ -14074,9 +14047,9 @@
     ],
     "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
     "shortDescription": "Gaming and affiliate business event for commercial teams in the Americas.",
-    "website": "https://sigma.world/summits/asia/exhibit/",
-    "sourceUrl": "https://sigma.world/summits/asia/exhibit/",
-    "verifiedOn": "2026-10-19",
+    "website": "https://sigma.world/summits/north-america/",
+    "sourceUrl": "https://sigma.world/summits/north-america/",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "September 2027"
@@ -14113,9 +14086,9 @@
     ],
     "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
     "shortDescription": "Affiliate marketing conference for advertisers, networks, traffic sources and performance partners.",
-    "website": "https://www.affiliateworldevents.com/",
+    "website": "https://www.affiliateworldevents.com/dubai",
     "sourceUrl": "https://www.affiliateworldevents.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14152,9 +14125,9 @@
     ],
     "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
     "shortDescription": "European affiliate gathering for performance marketers, advertisers and networks.",
-    "website": "https://www.affiliateworldevents.com/",
+    "website": "https://www.affiliateworldevents.com/europe",
     "sourceUrl": "https://www.affiliateworldevents.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14191,9 +14164,9 @@
     ],
     "bestFor": "Affiliate networks, traffic partners, advertisers and performance teams",
     "shortDescription": "Affiliate industry gathering for performance teams and advertisers working across the Americas.",
-    "website": "https://www.affiliateworldevents.com/",
+    "website": "https://www.affiliateworldevents.com/americas",
     "sourceUrl": "https://www.affiliateworldevents.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14231,7 +14204,7 @@
     "shortDescription": "Gaming industry summit for operators, affiliates, acquisition and technology partners.",
     "website": "https://sbcevents.com/sbc-summit-americas/",
     "sourceUrl": "https://sbcevents.com/sbc-summit-americas/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14268,7 +14241,7 @@
     "shortDescription": "Regional gaming summit covering market development, data and industry partnerships.",
     "website": "https://www.hipther.com/igaming",
     "sourceUrl": "https://www.hipther.com/igaming",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "June 2027"
@@ -14307,7 +14280,7 @@
     "shortDescription": "Digital commerce and retail technology gathering. Next-edition location and exact dates are pending.",
     "website": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
     "sourceUrl": "https://www.terrapinn.com/exhibition/seamless-middle-east/index.stm",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14345,7 +14318,7 @@
     "shortDescription": "ExchangeWire has signalled the return of ATS London in 2027; exact dates are not published.",
     "website": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/",
     "sourceUrl": "https://www.exchangewire.com/ew-podcast/iab-uks-digital-adspend-ats-london-2026-highlights/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14361,8 +14334,8 @@
     "month": "",
     "quarter": "",
     "region": "Europe",
-    "country": "UK",
-    "city": "London",
+    "country": "Location TBA",
+    "city": "",
     "mainCategory": "Affiliate / Performance",
     "verticalTags": [
       "Affiliate",
@@ -14384,10 +14357,11 @@
     "shortDescription": "Partner and affiliate marketing event; organizer is collecting waitlist interest for 2027.",
     "website": "https://performancein.live/europe/passes/",
     "sourceUrl": "https://performancein.live/europe/passes/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
-    "announcedWindow": "2027"
+    "announcedWindow": "2027",
+    "dateNote": "2027 edition announced; exact dates and venue pending. Previous edition: London, UK."
   },
   {
     "id": "E27-182",
@@ -14419,9 +14393,9 @@
     ],
     "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
     "shortDescription": "Regional gaming and betting business summit; 2027 is listed in the organizer calendar.",
-    "website": "https://www.eventus-international.com/",
+    "website": "https://www.sportsbettingevents.com/sbwa",
     "sourceUrl": "https://www.eventus-international.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "October 2027"
@@ -14456,9 +14430,9 @@
     ],
     "bestFor": "Operators, acquisition teams, affiliates and regional technology partners",
     "shortDescription": "Francophone African gaming business gathering; 2027 is listed in the organizer calendar.",
-    "website": "https://www.eventus-international.com/",
+    "website": "https://www.sportsbettingevents.com/gefa",
     "sourceUrl": "https://www.eventus-international.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "October 2027"
@@ -14469,10 +14443,10 @@
     "status": "Upcoming",
     "year": 2027,
     "name": "Portside Game Assembly 2027",
-    "startDate": "",
-    "endDate": "",
-    "month": "",
-    "quarter": "",
+    "startDate": "2027-07-01",
+    "endDate": "2027-07-02",
+    "month": "July",
+    "quarter": "Q3",
     "region": "Europe",
     "country": "Germany",
     "city": "Hamburg",
@@ -14482,25 +14456,23 @@
       "Game Publishing"
     ],
     "audienceTags": [
-      "game studios",
-      "publishers",
-      "industry partners"
+      "independent game studio founders",
+      "studio leaders"
     ],
     "goalTags": [
       "Networking",
       "Partnerships",
       "Lead generation"
     ],
-    "bestFor": "Game studios, publishers and business development teams",
-    "shortDescription": "Curated meeting for indie studio leaders. Organizer pages show conflicting 2027 dates; verify before booking.",
+    "bestFor": "Established independent game studio founders and leaders",
+    "shortDescription": "Curated games industry gathering in Hamburg for established independent studio founders and leaders.",
     "website": "https://portsideassembly.com/",
     "sourceUrl": "https://portsideassembly.com/",
-    "verifiedOn": "2026-10-19",
-    "dateStatus": "TBA",
+    "verifiedOn": "2026-10-20",
+    "dateStatus": "Announced",
     "format": "Conference",
-    "announcedWindow": "2027 — dates under review",
-    "dateNote": "Date conflict: homepage lists 1–2 July; About page lists 24–25 June 2027. Exact days held for review.",
-    "accessNote": "Conference is curated for established indie studio heads; check partner access."
+    "dateNote": "Homepage and About page now agree on July 1–2, 2027.",
+    "accessNote": "Full conference access is curated for established indie studio decision makers. Other industry participants should check separate networking access."
   },
   {
     "id": "E27-185",
@@ -14534,7 +14506,7 @@
     "shortDescription": "Indie games showcase and industry gathering; applications for the 2027 edition are open.",
     "website": "https://www.gamedevlocal.com/gdlx",
     "sourceUrl": "https://www.gamedevlocal.com/gdlx",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Conference",
     "announcedWindow": "2027"
@@ -14573,7 +14545,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14612,7 +14584,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14651,7 +14623,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14690,7 +14662,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14729,7 +14701,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14768,7 +14740,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14807,7 +14779,7 @@
     "shortDescription": "Affiliate networking meetup for advertisers, networks, media buyers and traffic partners. Listed on the organizer 2027 tour; exact dates pending.",
     "website": "https://ttmeetup.com/",
     "sourceUrl": "https://ttmeetup.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "TBA",
     "format": "Meetup",
     "announcedWindow": "2027"
@@ -14846,7 +14818,7 @@
     "shortDescription": "Focused app growth community event covering ASO, paid acquisition, retention and monetization.",
     "website": "https://growthphestival.com/",
     "sourceUrl": "https://growthphestival.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -14886,7 +14858,7 @@
     "shortDescription": "Small mobile app and gaming business conference covering growth, product and monetization.",
     "website": "https://appgala.events/",
     "sourceUrl": "https://appgala.events/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -14926,7 +14898,7 @@
     "shortDescription": "Small app industry event for marketing, product and growth teams.",
     "website": "https://appgala.events/",
     "sourceUrl": "https://appgala.events/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -14966,7 +14938,7 @@
     "shortDescription": "Practitioner gathering for mobile UA, retention and creative teams.",
     "website": "https://uasociety.events/ua-society-summit-2026-london-uk/",
     "sourceUrl": "https://uasociety.events/ua-society-summit-2026-london-uk/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15007,7 +14979,7 @@
     "shortDescription": "Russian-language practitioner conference on app store optimization and mobile app growth.",
     "website": "https://asospot.com/",
     "sourceUrl": "https://asospot.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15047,7 +15019,7 @@
     "shortDescription": "App business gathering with growth workshops and monetization discussions.",
     "website": "https://appgrowthannual.com/",
     "sourceUrl": "https://appgrowthannual.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15087,7 +15059,7 @@
     "shortDescription": "Focused European app growth event for marketing, product and UX leaders.",
     "website": "https://mobileappgrowthsummit.com/amsterdam/",
     "sourceUrl": "https://mobileappgrowthsummit.com/amsterdam/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15127,7 +15099,7 @@
     "shortDescription": "App marketing community gathering on measurement, incrementality, creative and growth.",
     "website": "https://www.appsflyer.com/events/mama-san-francisco-2026/",
     "sourceUrl": "https://www.appsflyer.com/events/mama-san-francisco-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15167,7 +15139,7 @@
     "shortDescription": "Mobile apps, games and advertising technology event for app businesses and partners.",
     "website": "https://israelmobilesummit.com/",
     "sourceUrl": "https://israelmobilesummit.com/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15207,7 +15179,7 @@
     "shortDescription": "Curated app growth gathering for user acquisition, retention and product teams.",
     "website": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/",
     "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-berlin-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15248,7 +15220,7 @@
     "shortDescription": "Curated mobile marketing and product gathering for growth practitioners.",
     "website": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/",
     "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-london-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15289,7 +15261,7 @@
     "shortDescription": "App growth community event for acquisition, retention, creative and monetization teams.",
     "website": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/",
     "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sf-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15330,7 +15302,7 @@
     "shortDescription": "Regional app growth community gathering for Latin American app businesses.",
     "website": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/",
     "sourceUrl": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15370,7 +15342,7 @@
     "shortDescription": "Open-source advertising technology community gathering for publishers, platforms and engineering partners.",
     "website": "https://www.prebidsummit.org/",
     "sourceUrl": "https://www.prebidsummit.org/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15409,7 +15381,7 @@
     "shortDescription": "Technical community event for open-source advertising infrastructure and integration partners.",
     "website": "https://prebid.org/calendar/",
     "sourceUrl": "https://prebid.org/calendar/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15448,7 +15420,7 @@
     "shortDescription": "Curated publisher revenue and ad operations gathering with partner participation.",
     "website": "https://www.beeler.tech/events/",
     "sourceUrl": "https://www.beeler.tech/events/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15490,7 +15462,7 @@
     "shortDescription": "Focused gathering for Vietnamese mobile studio and publisher executives.",
     "website": "https://www.globalgamesforum.com/mes-ho-chi-minh",
     "sourceUrl": "https://www.globalgamesforum.com/mes-ho-chi-minh",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "locationStatus": "Last published location; next edition unannounced"
@@ -15530,7 +15502,7 @@
     "shortDescription": "Focused mobile games community conference on UA and advertising monetization.",
     "website": "https://www.globalgamesforum.com/san-francisco",
     "sourceUrl": "https://www.globalgamesforum.com/san-francisco",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15571,7 +15543,7 @@
     "shortDescription": "Focused mobile game marketing, product and monetization gathering.",
     "website": "https://www.globalgamesforum.com/vancouver",
     "sourceUrl": "https://www.globalgamesforum.com/vancouver",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15612,7 +15584,7 @@
     "shortDescription": "Regional mobile games growth gathering connecting studios, publishers and advertising partners.",
     "website": "https://www.globalgamesforum.com/vietnam",
     "sourceUrl": "https://www.globalgamesforum.com/vietnam",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
@@ -15653,7 +15625,7 @@
     "shortDescription": "Games industry conference with mobile publishing, growth and partnership opportunities.",
     "website": "https://mobidictum.com/events/mobidictum-conference-2026/",
     "sourceUrl": "https://mobidictum.com/events/mobidictum-conference-2026/",
-    "verifiedOn": "2026-10-19",
+    "verifiedOn": "2026-10-20",
     "dateStatus": "Watchlist",
     "format": "Conference",
     "lastEdition": "2026",
