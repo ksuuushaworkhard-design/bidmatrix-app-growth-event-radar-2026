@@ -9,7 +9,6 @@ const state = {
     region: "",
     mainCategory: "",
     quarter: "",
-    dateStatus: "",
   },
 };
 
@@ -18,7 +17,6 @@ const filterIds = {
   region: "regionFilter",
   mainCategory: "mainCategoryFilter",
   quarter: "quarterFilter",
-  dateStatus: "dateStatusFilter",
 };
 
 const searchableFields = [
@@ -50,7 +48,7 @@ const elements = {
 async function init() {
   try {
     assertRequiredElements();
-    const response = await fetch("events.json?v=2027-20261019-r4");
+    const response = await fetch("events.json?v=2027-20261020-r1");
     if (!response.ok) throw new Error(`Unable to load events.json (${response.status})`);
     state.events = await response.json();
     populateFilters();
@@ -167,7 +165,6 @@ function clearAllFilters() {
     region: "",
     mainCategory: "",
     quarter: "",
-    dateStatus: "",
   };
 
   populateFilters();
@@ -184,7 +181,7 @@ function populateFilters(year = state.applied.year) {
     select.innerHTML = key === "year" ? "" : `<option value="">All ${labelFor(key)}</option>`;
     getOptionsForKey(key, year).forEach((option) => {
       const count = state.events.filter((event) => eventYear(event) === year && eventMatchesFilter(event, key, option)).length;
-      select.appendChild(new Option(key === "year" ? option : `${optionLabel(key, option)} (${count})`, option));
+      select.appendChild(new Option(key === "year" ? option : `${option} (${count})`, option));
     });
     select.value = key === "year" ? year : getOptionsForKey(key, year).includes(previous) ? previous : "";
   });
@@ -197,7 +194,7 @@ function updateFacetCounts() {
     const select = document.querySelector(`#${id}`);
     [...select.options].filter((option) => option.value).forEach((option) => {
       const count = facetCount(key, option.value, year);
-      option.textContent = `${optionLabel(key, option.value)} (${count})`;
+      option.textContent = `${option.value} (${count})`;
       option.disabled = count === 0;
     });
   });
@@ -222,7 +219,7 @@ function getOptionsForKey(key, year = state.applied.year) {
   if (key === "year") return [...new Set(state.events.map(eventYear))].sort().reverse();
   const values = new Set();
   state.events.filter((event) => eventYear(event) === year).forEach((event) => {
-    const options = key === "mainCategory" ? eventCategories(event) : [key === "dateStatus" ? eventDateStatus(event) : event[key]];
+    const options = key === "mainCategory" ? eventCategories(event) : [event[key]];
     options.filter(Boolean).forEach((value) => values.add(value));
   });
 
@@ -235,13 +232,7 @@ function labelFor(key) {
     region: "regions",
     mainCategory: "categories",
     quarter: "quarters",
-    dateStatus: "statuses",
   }[key] || key;
-}
-
-function optionLabel(key, value) {
-  if (key !== "dateStatus") return value;
-  return { Announced: "Dates announced", TBA: "Dates pending", Watchlist: "Series to watch", Archive: "Archive" }[value] || value;
 }
 
 function eventDateStatus(event) {
@@ -302,8 +293,8 @@ function renderActiveFilters() {
   if (!elements.activeFilters) return;
   const labels = [];
   if (state.applied.search) labels.push(`Search: ${state.applied.search}`);
-  for (const key of ["region", "mainCategory", "quarter", "dateStatus"]) {
-    if (state.applied[key]) labels.push(optionLabel(key, state.applied[key]));
+  for (const key of ["region", "mainCategory", "quarter"]) {
+    if (state.applied[key]) labels.push(state.applied[key]);
   }
   state.quickFilters.forEach((filter) => labels.push(filter.value));
   elements.activeFilters.textContent = labels.length ? `Active filters: ${labels.join(" · ")}` : "";
@@ -318,8 +309,7 @@ function filteredEvents() {
     const passesRegion = !state.applied.region || event.region === state.applied.region;
     const passesCategory = !state.applied.mainCategory || eventCategories(event).includes(state.applied.mainCategory);
     const passesQuarter = !state.applied.quarter || event.quarter === state.applied.quarter;
-    const passesStatus = !state.applied.dateStatus || eventDateStatus(event) === state.applied.dateStatus;
-    return passesYear && passesQuickFilters && passesSearch && passesRegion && passesCategory && passesQuarter && passesStatus;
+    return passesYear && passesQuickFilters && passesSearch && passesRegion && passesCategory && passesQuarter;
   });
 }
 
@@ -343,7 +333,6 @@ function eventMatchesQuickFilters(event, quickFilters = state.quickFilters) {
 
 function eventMatchesFilter(event, key, value) {
   if (key === "mainCategory") return eventCategories(event).includes(value);
-  if (key === "dateStatus") return eventDateStatus(event) === value;
   const eventValue = event[key];
   return Array.isArray(eventValue) ? eventValue.includes(value) : eventValue === value;
 }

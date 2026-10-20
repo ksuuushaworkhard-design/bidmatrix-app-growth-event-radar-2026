@@ -9,10 +9,10 @@ The URL deliberately stays the same so existing Wix iframes continue working. HT
 ## Behavior
 
 - Year defaults to 2027. Select 2026 to browse the archive, then Apply.
-- Search, Year, Region, Category, Quarter and Date status apply when clicking Apply or pressing Enter in search.
+- Search, Year, Region, Category and Quarter apply when clicking Apply or pressing Enter in search.
 - Quick chips update immediately, with OR within a chip type and AND between chip types. Region/category chips replace the corresponding applied dropdown; choosing that dropdown replaces chips in the same dimension.
 - Clear filters resets search, chips and the dropdown filters within the currently applied year.
-- Dated events sort by start date, then name. Announced editions awaiting dates and unannounced series appear in separate sections. A specific quarter excludes both undated groups. Date status can show only dated events, dates pending, or series to watch.
+- Dated events sort by start date, then name. Announced editions awaiting dates and unannounced series appear in separate sections. A specific quarter excludes both undated groups.
 - Date badges show the month once and numeric days: `JANUARY / 18 - 20`; cross-month events use `APR / MAY / 30 - 1`.
 - Visit Website opens the organizer's site in a new tab with `noopener noreferrer`.
 - The design retains Oswald + Roboto, dark panels and turquoise `#09CAB6` accents.

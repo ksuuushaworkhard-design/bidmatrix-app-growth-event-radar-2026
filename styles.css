@@ -183,7 +183,7 @@ select:focus {
 
 .filter-controls {
   display: grid;
-  grid-template-columns: 100px repeat(4, minmax(0, 1fr));
+  grid-template-columns: 100px repeat(3, minmax(0, 1fr)) 108px 152px;
   gap: 11px;
   margin-top: 14px;
   align-items: end;
